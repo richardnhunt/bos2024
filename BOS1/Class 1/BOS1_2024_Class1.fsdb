@@ -1,0 +1,604 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Fs version="3.5" comment="Supports only a single Fs element in a .fsdb file which must be the root element.">
+    <FsCompetition id="18185" name="BRITISH OPEN SERIES 2024 - ROUND 1 + BRITISH OPEN CHAMPIONSHIP" location="United Kingdom" from="2024-04-27" to="2024-05-01" discipline="hanggliding">
+        <FsScoreFormula id="GAP2018" min_dist="7" nom_dist="70" nom_time="1.5" nom_launch="0.96" nom_goal="0.25" day_quality_override="0" bonus_gr="4" jump_the_gun_factor="0" jump_the_gun_max="0" normalize_1000_before_day_quality="0" time_points_if_not_in_goal="0" use_1000_points_for_max_day_quality="0" use_arrival_position_points="0" use_arrival_time_points="0" use_departure_points="0" use_difficulty_for_distance_points="0" use_distance_points="1" use_distance_squared_for_LC="1" use_leading_points="1" use_semi_circle_control_zone_for_goal_line="1" use_time_points="1" scoring_altitude="GPS" final_glide_decelerator="none" no_final_glide_decelerator_reason="" min_time_span_for_valid_task="60" score_back_time="5" use_proportional_leading_weight_if_nobody_in_goal="1" leading_weight_factor="2" turnpoint_radius_tolerance="0.005"/>
+        <FsCompetitionNotes><![CDATA[]]></FsCompetitionNotes>
+        <FsParticipants>
+            <FsParticipant id="55" name="Andrew Lumb" nat_code_3166_a3="gbr" female="0" birthday="1969-05-30" glider="Wills Wing T2" glider_main_colors="Grey black" sponsor="Flypureair " fai_licence="0" CIVLID="82636">
+                <FsCustomAttributes>
+                    <FsCustomAttribute name="First name" value="Andrew"/>
+                    <FsCustomAttribute name="Last name" value="Lumb"/>
+                    <FsCustomAttribute name="Name in native language" value="Andrew Lumb"/>
+                    <FsCustomAttribute name="Nationality" value="United Kingdom"/>
+                    <FsCustomAttribute name="Email address" value="harrogateplastic@gmail.com"/>
+                    <FsCustomAttribute name="Country of Residence" value="United Kingdom"/>
+                    <FsCustomAttribute name="Postal address" value="68 Clifton Avenue,Leeds,LS9 6EX"/>
+                    <FsCustomAttribute name="Postal code" value="LS9 6EX"/>
+                    <FsCustomAttribute name="City" value="Leeds"/>
+                    <FsCustomAttribute name="Address" value="68 Clifton Avenue"/>
+                    <FsCustomAttribute name="Contact phone number" value="+07545235265"/>
+                    <FsCustomAttribute name="Phone for report back" value=""/>
+                    <FsCustomAttribute name="Wing Model" value="T2"/>
+                    <FsCustomAttribute name="Wing Manufacturer" value="Wills Wing"/>
+                    <FsCustomAttribute name="Wing certification" value=""/>
+                    <FsCustomAttribute name="FAI ID" value="164345"/>
+                    <FsCustomAttribute name="FAI Licence" value="355974"/>
+                    <FsCustomAttribute name="Nac Licence" value="BHPA/8179"/>
+                    <FsCustomAttribute name="National Licence" value="08179"/>
+                    <FsCustomAttribute name="Club" value="Dales"/>
+                    <FsCustomAttribute name="Team" value="Flypureair "/>
+                    <FsCustomAttribute name="T-shirt size" value="L"/>
+                    <FsCustomAttribute name="Food restriction" value=""/>
+                    <FsCustomAttribute name="Insurance company" value="Bhpa"/>
+                    <FsCustomAttribute name="Insurance policy" value="Bhpa"/>
+                    <FsCustomAttribute name="Contact person" value="Barbara liedtke"/>
+                    <FsCustomAttribute name="Contact person phone" value="+447739447830"/>
+                    <FsCustomAttribute name="Blood type" value="I do not know"/>
+                    <FsCustomAttribute name="Live" value=""/>
+                </FsCustomAttributes>
+            </FsParticipant>
+            <FsParticipant id="3042" name="Darren Brown" nat_code_3166_a3="gbr" female="0" birthday="1971-06-11" glider="Moyes Litespeed RX 3.5 Pro" glider_main_colors="Red" sponsor="BHPA" fai_licence="1" CIVLID="25384">
+                <FsCustomAttributes>
+                    <FsCustomAttribute name="First name" value="Darren"/>
+                    <FsCustomAttribute name="Last name" value="Brown"/>
+                    <FsCustomAttribute name="Name in native language" value="Darren Brown"/>
+                    <FsCustomAttribute name="Nationality" value="United Kingdom"/>
+                    <FsCustomAttribute name="Email address" value="darrenbrown50@hotmail.com"/>
+                    <FsCustomAttribute name="Country of Residence" value="unknown"/>
+                    <FsCustomAttribute name="Postal address" value="15 Alexandra Road, Bircotes, Doncaster, South Yorkshire, UK, DN118EZ"/>
+                    <FsCustomAttribute name="Postal code" value=""/>
+                    <FsCustomAttribute name="City" value=""/>
+                    <FsCustomAttribute name="Address" value="15 Alexandra Road, Bircotes, Doncaster, South Yorkshire, UK, DN118EZ"/>
+                    <FsCustomAttribute name="Contact phone number" value="+447525357030"/>
+                    <FsCustomAttribute name="Phone for report back" value=""/>
+                    <FsCustomAttribute name="Wing Model" value="Litespeed RX 3.5 Pro"/>
+                    <FsCustomAttribute name="Wing Manufacturer" value="Moyes"/>
+                    <FsCustomAttribute name="Wing certification" value=""/>
+                    <FsCustomAttribute name="FAI ID" value="66802"/>
+                    <FsCustomAttribute name="FAI Licence" value="381261"/>
+                    <FsCustomAttribute name="Nac Licence" value="BHPA/2338"/>
+                    <FsCustomAttribute name="National Licence" value="2338"/>
+                    <FsCustomAttribute name="Club" value="Derbyshire Soaring club"/>
+                    <FsCustomAttribute name="Team" value=""/>
+                    <FsCustomAttribute name="T-shirt size" value="M"/>
+                    <FsCustomAttribute name="Food restriction" value=""/>
+                    <FsCustomAttribute name="Insurance company" value="AXA"/>
+                    <FsCustomAttribute name="Insurance policy" value="TBA"/>
+                    <FsCustomAttribute name="Contact person" value="Harry Brown"/>
+                    <FsCustomAttribute name="Contact person phone" value="+07887593584"/>
+                    <FsCustomAttribute name="Blood type" value="I do not know"/>
+                    <FsCustomAttribute name="Live" value=""/>
+                </FsCustomAttributes>
+            </FsParticipant>
+            <FsParticipant id="28" name="Dave Barber" nat_code_3166_a3="gbr" female="0" birthday="1968-06-28" glider="Moyes Litespeed RX 3.5" glider_main_colors="White / Grey" sponsor="Jenny Barber" fai_licence="0" CIVLID="86241">
+                <FsCustomAttributes>
+                    <FsCustomAttribute name="First name" value="Dave"/>
+                    <FsCustomAttribute name="Last name" value="Barber"/>
+                    <FsCustomAttribute name="Name in native language" value="Dave Barber"/>
+                    <FsCustomAttribute name="Nationality" value="United Kingdom"/>
+                    <FsCustomAttribute name="Email address" value="info@davidbarber.co.uk"/>
+                    <FsCustomAttribute name="Country of Residence" value="United Kingdom"/>
+                    <FsCustomAttribute name="Postal address" value="3 Swedish Houses, Audlem Road, Hankelow, Crewe, Cheshire, CW30JF"/>
+                    <FsCustomAttribute name="Postal code" value=""/>
+                    <FsCustomAttribute name="City" value=""/>
+                    <FsCustomAttribute name="Address" value="3 Swedish Houses, Audlem Road, Hankelow, Crewe, Cheshire, CW30JF"/>
+                    <FsCustomAttribute name="Contact phone number" value="+07846045830"/>
+                    <FsCustomAttribute name="Phone for report back" value="+07846045830"/>
+                    <FsCustomAttribute name="Wing Model" value="Litespeed RX 3.5"/>
+                    <FsCustomAttribute name="Wing Manufacturer" value="Moyes"/>
+                    <FsCustomAttribute name="Wing certification" value=""/>
+                    <FsCustomAttribute name="FAI ID" value=""/>
+                    <FsCustomAttribute name="FAI Licence" value=""/>
+                    <FsCustomAttribute name="Nac Licence" value=""/>
+                    <FsCustomAttribute name="National Licence" value=""/>
+                    <FsCustomAttribute name="Club" value="DSC"/>
+                    <FsCustomAttribute name="Team" value=""/>
+                    <FsCustomAttribute name="T-shirt size" value="M"/>
+                    <FsCustomAttribute name="Food restriction" value=""/>
+                    <FsCustomAttribute name="Insurance company" value="NHS"/>
+                    <FsCustomAttribute name="Insurance policy" value="NHS"/>
+                    <FsCustomAttribute name="Contact person" value="Jenny Barber"/>
+                    <FsCustomAttribute name="Contact person phone" value="+07533519383"/>
+                    <FsCustomAttribute name="Blood type" value="I do not know"/>
+                    <FsCustomAttribute name="Live" value=""/>
+                </FsCustomAttributes>
+            </FsParticipant>
+            <FsParticipant id="22" name="Dave Cooper" nat_code_3166_a3="gbr" female="0" birthday="1962-01-22" glider="Wills Wing T2" glider_main_colors="Orange, Blue" sponsor="" fai_licence="0" CIVLID="6113">
+                <FsCustomAttributes>
+                    <FsCustomAttribute name="First name" value="Dave"/>
+                    <FsCustomAttribute name="Last name" value="Cooper"/>
+                    <FsCustomAttribute name="Name in native language" value="Dave Cooper"/>
+                    <FsCustomAttribute name="Nationality" value="United Kingdom"/>
+                    <FsCustomAttribute name="Email address" value="david.cooperdjc1@gmail.com"/>
+                    <FsCustomAttribute name="Country of Residence" value="United Kingdom"/>
+                    <FsCustomAttribute name="Postal address" value="Lima Farm, Blaze Hill, Rainow,Macclesfield,SK105BZ"/>
+                    <FsCustomAttribute name="Postal code" value="SK105BZ"/>
+                    <FsCustomAttribute name="City" value="Macclesfield"/>
+                    <FsCustomAttribute name="Address" value="Lima Farm, Blaze Hill, Rainow"/>
+                    <FsCustomAttribute name="Contact phone number" value="+447752211902"/>
+                    <FsCustomAttribute name="Phone for report back" value=""/>
+                    <FsCustomAttribute name="Wing Model" value="T2"/>
+                    <FsCustomAttribute name="Wing Manufacturer" value="Wills Wing"/>
+                    <FsCustomAttribute name="Wing certification" value=""/>
+                    <FsCustomAttribute name="FAI ID" value=""/>
+                    <FsCustomAttribute name="FAI Licence" value=""/>
+                    <FsCustomAttribute name="Nac Licence" value=""/>
+                    <FsCustomAttribute name="National Licence" value="06360"/>
+                    <FsCustomAttribute name="Club" value=""/>
+                    <FsCustomAttribute name="Team" value=""/>
+                    <FsCustomAttribute name="T-shirt size" value="L"/>
+                    <FsCustomAttribute name="Food restriction" value=""/>
+                    <FsCustomAttribute name="Insurance company" value="BHPA"/>
+                    <FsCustomAttribute name="Insurance policy" value="BHPA"/>
+                    <FsCustomAttribute name="Contact person" value="Will Cooper"/>
+                    <FsCustomAttribute name="Contact person phone" value="+447701343335"/>
+                    <FsCustomAttribute name="Blood type" value="A+"/>
+                    <FsCustomAttribute name="Live" value=""/>
+                </FsCustomAttributes>
+            </FsParticipant>
+            <FsParticipant id="70" name="Donnie Carson" nat_code_3166_a3="gbr" female="0" birthday="1953-10-10" glider="Moyes Litespeed RX 3.5 Pro" glider_main_colors="Blue, yellow, orange" sponsor="Irene" fai_licence="0" CIVLID="82645">
+                <FsCustomAttributes>
+                    <FsCustomAttribute name="First name" value="Donnie"/>
+                    <FsCustomAttribute name="Last name" value="Carson"/>
+                    <FsCustomAttribute name="Name in native language" value="Donnie Carson"/>
+                    <FsCustomAttribute name="Nationality" value="United Kingdom"/>
+                    <FsCustomAttribute name="Email address" value="dcarsonburnel@gmail.com"/>
+                    <FsCustomAttribute name="Country of Residence" value="United Kingdom"/>
+                    <FsCustomAttribute name="Postal address" value="Burnell, Balmenach, Cromdale,Grantown on Spey,PH26 3PF"/>
+                    <FsCustomAttribute name="Postal code" value="PH26 3PF"/>
+                    <FsCustomAttribute name="City" value="Grantown on Spey"/>
+                    <FsCustomAttribute name="Address" value="Burnell, Balmenach, Cromdale"/>
+                    <FsCustomAttribute name="Contact phone number" value="+447876192017"/>
+                    <FsCustomAttribute name="Phone for report back" value="+447876192017"/>
+                    <FsCustomAttribute name="Wing Model" value="Litespeed RX 3.5 Pro"/>
+                    <FsCustomAttribute name="Wing Manufacturer" value="Moyes"/>
+                    <FsCustomAttribute name="Wing certification" value=""/>
+                    <FsCustomAttribute name="FAI ID" value="106273"/>
+                    <FsCustomAttribute name="FAI Licence" value="363194"/>
+                    <FsCustomAttribute name="Nac Licence" value="BHPA/6171"/>
+                    <FsCustomAttribute name="National Licence" value="6171"/>
+                    <FsCustomAttribute name="Club" value="Scottish Hang Gliding Club"/>
+                    <FsCustomAttribute name="Team" value="Scottish Hang Gliding Club"/>
+                    <FsCustomAttribute name="T-shirt size" value="M"/>
+                    <FsCustomAttribute name="Food restriction" value=""/>
+                    <FsCustomAttribute name="Insurance company" value="BHPA"/>
+                    <FsCustomAttribute name="Insurance policy" value="BHPA"/>
+                    <FsCustomAttribute name="Contact person" value="Irene Carson"/>
+                    <FsCustomAttribute name="Contact person phone" value="+447876683987"/>
+                    <FsCustomAttribute name="Blood type" value="I do not know"/>
+                    <FsCustomAttribute name="Live" value=""/>
+                </FsCustomAttributes>
+            </FsParticipant>
+            <FsParticipant id="111" name="Gordon Rigg" nat_code_3166_a3="gbr" female="0" birthday="1962-12-02" glider="Moyes Litespeed RX 3.5 Pro" glider_main_colors="Grey blue  orange" sponsor="British HG &amp; PG Association" fai_licence="0" CIVLID="6433">
+                <FsCustomAttributes>
+                    <FsCustomAttribute name="First name" value="Gordon"/>
+                    <FsCustomAttribute name="Last name" value="Rigg"/>
+                    <FsCustomAttribute name="Name in native language" value="Gordon Rigg"/>
+                    <FsCustomAttribute name="Nationality" value="United Kingdom"/>
+                    <FsCustomAttribute name="Email address" value="moyesboy@gmail.com"/>
+                    <FsCustomAttribute name="Country of Residence" value="United Kingdom"/>
+                    <FsCustomAttribute name="Postal address" value="WINDY RIDGE, summer Cross, Tideswell"/>
+                    <FsCustomAttribute name="Postal code" value=""/>
+                    <FsCustomAttribute name="City" value=""/>
+                    <FsCustomAttribute name="Address" value="WINDY RIDGE, summer Cross, Tideswell"/>
+                    <FsCustomAttribute name="Contact phone number" value="+447776197362"/>
+                    <FsCustomAttribute name="Phone for report back" value=""/>
+                    <FsCustomAttribute name="Wing Model" value="Litespeed RX 3.5 Pro"/>
+                    <FsCustomAttribute name="Wing Manufacturer" value="Moyes"/>
+                    <FsCustomAttribute name="Wing certification" value=""/>
+                    <FsCustomAttribute name="FAI ID" value="19005"/>
+                    <FsCustomAttribute name="FAI Licence" value="338762"/>
+                    <FsCustomAttribute name="Nac Licence" value="BHPA/9113"/>
+                    <FsCustomAttribute name="National Licence" value="9133"/>
+                    <FsCustomAttribute name="Club" value=""/>
+                    <FsCustomAttribute name="Team" value=""/>
+                    <FsCustomAttribute name="T-shirt size" value="L"/>
+                    <FsCustomAttribute name="Food restriction" value=""/>
+                    <FsCustomAttribute name="Insurance company" value="Bhpa"/>
+                    <FsCustomAttribute name="Insurance policy" value="Bhpa"/>
+                    <FsCustomAttribute name="Contact person" value="Kathleen rigg"/>
+                    <FsCustomAttribute name="Contact person phone" value="+447768971971"/>
+                    <FsCustomAttribute name="Blood type" value="I do not know"/>
+                    <FsCustomAttribute name="Live" value=""/>
+                </FsCustomAttributes>
+            </FsParticipant>
+            <FsParticipant id="8" name="Greg Emms" nat_code_3166_a3="gbr" female="0" birthday="1972-10-08" glider="Moyes Litespeed RX 3 Pro" glider_main_colors="Black &amp; Yellow" sponsor="" fai_licence="1" CIVLID="25383">
+                <FsCustomAttributes>
+                    <FsCustomAttribute name="First name" value="Greg"/>
+                    <FsCustomAttribute name="Last name" value="Emms"/>
+                    <FsCustomAttribute name="Name in native language" value="Greg"/>
+                    <FsCustomAttribute name="Nationality" value="United Kingdom"/>
+                    <FsCustomAttribute name="Email address" value="jlseagull99@gmail.com"/>
+                    <FsCustomAttribute name="Country of Residence" value="United Kingdom"/>
+                    <FsCustomAttribute name="Postal address" value="170 MANCROFT AVENUE,BRISTOL,BS11 0JA"/>
+                    <FsCustomAttribute name="Postal code" value="BS11 0JA"/>
+                    <FsCustomAttribute name="City" value="BRISTOL"/>
+                    <FsCustomAttribute name="Address" value="170 MANCROFT AVENUE"/>
+                    <FsCustomAttribute name="Contact phone number" value="+447803169006"/>
+                    <FsCustomAttribute name="Phone for report back" value=""/>
+                    <FsCustomAttribute name="Wing Model" value="Litespeed RX 3 Pro"/>
+                    <FsCustomAttribute name="Wing Manufacturer" value="Moyes"/>
+                    <FsCustomAttribute name="Wing certification" value=""/>
+                    <FsCustomAttribute name="FAI ID" value="66819"/>
+                    <FsCustomAttribute name="FAI Licence" value="382289"/>
+                    <FsCustomAttribute name="Nac Licence" value="BHPA/12999"/>
+                    <FsCustomAttribute name="National Licence" value="12999"/>
+                    <FsCustomAttribute name="Club" value="SE Wales"/>
+                    <FsCustomAttribute name="Team" value=""/>
+                    <FsCustomAttribute name="T-shirt size" value="M"/>
+                    <FsCustomAttribute name="Food restriction" value=""/>
+                    <FsCustomAttribute name="Insurance company" value="BHPA"/>
+                    <FsCustomAttribute name="Insurance policy" value="BHPA"/>
+                    <FsCustomAttribute name="Contact person" value="Louise Emms"/>
+                    <FsCustomAttribute name="Contact person phone" value="+447941008404"/>
+                    <FsCustomAttribute name="Blood type" value="A+"/>
+                    <FsCustomAttribute name="Live" value=""/>
+                </FsCustomAttributes>
+            </FsParticipant>
+            <FsParticipant id="144" name="Justin Needham" nat_code_3166_a3="gbr" female="0" birthday="1964-06-01" glider="Moyes Litespeed RX 3.5 Pro" glider_main_colors="Red" sponsor="Circitas Ltd" fai_licence="0" CIVLID="6822">
+                <FsCustomAttributes>
+                    <FsCustomAttribute name="First name" value="Justin"/>
+                    <FsCustomAttribute name="Last name" value="Needham"/>
+                    <FsCustomAttribute name="Name in native language" value="Justin Needham"/>
+                    <FsCustomAttribute name="Nationality" value="United Kingdom"/>
+                    <FsCustomAttribute name="Email address" value="justin@circitas.co.uk"/>
+                    <FsCustomAttribute name="Country of Residence" value="United Kingdom"/>
+                    <FsCustomAttribute name="Postal address" value="11 Blenheim Crescent, Farnham, GU9 0DG"/>
+                    <FsCustomAttribute name="Postal code" value=""/>
+                    <FsCustomAttribute name="City" value=""/>
+                    <FsCustomAttribute name="Address" value="11 Blenheim Crescent, Farnham, GU9 0DG"/>
+                    <FsCustomAttribute name="Contact phone number" value="+447748766585"/>
+                    <FsCustomAttribute name="Phone for report back" value="+447748766585"/>
+                    <FsCustomAttribute name="Wing Model" value="Litespeed RX 3.5 Pro"/>
+                    <FsCustomAttribute name="Wing Manufacturer" value="Moyes"/>
+                    <FsCustomAttribute name="Wing certification" value=""/>
+                    <FsCustomAttribute name="FAI ID" value=""/>
+                    <FsCustomAttribute name="FAI Licence" value=""/>
+                    <FsCustomAttribute name="Nac Licence" value=""/>
+                    <FsCustomAttribute name="National Licence" value=""/>
+                    <FsCustomAttribute name="Club" value="Skysurfers"/>
+                    <FsCustomAttribute name="Team" value="Skysurfers"/>
+                    <FsCustomAttribute name="T-shirt size" value="M"/>
+                    <FsCustomAttribute name="Food restriction" value="Veggie"/>
+                    <FsCustomAttribute name="Insurance company" value="BHPA"/>
+                    <FsCustomAttribute name="Insurance policy" value="BHPA"/>
+                    <FsCustomAttribute name="Contact person" value="Judith Needham"/>
+                    <FsCustomAttribute name="Contact person phone" value="+447749852229"/>
+                    <FsCustomAttribute name="Blood type" value="B+"/>
+                    <FsCustomAttribute name="Live" value=""/>
+                </FsCustomAttributes>
+            </FsParticipant>
+            <FsParticipant id="63" name="Kevin Gay" nat_code_3166_a3="gbr" female="0" birthday="1958-05-18" glider="Wills Wing T2" glider_main_colors="Red black" sponsor="Cando" fai_licence="0" CIVLID="6870">
+                <FsCustomAttributes>
+                    <FsCustomAttribute name="First name" value="Kevin"/>
+                    <FsCustomAttribute name="Last name" value="Gay"/>
+                    <FsCustomAttribute name="Name in native language" value="Kevin Gay"/>
+                    <FsCustomAttribute name="Nationality" value="United Kingdom"/>
+                    <FsCustomAttribute name="Email address" value="Kevin@candonorthyorks.co.uk"/>
+                    <FsCustomAttribute name="Country of Residence" value="United Kingdom"/>
+                    <FsCustomAttribute name="Postal address" value="13 Ure Bank Top,RIPON,HG4 1JD"/>
+                    <FsCustomAttribute name="Postal code" value="HG4 1JD"/>
+                    <FsCustomAttribute name="City" value="RIPON"/>
+                    <FsCustomAttribute name="Address" value="13 Ure Bank Top"/>
+                    <FsCustomAttribute name="Contact phone number" value="+07794950856"/>
+                    <FsCustomAttribute name="Phone for report back" value=""/>
+                    <FsCustomAttribute name="Wing Model" value="T2"/>
+                    <FsCustomAttribute name="Wing Manufacturer" value="Wills Wing"/>
+                    <FsCustomAttribute name="Wing certification" value=""/>
+                    <FsCustomAttribute name="FAI ID" value=""/>
+                    <FsCustomAttribute name="FAI Licence" value=""/>
+                    <FsCustomAttribute name="Nac Licence" value=""/>
+                    <FsCustomAttribute name="National Licence" value="Bhpa"/>
+                    <FsCustomAttribute name="Club" value="Dales"/>
+                    <FsCustomAttribute name="Team" value=""/>
+                    <FsCustomAttribute name="T-shirt size" value="L"/>
+                    <FsCustomAttribute name="Food restriction" value=""/>
+                    <FsCustomAttribute name="Insurance company" value="Bhpa"/>
+                    <FsCustomAttribute name="Insurance policy" value="Bhpa"/>
+                    <FsCustomAttribute name="Contact person" value="Magda"/>
+                    <FsCustomAttribute name="Contact person phone" value="+441765606603"/>
+                    <FsCustomAttribute name="Blood type" value="O+"/>
+                    <FsCustomAttribute name="Live" value=""/>
+                </FsCustomAttributes>
+            </FsParticipant>
+            <FsParticipant id="34035" name="Maciej Wolaniecki" nat_code_3166_a3="pol" female="0" birthday="1961-03-30" glider="Wills Wing U2" glider_main_colors="Red, blue, white" sponsor="none" fai_licence="0" CIVLID="86564">
+                <FsCustomAttributes>
+                    <FsCustomAttribute name="First name" value="Maciej"/>
+                    <FsCustomAttribute name="Last name" value="Wolaniecki"/>
+                    <FsCustomAttribute name="Name in native language" value="Maciej Wolaniecki"/>
+                    <FsCustomAttribute name="Nationality" value="Poland"/>
+                    <FsCustomAttribute name="Email address" value="maciej-wolaniecki@wp.pl"/>
+                    <FsCustomAttribute name="Country of Residence" value="United Kingdom"/>
+                    <FsCustomAttribute name="Postal address" value="Flat 7 Buckingham Court, Westwood Road,Southampton,SO17 1HD"/>
+                    <FsCustomAttribute name="Postal code" value="SO17 1HD"/>
+                    <FsCustomAttribute name="City" value="Southampton"/>
+                    <FsCustomAttribute name="Address" value="Flat 7 Buckingham Court, Westwood Road"/>
+                    <FsCustomAttribute name="Contact phone number" value="+447407298190"/>
+                    <FsCustomAttribute name="Phone for report back" value=""/>
+                    <FsCustomAttribute name="Wing Model" value="U2"/>
+                    <FsCustomAttribute name="Wing Manufacturer" value="Wills Wing"/>
+                    <FsCustomAttribute name="Wing certification" value=""/>
+                    <FsCustomAttribute name="FAI ID" value=""/>
+                    <FsCustomAttribute name="FAI Licence" value=""/>
+                    <FsCustomAttribute name="Nac Licence" value=""/>
+                    <FsCustomAttribute name="National Licence" value=""/>
+                    <FsCustomAttribute name="Club" value="Southern Hang Gliding Club"/>
+                    <FsCustomAttribute name="Team" value="none"/>
+                    <FsCustomAttribute name="T-shirt size" value="M"/>
+                    <FsCustomAttribute name="Food restriction" value="none"/>
+                    <FsCustomAttribute name="Insurance company" value="BHPA"/>
+                    <FsCustomAttribute name="Insurance policy" value="BHPA"/>
+                    <FsCustomAttribute name="Contact person" value="Katarzyna Piekarska"/>
+                    <FsCustomAttribute name="Contact person phone" value="+48793323965"/>
+                    <FsCustomAttribute name="Blood type" value="A-"/>
+                    <FsCustomAttribute name="Live" value=""/>
+                </FsCustomAttributes>
+            </FsParticipant>
+            <FsParticipant id="1" name="Oliver Moffatt" nat_code_3166_a3="gbr" female="0" birthday="1960-04-06" glider="Moyes Litespeed RX 3.5 Pro" glider_main_colors="Grey and orange" sponsor="Mrs Moffatt" fai_licence="0" CIVLID="7288">
+                <FsCustomAttributes>
+                    <FsCustomAttribute name="First name" value="Oliver"/>
+                    <FsCustomAttribute name="Last name" value="Moffatt"/>
+                    <FsCustomAttribute name="Name in native language" value="Oliver Moffatt"/>
+                    <FsCustomAttribute name="Nationality" value="United Kingdom"/>
+                    <FsCustomAttribute name="Email address" value="moffattoliver@gmail.com"/>
+                    <FsCustomAttribute name="Country of Residence" value="United Kingdom"/>
+                    <FsCustomAttribute name="Postal address" value="28 Thornton Road,Carlisle,CA3 9HZ"/>
+                    <FsCustomAttribute name="Postal code" value="CA3 9HZ"/>
+                    <FsCustomAttribute name="City" value="Carlisle"/>
+                    <FsCustomAttribute name="Address" value="28 Thornton Road"/>
+                    <FsCustomAttribute name="Contact phone number" value="+447500013766"/>
+                    <FsCustomAttribute name="Phone for report back" value="+447500013766"/>
+                    <FsCustomAttribute name="Wing Model" value="Litespeed RX 3.5 Pro"/>
+                    <FsCustomAttribute name="Wing Manufacturer" value="Moyes"/>
+                    <FsCustomAttribute name="Wing certification" value=""/>
+                    <FsCustomAttribute name="FAI ID" value="160509"/>
+                    <FsCustomAttribute name="FAI Licence" value="363198"/>
+                    <FsCustomAttribute name="Nac Licence" value="BHPA/8451"/>
+                    <FsCustomAttribute name="National Licence" value="8451"/>
+                    <FsCustomAttribute name="Club" value="Dales"/>
+                    <FsCustomAttribute name="Team" value=""/>
+                    <FsCustomAttribute name="T-shirt size" value="M"/>
+                    <FsCustomAttribute name="Food restriction" value=""/>
+                    <FsCustomAttribute name="Insurance company" value="Sports Cover Direct"/>
+                    <FsCustomAttribute name="Insurance policy" value="TBC"/>
+                    <FsCustomAttribute name="Contact person" value="Alison Moffatt"/>
+                    <FsCustomAttribute name="Contact person phone" value="+447827294934"/>
+                    <FsCustomAttribute name="Blood type" value="A+"/>
+                    <FsCustomAttribute name="Live" value=""/>
+                </FsCustomAttributes>
+            </FsParticipant>
+            <FsParticipant id="99" name="Paul Boyd" nat_code_3166_a3="gbr" female="0" birthday="1957-10-26" glider="Moyes Litespeed RX 4 Pro" glider_main_colors="Black / Red" sponsor="" fai_licence="1" CIVLID="83765">
+                <FsCustomAttributes>
+                    <FsCustomAttribute name="First name" value="Paul"/>
+                    <FsCustomAttribute name="Last name" value="Boyd"/>
+                    <FsCustomAttribute name="Name in native language" value="Paul Boyd"/>
+                    <FsCustomAttribute name="Nationality" value="United Kingdom"/>
+                    <FsCustomAttribute name="Email address" value="boyd.diag.audiol@btinternet.com"/>
+                    <FsCustomAttribute name="Country of Residence" value="United Kingdom"/>
+                    <FsCustomAttribute name="Postal address" value="50 Underbank End Road,Holmfirth,HD9 1ES"/>
+                    <FsCustomAttribute name="Postal code" value="HD9 1ES"/>
+                    <FsCustomAttribute name="City" value="Holmfirth"/>
+                    <FsCustomAttribute name="Address" value="50 Underbank End Road"/>
+                    <FsCustomAttribute name="Contact phone number" value="+447920031420"/>
+                    <FsCustomAttribute name="Phone for report back" value="+441484681027"/>
+                    <FsCustomAttribute name="Wing Model" value="Litespeed RX 4 Pro"/>
+                    <FsCustomAttribute name="Wing Manufacturer" value="Moyes"/>
+                    <FsCustomAttribute name="Wing certification" value=""/>
+                    <FsCustomAttribute name="FAI ID" value="165321"/>
+                    <FsCustomAttribute name="FAI Licence" value="379109"/>
+                    <FsCustomAttribute name="Nac Licence" value="BHPA/36354"/>
+                    <FsCustomAttribute name="National Licence" value="36354"/>
+                    <FsCustomAttribute name="Club" value="Derbyshire Soaring Club"/>
+                    <FsCustomAttribute name="Team" value=""/>
+                    <FsCustomAttribute name="T-shirt size" value="L"/>
+                    <FsCustomAttribute name="Food restriction" value=""/>
+                    <FsCustomAttribute name="Insurance company" value="BHPA"/>
+                    <FsCustomAttribute name="Insurance policy" value="BHPA"/>
+                    <FsCustomAttribute name="Contact person" value="Jake Boyd"/>
+                    <FsCustomAttribute name="Contact person phone" value="+447852152278"/>
+                    <FsCustomAttribute name="Blood type" value="I do not know"/>
+                    <FsCustomAttribute name="Live" value=""/>
+                </FsCustomAttributes>
+            </FsParticipant>
+            <FsParticipant id="42" name="Richard Hunt" nat_code_3166_a3="gbr" female="0" birthday="1975-02-14" glider="Moyes Litespeed RX 3.5 Pro" glider_main_colors="White/Black/Orange" sponsor="Cloudbase Consulting" fai_licence="0" CIVLID="25385">
+                <FsCustomAttributes>
+                    <FsCustomAttribute name="First name" value="Richard"/>
+                    <FsCustomAttribute name="Last name" value="Hunt"/>
+                    <FsCustomAttribute name="Name in native language" value="Richard"/>
+                    <FsCustomAttribute name="Nationality" value="United Kingdom"/>
+                    <FsCustomAttribute name="Email address" value="richard.hunt@mycloudbase.co.uk"/>
+                    <FsCustomAttribute name="Country of Residence" value="United Kingdom"/>
+                    <FsCustomAttribute name="Postal address" value="3 Box Tree Close, Defford, Worcs, England, WR8 9BX"/>
+                    <FsCustomAttribute name="Postal code" value=""/>
+                    <FsCustomAttribute name="City" value=""/>
+                    <FsCustomAttribute name="Address" value="3 Box Tree Close, Defford, Worcs, England, WR8 9BX"/>
+                    <FsCustomAttribute name="Contact phone number" value="+447766060509"/>
+                    <FsCustomAttribute name="Phone for report back" value=""/>
+                    <FsCustomAttribute name="Wing Model" value="Litespeed RX 3.5 Pro"/>
+                    <FsCustomAttribute name="Wing Manufacturer" value="Moyes"/>
+                    <FsCustomAttribute name="Wing certification" value=""/>
+                    <FsCustomAttribute name="FAI ID" value="66796"/>
+                    <FsCustomAttribute name="FAI Licence" value="338747"/>
+                    <FsCustomAttribute name="Nac Licence" value="BHPA/712"/>
+                    <FsCustomAttribute name="National Licence" value=""/>
+                    <FsCustomAttribute name="Club" value="Suffolk"/>
+                    <FsCustomAttribute name="Team" value=""/>
+                    <FsCustomAttribute name="T-shirt size" value="M"/>
+                    <FsCustomAttribute name="Food restriction" value=""/>
+                    <FsCustomAttribute name="Insurance company" value="BHPA"/>
+                    <FsCustomAttribute name="Insurance policy" value="BHPA"/>
+                    <FsCustomAttribute name="Contact person" value="Jenny Hunt"/>
+                    <FsCustomAttribute name="Contact person phone" value="+447833257775"/>
+                    <FsCustomAttribute name="Blood type" value="I do not know"/>
+                    <FsCustomAttribute name="Live" value=""/>
+                </FsCustomAttributes>
+            </FsParticipant>
+            <FsParticipant id="6" name="Stephen Penfold" nat_code_3166_a3="gbr" female="0" birthday="1974-02-27" glider="Moyes Litespeed RX 3.5 Pro" glider_main_colors="Green/Orange" sponsor="ripstra@msn.com" fai_licence="1" CIVLID="7717">
+                <FsCustomAttributes>
+                    <FsCustomAttribute name="First name" value="Stephen"/>
+                    <FsCustomAttribute name="Last name" value="Penfold"/>
+                    <FsCustomAttribute name="Name in native language" value="Steve Penfold"/>
+                    <FsCustomAttribute name="Nationality" value="United Kingdom"/>
+                    <FsCustomAttribute name="Email address" value="ripstra@msn.com"/>
+                    <FsCustomAttribute name="Country of Residence" value="United Kingdom"/>
+                    <FsCustomAttribute name="Postal address" value="Tancred Lodge, Boroughbridge Road, Whixley, YO26 8BA"/>
+                    <FsCustomAttribute name="Postal code" value=""/>
+                    <FsCustomAttribute name="City" value=""/>
+                    <FsCustomAttribute name="Address" value="Tancred Lodge, Boroughbridge Road, Whixley, YO26 8BA"/>
+                    <FsCustomAttribute name="Contact phone number" value="+447770897419"/>
+                    <FsCustomAttribute name="Phone for report back" value=""/>
+                    <FsCustomAttribute name="Wing Model" value="Litespeed RX 3.5 Pro"/>
+                    <FsCustomAttribute name="Wing Manufacturer" value="Moyes"/>
+                    <FsCustomAttribute name="Wing certification" value=""/>
+                    <FsCustomAttribute name="FAI ID" value="18860"/>
+                    <FsCustomAttribute name="FAI Licence" value="375547"/>
+                    <FsCustomAttribute name="Nac Licence" value="BHPA/532"/>
+                    <FsCustomAttribute name="National Licence" value="532"/>
+                    <FsCustomAttribute name="Club" value="Derbyshire"/>
+                    <FsCustomAttribute name="Team" value=""/>
+                    <FsCustomAttribute name="T-shirt size" value="M"/>
+                    <FsCustomAttribute name="Food restriction" value=""/>
+                    <FsCustomAttribute name="Insurance company" value="Sports Cover Direct"/>
+                    <FsCustomAttribute name="Insurance policy" value="444400021467"/>
+                    <FsCustomAttribute name="Contact person" value="Stefania Tomasina"/>
+                    <FsCustomAttribute name="Contact person phone" value="+4531500225"/>
+                    <FsCustomAttribute name="Blood type" value="A+"/>
+                    <FsCustomAttribute name="Live" value=""/>
+                </FsCustomAttributes>
+            </FsParticipant>
+            <FsParticipant id="69" name="Tim Dotchin" nat_code_3166_a3="gbr" female="0" birthday="1983-02-25" glider="Aeros Combat C" glider_main_colors="Blue and Yellow" sponsor="" fai_licence="0" CIVLID="83150">
+                <FsCustomAttributes>
+                    <FsCustomAttribute name="First name" value="Tim"/>
+                    <FsCustomAttribute name="Last name" value="Dotchin"/>
+                    <FsCustomAttribute name="Name in native language" value="Tim Dotchin"/>
+                    <FsCustomAttribute name="Nationality" value="United Kingdom"/>
+                    <FsCustomAttribute name="Email address" value="dotchint@gmail.com"/>
+                    <FsCustomAttribute name="Country of Residence" value="United Kingdom"/>
+                    <FsCustomAttribute name="Postal address" value="4 Ash Rise, Nayland, Suffolk, CO6 4LP,CO6 4LP"/>
+                    <FsCustomAttribute name="Postal code" value="CO6 4LP"/>
+                    <FsCustomAttribute name="City" value=""/>
+                    <FsCustomAttribute name="Address" value="4 Ash Rise, Nayland, Suffolk, CO6 4LP"/>
+                    <FsCustomAttribute name="Contact phone number" value="+07886460963"/>
+                    <FsCustomAttribute name="Phone for report back" value=""/>
+                    <FsCustomAttribute name="Wing Model" value="Combat C"/>
+                    <FsCustomAttribute name="Wing Manufacturer" value="Aeros"/>
+                    <FsCustomAttribute name="Wing certification" value=""/>
+                    <FsCustomAttribute name="FAI ID" value="66840"/>
+                    <FsCustomAttribute name="FAI Licence" value="360213"/>
+                    <FsCustomAttribute name="Nac Licence" value="BHPA/23567"/>
+                    <FsCustomAttribute name="National Licence" value="23567"/>
+                    <FsCustomAttribute name="Club" value=""/>
+                    <FsCustomAttribute name="Team" value=""/>
+                    <FsCustomAttribute name="T-shirt size" value="L"/>
+                    <FsCustomAttribute name="Food restriction" value=""/>
+                    <FsCustomAttribute name="Insurance company" value="Na"/>
+                    <FsCustomAttribute name="Insurance policy" value="Na"/>
+                    <FsCustomAttribute name="Contact person" value="Andrew Dotchin"/>
+                    <FsCustomAttribute name="Contact person phone" value="+440781494982"/>
+                    <FsCustomAttribute name="Blood type" value="I do not know"/>
+                    <FsCustomAttribute name="Live" value=""/>
+                </FsCustomAttributes>
+            </FsParticipant>
+            <FsParticipant id="7" name="Tim Swait" nat_code_3166_a3="gbr" female="0" birthday="1982-12-22" glider="Avian Puma" glider_main_colors="Grey" sponsor="Avian Hang Gliders" fai_licence="0" CIVLID="50035">
+                <FsCustomAttributes>
+                    <FsCustomAttribute name="First name" value="Tim"/>
+                    <FsCustomAttribute name="Last name" value="Swait"/>
+                    <FsCustomAttribute name="Name in native language" value="Tim"/>
+                    <FsCustomAttribute name="Nationality" value="United Kingdom"/>
+                    <FsCustomAttribute name="Email address" value="timswait@gmail.com"/>
+                    <FsCustomAttribute name="Country of Residence" value="United Kingdom"/>
+                    <FsCustomAttribute name="Postal address" value="S33 9JT"/>
+                    <FsCustomAttribute name="Postal code" value=""/>
+                    <FsCustomAttribute name="City" value=""/>
+                    <FsCustomAttribute name="Address" value="S33 9JT"/>
+                    <FsCustomAttribute name="Contact phone number" value="+447985600872"/>
+                    <FsCustomAttribute name="Phone for report back" value=""/>
+                    <FsCustomAttribute name="Wing Model" value="Puma"/>
+                    <FsCustomAttribute name="Wing Manufacturer" value="Avian"/>
+                    <FsCustomAttribute name="Wing certification" value=""/>
+                    <FsCustomAttribute name="FAI ID" value="140875"/>
+                    <FsCustomAttribute name="FAI Licence" value="360857"/>
+                    <FsCustomAttribute name="Nac Licence" value="BHPA/32420"/>
+                    <FsCustomAttribute name="National Licence" value="32420"/>
+                    <FsCustomAttribute name="Club" value="Derbyshire Soaring Club"/>
+                    <FsCustomAttribute name="Team" value=""/>
+                    <FsCustomAttribute name="T-shirt size" value="M"/>
+                    <FsCustomAttribute name="Food restriction" value=""/>
+                    <FsCustomAttribute name="Insurance company" value="Sports Cover Direct"/>
+                    <FsCustomAttribute name="Insurance policy" value="444200087521"/>
+                    <FsCustomAttribute name="Contact person" value="Joyce Swait"/>
+                    <FsCustomAttribute name="Contact person phone" value="+447942689389"/>
+                    <FsCustomAttribute name="Blood type" value="I do not know"/>
+                    <FsCustomAttribute name="Live" value=""/>
+                </FsCustomAttributes>
+            </FsParticipant>
+            <FsParticipant id="5" name="Wayne Thompson" nat_code_3166_a3="gbr" female="0" birthday="1966-11-23" glider="Moyes Litespeed RX 4 Pro" glider_main_colors="Red,Orange,Yellow" sponsor="BT Photography " fai_licence="1" CIVLID="7945">
+                <FsCustomAttributes>
+                    <FsCustomAttribute name="First name" value="Wayne"/>
+                    <FsCustomAttribute name="Last name" value="Thompson"/>
+                    <FsCustomAttribute name="Name in native language" value="Wayne Thompson"/>
+                    <FsCustomAttribute name="Nationality" value="United Kingdom"/>
+                    <FsCustomAttribute name="Email address" value="cloudeater@sky.com"/>
+                    <FsCustomAttribute name="Country of Residence" value="United Kingdom"/>
+                    <FsCustomAttribute name="Postal address" value="18 Penrose crescent, Arkwright Town,,Chesterfield,S44 5BX"/>
+                    <FsCustomAttribute name="Postal code" value="S44 5BX"/>
+                    <FsCustomAttribute name="City" value="Chesterfield"/>
+                    <FsCustomAttribute name="Address" value="18 Penrose crescent, Arkwright Town,"/>
+                    <FsCustomAttribute name="Contact phone number" value="+447766334404"/>
+                    <FsCustomAttribute name="Phone for report back" value="+447766334404"/>
+                    <FsCustomAttribute name="Wing Model" value="Litespeed RX 4 Pro"/>
+                    <FsCustomAttribute name="Wing Manufacturer" value="Moyes"/>
+                    <FsCustomAttribute name="Wing certification" value=""/>
+                    <FsCustomAttribute name="FAI ID" value="18870"/>
+                    <FsCustomAttribute name="FAI Licence" value="380332"/>
+                    <FsCustomAttribute name="Nac Licence" value="BHPA/1282"/>
+                    <FsCustomAttribute name="National Licence" value="1282"/>
+                    <FsCustomAttribute name="Club" value="Derbyshire Soaring Club"/>
+                    <FsCustomAttribute name="Team" value="Great Britain"/>
+                    <FsCustomAttribute name="T-shirt size" value="L"/>
+                    <FsCustomAttribute name="Food restriction" value="none"/>
+                    <FsCustomAttribute name="Insurance company" value="SportsCover Direct"/>
+                    <FsCustomAttribute name="Insurance policy" value="444200097413"/>
+                    <FsCustomAttribute name="Contact person" value="Barbara Thompson"/>
+                    <FsCustomAttribute name="Contact person phone" value="+447837975925"/>
+                    <FsCustomAttribute name="Blood type" value="O-"/>
+                    <FsCustomAttribute name="Live" value=""/>
+                </FsCustomAttributes>
+            </FsParticipant>
+            <FsParticipant id="10" name="William Bell" nat_code_3166_a3="gbr" female="0" birthday="1955-07-03" glider="Moyes Litespeed RX 3.5 Pro" glider_main_colors="Blue" sponsor="Rhydd Cottage" fai_licence="1" CIVLID="12935">
+                <FsCustomAttributes>
+                    <FsCustomAttribute name="First name" value="William"/>
+                    <FsCustomAttribute name="Last name" value="Bell"/>
+                    <FsCustomAttribute name="Name in native language" value="Bill"/>
+                    <FsCustomAttribute name="Nationality" value="United Kingdom"/>
+                    <FsCustomAttribute name="Email address" value="BOS@billbell.co.uk"/>
+                    <FsCustomAttribute name="Country of Residence" value="United Kingdom"/>
+                    <FsCustomAttribute name="Postal address" value="Rhydd Gardens, Worcester Road, Hanley Castle,  Worcs,Hanley Castle,WR80AB"/>
+                    <FsCustomAttribute name="Postal code" value="WR80AB"/>
+                    <FsCustomAttribute name="City" value="Hanley Castle"/>
+                    <FsCustomAttribute name="Address" value="Rhydd Gardens, Worcester Road, Hanley Castle,  Worcs"/>
+                    <FsCustomAttribute name="Contact phone number" value="+447768028899"/>
+                    <FsCustomAttribute name="Phone for report back" value=""/>
+                    <FsCustomAttribute name="Wing Model" value="Litespeed RX 3.5 Pro"/>
+                    <FsCustomAttribute name="Wing Manufacturer" value="Moyes"/>
+                    <FsCustomAttribute name="Wing certification" value=""/>
+                    <FsCustomAttribute name="FAI ID" value="18946"/>
+                    <FsCustomAttribute name="FAI Licence" value="394683"/>
+                    <FsCustomAttribute name="Nac Licence" value="BHPA/5787"/>
+                    <FsCustomAttribute name="National Licence" value=""/>
+                    <FsCustomAttribute name="Club" value="Malvern"/>
+                    <FsCustomAttribute name="Team" value=""/>
+                    <FsCustomAttribute name="T-shirt size" value="L"/>
+                    <FsCustomAttribute name="Food restriction" value=""/>
+                    <FsCustomAttribute name="Insurance company" value="BHPA"/>
+                    <FsCustomAttribute name="Insurance policy" value="BHPA"/>
+                    <FsCustomAttribute name="Contact person" value="Sue Brooks"/>
+                    <FsCustomAttribute name="Contact person phone" value="+447887532166"/>
+                    <FsCustomAttribute name="Blood type" value="I do not know"/>
+                    <FsCustomAttribute name="Live" value=""/>
+                </FsCustomAttributes>
+            </FsParticipant>
+        </FsParticipants>
+        <FsTasks/>
+    </FsCompetition>
+</Fs>

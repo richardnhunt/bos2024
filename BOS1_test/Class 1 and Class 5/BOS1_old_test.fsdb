@@ -1,0 +1,1117 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Fs version="3.5" comment="Supports only a single Fs element in a .fsdb file which must be the root element.">
+  <FsCompetition id="0" name="BOS1 old test" location="United Kingdom" from="2022-06-13" to="2022-06-18" discipline="hg" utc_offset="1" waypoints_file="C:\Users\Richard\Dropbox\Personal\BOS Scoring 2024\BOS1_test\DALESBOS22utm.wpt" ftv_factor="0" categories="filter" fai_sanctioning="0">
+    <FsScoreFormula id="GAP2023" min_dist="7" nom_dist="70" nom_time="1.5" nom_launch="0.96" nom_goal="0.25" day_quality_override="0" bonus_gr="4" jump_the_gun_factor="0" jump_the_gun_max="0" normalize_1000_before_day_quality="0" time_points_if_not_in_goal="0" use_1000_points_for_max_day_quality="0" use_arrival_position_points="0" use_arrival_time_points="0" use_departure_points="0" use_difficulty_for_distance_points="0" use_distance_points="1" use_distance_squared_for_LC="1" use_leading_points="1" use_semi_circle_control_zone_for_goal_line="1" use_time_points="1" scoring_altitude="GPS" final_glide_decelerator="none" no_final_glide_decelerator_reason="" min_time_span_for_valid_task="45" score_back_time="5" use_proportional_leading_weight_if_nobody_in_goal="1" leading_weight_factor="2" turnpoint_radius_tolerance="0.005" turnpoint_radius_minimum_absolute_tolerance="5" number_of_decimals_task_results="1" number_of_decimals_competition_results="0" redistribute_removed_time_points_as_distance_points="1" use_best_score_for_ftv_validity="1" use_constant_leading_weight="0" use_pwca2019_for_lc="0" use_flat_decline_of_timepoints="1" use_leading_time_ratio="0" optimize_ss_alone="0" />
+    <FsCompetitionNotes><![CDATA[]]></FsCompetitionNotes>
+    <FsParticipants>
+      <FsParticipant id="55" name="Andrew Lumb" nat_code_3166_a3="gbr" female="0" birthday="1969-05-30" glider="Wills Wing T2" glider_main_colors="Grey black" sponsor="Flypureair " fai_licence="0" CIVLID="82636">
+        <FsCustomAttributes>
+          <FsCustomAttribute name="First name" value="Andrew" />
+          <FsCustomAttribute name="Last name" value="Lumb" />
+          <FsCustomAttribute name="Name in native language" value="Andrew Lumb" />
+          <FsCustomAttribute name="Nationality" value="United Kingdom" />
+          <FsCustomAttribute name="Email address" value="harrogateplastic@gmail.com" />
+          <FsCustomAttribute name="Country of Residence" value="United Kingdom" />
+          <FsCustomAttribute name="Postal address" value="68 Clifton Avenue,Leeds,LS9 6EX" />
+          <FsCustomAttribute name="Postal code" value="LS9 6EX" />
+          <FsCustomAttribute name="City" value="Leeds" />
+          <FsCustomAttribute name="Address" value="68 Clifton Avenue" />
+          <FsCustomAttribute name="Contact phone number" value="+07545235265" />
+          <FsCustomAttribute name="Phone for report back" value="" />
+          <FsCustomAttribute name="Wing Model" value="T2" />
+          <FsCustomAttribute name="Wing Manufacturer" value="Wills Wing" />
+          <FsCustomAttribute name="Wing certification" value="" />
+          <FsCustomAttribute name="FAI ID" value="164345" />
+          <FsCustomAttribute name="FAI Licence" value="355974" />
+          <FsCustomAttribute name="Nac Licence" value="BHPA/8179" />
+          <FsCustomAttribute name="National Licence" value="08179" />
+          <FsCustomAttribute name="Club" value="Dales" />
+          <FsCustomAttribute name="Team" value="Flypureair " />
+          <FsCustomAttribute name="T-shirt size" value="L" />
+          <FsCustomAttribute name="Food restriction" value="" />
+          <FsCustomAttribute name="Insurance company" value="Bhpa" />
+          <FsCustomAttribute name="Insurance policy" value="Bhpa" />
+          <FsCustomAttribute name="Contact person" value="Barbara liedtke" />
+          <FsCustomAttribute name="Contact person phone" value="+447739447830" />
+          <FsCustomAttribute name="Blood type" value="I do not know" />
+          <FsCustomAttribute name="Live" value="" />
+        </FsCustomAttributes>
+      </FsParticipant>
+      <FsParticipant id="39" name="Anthony Woodley" nat_code_3166_a3="gbr" female="0" birthday="1970-02-28" glider="Aeros Discus C" glider_main_colors="White/Black" sponsor="" fai_licence="0" CIVLID="86258">
+        <FsCustomAttributes>
+          <FsCustomAttribute name="First name" value="Anthony" />
+          <FsCustomAttribute name="Last name" value="Woodley" />
+          <FsCustomAttribute name="Name in native language" value="Anthony Woodley" />
+          <FsCustomAttribute name="Nationality" value="United Kingdom" />
+          <FsCustomAttribute name="Email address" value="anthonywoodley@hotmail.co.uk" />
+          <FsCustomAttribute name="Country of Residence" value="United Kingdom" />
+          <FsCustomAttribute name="Postal address" value="39 Drew Close,Poole,BH12 5ES" />
+          <FsCustomAttribute name="Postal code" value="BH12 5ES" />
+          <FsCustomAttribute name="City" value="Poole" />
+          <FsCustomAttribute name="Address" value="39 Drew Close" />
+          <FsCustomAttribute name="Contact phone number" value="+447835547546" />
+          <FsCustomAttribute name="Phone for report back" value="" />
+          <FsCustomAttribute name="Wing Model" value="Discus C" />
+          <FsCustomAttribute name="Wing Manufacturer" value="Aeros" />
+          <FsCustomAttribute name="Wing certification" value="" />
+          <FsCustomAttribute name="FAI ID" value="" />
+          <FsCustomAttribute name="FAI Licence" value="" />
+          <FsCustomAttribute name="Nac Licence" value="" />
+          <FsCustomAttribute name="National Licence" value="36755" />
+          <FsCustomAttribute name="Club" value="Wessex Hang gliding &amp; Paragliding Club" />
+          <FsCustomAttribute name="Team" value="" />
+          <FsCustomAttribute name="T-shirt size" value="L" />
+          <FsCustomAttribute name="Food restriction" value="" />
+          <FsCustomAttribute name="Insurance company" value="NHS" />
+          <FsCustomAttribute name="Insurance policy" value="123" />
+          <FsCustomAttribute name="Contact person" value="Debbie Woodley" />
+          <FsCustomAttribute name="Contact person phone" value="+447500042320" />
+          <FsCustomAttribute name="Blood type" value="I do not know" />
+          <FsCustomAttribute name="Live" value="" />
+        </FsCustomAttributes>
+      </FsParticipant>
+      <FsParticipant id="3042" name="Darren Brown" nat_code_3166_a3="gbr" female="0" birthday="1971-06-11" glider="Moyes Litespeed RX 3.5 Pro" glider_main_colors="Red" sponsor="BHPA" fai_licence="1" CIVLID="25384">
+        <FsCustomAttributes>
+          <FsCustomAttribute name="First name" value="Darren" />
+          <FsCustomAttribute name="Last name" value="Brown" />
+          <FsCustomAttribute name="Name in native language" value="Darren Brown" />
+          <FsCustomAttribute name="Nationality" value="United Kingdom" />
+          <FsCustomAttribute name="Email address" value="darrenbrown50@hotmail.com" />
+          <FsCustomAttribute name="Country of Residence" value="unknown" />
+          <FsCustomAttribute name="Postal address" value="15 Alexandra Road, Bircotes, Doncaster, South Yorkshire, UK, DN118EZ" />
+          <FsCustomAttribute name="Postal code" value="" />
+          <FsCustomAttribute name="City" value="" />
+          <FsCustomAttribute name="Address" value="15 Alexandra Road, Bircotes, Doncaster, South Yorkshire, UK, DN118EZ" />
+          <FsCustomAttribute name="Contact phone number" value="+447525357030" />
+          <FsCustomAttribute name="Phone for report back" value="" />
+          <FsCustomAttribute name="Wing Model" value="Litespeed RX 3.5 Pro" />
+          <FsCustomAttribute name="Wing Manufacturer" value="Moyes" />
+          <FsCustomAttribute name="Wing certification" value="" />
+          <FsCustomAttribute name="FAI ID" value="66802" />
+          <FsCustomAttribute name="FAI Licence" value="381261" />
+          <FsCustomAttribute name="Nac Licence" value="BHPA/2338" />
+          <FsCustomAttribute name="National Licence" value="2338" />
+          <FsCustomAttribute name="Club" value="Derbyshire Soaring club" />
+          <FsCustomAttribute name="Team" value="" />
+          <FsCustomAttribute name="T-shirt size" value="M" />
+          <FsCustomAttribute name="Food restriction" value="" />
+          <FsCustomAttribute name="Insurance company" value="AXA" />
+          <FsCustomAttribute name="Insurance policy" value="TBA" />
+          <FsCustomAttribute name="Contact person" value="Harry Brown" />
+          <FsCustomAttribute name="Contact person phone" value="+07887593584" />
+          <FsCustomAttribute name="Blood type" value="I do not know" />
+          <FsCustomAttribute name="Live" value="" />
+        </FsCustomAttributes>
+      </FsParticipant>
+      <FsParticipant id="28" name="Dave Barber" nat_code_3166_a3="gbr" female="0" birthday="1968-06-28" glider="Moyes Litespeed RX 3.5" glider_main_colors="White / Grey" sponsor="Jenny Barber" fai_licence="0" CIVLID="86241">
+        <FsCustomAttributes>
+          <FsCustomAttribute name="First name" value="Dave" />
+          <FsCustomAttribute name="Last name" value="Barber" />
+          <FsCustomAttribute name="Name in native language" value="Dave Barber" />
+          <FsCustomAttribute name="Nationality" value="United Kingdom" />
+          <FsCustomAttribute name="Email address" value="info@davidbarber.co.uk" />
+          <FsCustomAttribute name="Country of Residence" value="United Kingdom" />
+          <FsCustomAttribute name="Postal address" value="3 Swedish Houses, Audlem Road, Hankelow, Crewe, Cheshire, CW30JF" />
+          <FsCustomAttribute name="Postal code" value="" />
+          <FsCustomAttribute name="City" value="" />
+          <FsCustomAttribute name="Address" value="3 Swedish Houses, Audlem Road, Hankelow, Crewe, Cheshire, CW30JF" />
+          <FsCustomAttribute name="Contact phone number" value="+07846045830" />
+          <FsCustomAttribute name="Phone for report back" value="+07846045830" />
+          <FsCustomAttribute name="Wing Model" value="Litespeed RX 3.5" />
+          <FsCustomAttribute name="Wing Manufacturer" value="Moyes" />
+          <FsCustomAttribute name="Wing certification" value="" />
+          <FsCustomAttribute name="FAI ID" value="" />
+          <FsCustomAttribute name="FAI Licence" value="" />
+          <FsCustomAttribute name="Nac Licence" value="" />
+          <FsCustomAttribute name="National Licence" value="" />
+          <FsCustomAttribute name="Club" value="DSC" />
+          <FsCustomAttribute name="Team" value="" />
+          <FsCustomAttribute name="T-shirt size" value="M" />
+          <FsCustomAttribute name="Food restriction" value="" />
+          <FsCustomAttribute name="Insurance company" value="NHS" />
+          <FsCustomAttribute name="Insurance policy" value="NHS" />
+          <FsCustomAttribute name="Contact person" value="Jenny Barber" />
+          <FsCustomAttribute name="Contact person phone" value="+07533519383" />
+          <FsCustomAttribute name="Blood type" value="I do not know" />
+          <FsCustomAttribute name="Live" value="" />
+        </FsCustomAttributes>
+      </FsParticipant>
+      <FsParticipant id="22" name="Dave Cooper" nat_code_3166_a3="gbr" female="0" birthday="1962-01-22" glider="Wills Wing T2" glider_main_colors="Orange, Blue" sponsor="" fai_licence="0" CIVLID="6113">
+        <FsCustomAttributes>
+          <FsCustomAttribute name="First name" value="Dave" />
+          <FsCustomAttribute name="Last name" value="Cooper" />
+          <FsCustomAttribute name="Name in native language" value="Dave Cooper" />
+          <FsCustomAttribute name="Nationality" value="United Kingdom" />
+          <FsCustomAttribute name="Email address" value="david.cooperdjc1@gmail.com" />
+          <FsCustomAttribute name="Country of Residence" value="United Kingdom" />
+          <FsCustomAttribute name="Postal address" value="Lima Farm, Blaze Hill, Rainow,Macclesfield,SK105BZ" />
+          <FsCustomAttribute name="Postal code" value="SK105BZ" />
+          <FsCustomAttribute name="City" value="Macclesfield" />
+          <FsCustomAttribute name="Address" value="Lima Farm, Blaze Hill, Rainow" />
+          <FsCustomAttribute name="Contact phone number" value="+447752211902" />
+          <FsCustomAttribute name="Phone for report back" value="" />
+          <FsCustomAttribute name="Wing Model" value="T2" />
+          <FsCustomAttribute name="Wing Manufacturer" value="Wills Wing" />
+          <FsCustomAttribute name="Wing certification" value="" />
+          <FsCustomAttribute name="FAI ID" value="" />
+          <FsCustomAttribute name="FAI Licence" value="" />
+          <FsCustomAttribute name="Nac Licence" value="" />
+          <FsCustomAttribute name="National Licence" value="06360" />
+          <FsCustomAttribute name="Club" value="" />
+          <FsCustomAttribute name="Team" value="" />
+          <FsCustomAttribute name="T-shirt size" value="L" />
+          <FsCustomAttribute name="Food restriction" value="" />
+          <FsCustomAttribute name="Insurance company" value="BHPA" />
+          <FsCustomAttribute name="Insurance policy" value="BHPA" />
+          <FsCustomAttribute name="Contact person" value="Will Cooper" />
+          <FsCustomAttribute name="Contact person phone" value="+447701343335" />
+          <FsCustomAttribute name="Blood type" value="A+" />
+          <FsCustomAttribute name="Live" value="" />
+        </FsCustomAttributes>
+      </FsParticipant>
+      <FsParticipant id="70" name="Donnie Carson" nat_code_3166_a3="gbr" female="0" birthday="1953-10-10" glider="Moyes Litespeed RX 3.5 Pro" glider_main_colors="Blue, yellow, orange" sponsor="Irene" fai_licence="0" CIVLID="82645">
+        <FsCustomAttributes>
+          <FsCustomAttribute name="First name" value="Donnie" />
+          <FsCustomAttribute name="Last name" value="Carson" />
+          <FsCustomAttribute name="Name in native language" value="Donnie Carson" />
+          <FsCustomAttribute name="Nationality" value="United Kingdom" />
+          <FsCustomAttribute name="Email address" value="dcarsonburnel@gmail.com" />
+          <FsCustomAttribute name="Country of Residence" value="United Kingdom" />
+          <FsCustomAttribute name="Postal address" value="Burnell, Balmenach, Cromdale,Grantown on Spey,PH26 3PF" />
+          <FsCustomAttribute name="Postal code" value="PH26 3PF" />
+          <FsCustomAttribute name="City" value="Grantown on Spey" />
+          <FsCustomAttribute name="Address" value="Burnell, Balmenach, Cromdale" />
+          <FsCustomAttribute name="Contact phone number" value="+447876192017" />
+          <FsCustomAttribute name="Phone for report back" value="+447876192017" />
+          <FsCustomAttribute name="Wing Model" value="Litespeed RX 3.5 Pro" />
+          <FsCustomAttribute name="Wing Manufacturer" value="Moyes" />
+          <FsCustomAttribute name="Wing certification" value="" />
+          <FsCustomAttribute name="FAI ID" value="106273" />
+          <FsCustomAttribute name="FAI Licence" value="363194" />
+          <FsCustomAttribute name="Nac Licence" value="BHPA/6171" />
+          <FsCustomAttribute name="National Licence" value="6171" />
+          <FsCustomAttribute name="Club" value="Scottish Hang Gliding Club" />
+          <FsCustomAttribute name="Team" value="Scottish Hang Gliding Club" />
+          <FsCustomAttribute name="T-shirt size" value="M" />
+          <FsCustomAttribute name="Food restriction" value="" />
+          <FsCustomAttribute name="Insurance company" value="BHPA" />
+          <FsCustomAttribute name="Insurance policy" value="BHPA" />
+          <FsCustomAttribute name="Contact person" value="Irene Carson" />
+          <FsCustomAttribute name="Contact person phone" value="+447876683987" />
+          <FsCustomAttribute name="Blood type" value="I do not know" />
+          <FsCustomAttribute name="Live" value="" />
+        </FsCustomAttributes>
+      </FsParticipant>
+      <FsParticipant id="37275" name="Doug Neil" nat_code_3166_a3="gbr" female="0" birthday="1963-04-23" glider="Avian Puma" glider_main_colors="Red" sponsor="" fai_licence="0" CIVLID="83299">
+        <FsCustomAttributes>
+          <FsCustomAttribute name="First name" value="Doug" />
+          <FsCustomAttribute name="Last name" value="Neil" />
+          <FsCustomAttribute name="Name in native language" value="Doug Neil" />
+          <FsCustomAttribute name="Nationality" value="United Kingdom" />
+          <FsCustomAttribute name="Email address" value="doug01@slashhome.co.uk" />
+          <FsCustomAttribute name="Country of Residence" value="United Kingdom" />
+          <FsCustomAttribute name="Postal address" value="7 Chatsworth Court, Heath Charnock, Chorley, PR6 9SA" />
+          <FsCustomAttribute name="Postal code" value="" />
+          <FsCustomAttribute name="City" value="" />
+          <FsCustomAttribute name="Address" value="7 Chatsworth Court, Heath Charnock, Chorley, PR6 9SA" />
+          <FsCustomAttribute name="Contact phone number" value="+447821627057" />
+          <FsCustomAttribute name="Phone for report back" value="+447821627057" />
+          <FsCustomAttribute name="Wing Model" value="Puma" />
+          <FsCustomAttribute name="Wing Manufacturer" value="Avian" />
+          <FsCustomAttribute name="Wing certification" value="" />
+          <FsCustomAttribute name="FAI ID" value="" />
+          <FsCustomAttribute name="FAI Licence" value="" />
+          <FsCustomAttribute name="Nac Licence" value="" />
+          <FsCustomAttribute name="National Licence" value="37275" />
+          <FsCustomAttribute name="Club" value="Pennine Soaring Club" />
+          <FsCustomAttribute name="Team" value="" />
+          <FsCustomAttribute name="T-shirt size" value="XL" />
+          <FsCustomAttribute name="Food restriction" value="" />
+          <FsCustomAttribute name="Insurance company" value="NHS" />
+          <FsCustomAttribute name="Insurance policy" value="123" />
+          <FsCustomAttribute name="Contact person" value="Sharon Neil" />
+          <FsCustomAttribute name="Contact person phone" value="+447730165651" />
+          <FsCustomAttribute name="Blood type" value="I do not know" />
+          <FsCustomAttribute name="Live" value="" />
+        </FsCustomAttributes>
+      </FsParticipant>
+      <FsParticipant id="111" name="Gordon Rigg" nat_code_3166_a3="gbr" female="0" birthday="1962-12-02" glider="Moyes Litespeed RX 3.5 Pro" glider_main_colors="Grey blue  orange" sponsor="British HG &amp; PG Association" fai_licence="0" CIVLID="6433">
+        <FsCustomAttributes>
+          <FsCustomAttribute name="First name" value="Gordon" />
+          <FsCustomAttribute name="Last name" value="Rigg" />
+          <FsCustomAttribute name="Name in native language" value="Gordon Rigg" />
+          <FsCustomAttribute name="Nationality" value="United Kingdom" />
+          <FsCustomAttribute name="Email address" value="moyesboy@gmail.com" />
+          <FsCustomAttribute name="Country of Residence" value="United Kingdom" />
+          <FsCustomAttribute name="Postal address" value="WINDY RIDGE, summer Cross, Tideswell" />
+          <FsCustomAttribute name="Postal code" value="" />
+          <FsCustomAttribute name="City" value="" />
+          <FsCustomAttribute name="Address" value="WINDY RIDGE, summer Cross, Tideswell" />
+          <FsCustomAttribute name="Contact phone number" value="+447776197362" />
+          <FsCustomAttribute name="Phone for report back" value="" />
+          <FsCustomAttribute name="Wing Model" value="Litespeed RX 3.5 Pro" />
+          <FsCustomAttribute name="Wing Manufacturer" value="Moyes" />
+          <FsCustomAttribute name="Wing certification" value="" />
+          <FsCustomAttribute name="FAI ID" value="19005" />
+          <FsCustomAttribute name="FAI Licence" value="338762" />
+          <FsCustomAttribute name="Nac Licence" value="BHPA/9113" />
+          <FsCustomAttribute name="National Licence" value="9133" />
+          <FsCustomAttribute name="Club" value="" />
+          <FsCustomAttribute name="Team" value="" />
+          <FsCustomAttribute name="T-shirt size" value="L" />
+          <FsCustomAttribute name="Food restriction" value="" />
+          <FsCustomAttribute name="Insurance company" value="Bhpa" />
+          <FsCustomAttribute name="Insurance policy" value="Bhpa" />
+          <FsCustomAttribute name="Contact person" value="Kathleen rigg" />
+          <FsCustomAttribute name="Contact person phone" value="+447768971971" />
+          <FsCustomAttribute name="Blood type" value="I do not know" />
+          <FsCustomAttribute name="Live" value="" />
+        </FsCustomAttributes>
+      </FsParticipant>
+      <FsParticipant id="8" name="Greg Emms" nat_code_3166_a3="gbr" female="0" birthday="1972-10-08" glider="Moyes Litespeed RX 3 Pro" glider_main_colors="Black &amp; Yellow" sponsor="" fai_licence="1" CIVLID="25383">
+        <FsCustomAttributes>
+          <FsCustomAttribute name="First name" value="Greg" />
+          <FsCustomAttribute name="Last name" value="Emms" />
+          <FsCustomAttribute name="Name in native language" value="Greg" />
+          <FsCustomAttribute name="Nationality" value="United Kingdom" />
+          <FsCustomAttribute name="Email address" value="jlseagull99@gmail.com" />
+          <FsCustomAttribute name="Country of Residence" value="United Kingdom" />
+          <FsCustomAttribute name="Postal address" value="170 MANCROFT AVENUE,BRISTOL,BS11 0JA" />
+          <FsCustomAttribute name="Postal code" value="BS11 0JA" />
+          <FsCustomAttribute name="City" value="BRISTOL" />
+          <FsCustomAttribute name="Address" value="170 MANCROFT AVENUE" />
+          <FsCustomAttribute name="Contact phone number" value="+447803169006" />
+          <FsCustomAttribute name="Phone for report back" value="" />
+          <FsCustomAttribute name="Wing Model" value="Litespeed RX 3 Pro" />
+          <FsCustomAttribute name="Wing Manufacturer" value="Moyes" />
+          <FsCustomAttribute name="Wing certification" value="" />
+          <FsCustomAttribute name="FAI ID" value="66819" />
+          <FsCustomAttribute name="FAI Licence" value="382289" />
+          <FsCustomAttribute name="Nac Licence" value="BHPA/12999" />
+          <FsCustomAttribute name="National Licence" value="12999" />
+          <FsCustomAttribute name="Club" value="SE Wales" />
+          <FsCustomAttribute name="Team" value="" />
+          <FsCustomAttribute name="T-shirt size" value="M" />
+          <FsCustomAttribute name="Food restriction" value="" />
+          <FsCustomAttribute name="Insurance company" value="BHPA" />
+          <FsCustomAttribute name="Insurance policy" value="BHPA" />
+          <FsCustomAttribute name="Contact person" value="Louise Emms" />
+          <FsCustomAttribute name="Contact person phone" value="+447941008404" />
+          <FsCustomAttribute name="Blood type" value="A+" />
+          <FsCustomAttribute name="Live" value="" />
+        </FsCustomAttributes>
+      </FsParticipant>
+      <FsParticipant id="285" name="James Kimberley" nat_code_3166_a3="gbr" female="0" birthday="2000-05-28" glider="Aeros Discus" glider_main_colors="Red" sponsor="" fai_licence="0" CIVLID="87084">
+        <FsCustomAttributes>
+          <FsCustomAttribute name="First name" value="James" />
+          <FsCustomAttribute name="Last name" value="Kimberley" />
+          <FsCustomAttribute name="Name in native language" value="James Kimberley" />
+          <FsCustomAttribute name="Nationality" value="United Kingdom" />
+          <FsCustomAttribute name="Email address" value="james.kimberley@icloud.com" />
+          <FsCustomAttribute name="Country of Residence" value="United Kingdom" />
+          <FsCustomAttribute name="Postal address" value="11 The Grasslands , Rainworth,Nottingham,NG210NP" />
+          <FsCustomAttribute name="Postal code" value="NG210NP" />
+          <FsCustomAttribute name="City" value="Nottingham" />
+          <FsCustomAttribute name="Address" value="11 The Grasslands , Rainworth" />
+          <FsCustomAttribute name="Contact phone number" value="+07807160682" />
+          <FsCustomAttribute name="Phone for report back" value="+07807160682" />
+          <FsCustomAttribute name="Wing Model" value="Discus" />
+          <FsCustomAttribute name="Wing Manufacturer" value="Aeros" />
+          <FsCustomAttribute name="Wing certification" value="" />
+          <FsCustomAttribute name="FAI ID" value="" />
+          <FsCustomAttribute name="FAI Licence" value="" />
+          <FsCustomAttribute name="Nac Licence" value="" />
+          <FsCustomAttribute name="National Licence" value="" />
+          <FsCustomAttribute name="Club" value="" />
+          <FsCustomAttribute name="Team" value="" />
+          <FsCustomAttribute name="T-shirt size" value="L" />
+          <FsCustomAttribute name="Food restriction" value="" />
+          <FsCustomAttribute name="Insurance company" value="Sports cover direct " />
+          <FsCustomAttribute name="Insurance policy" value="444400021688" />
+          <FsCustomAttribute name="Contact person" value="Shaun Kimberley " />
+          <FsCustomAttribute name="Contact person phone" value="+447904995863" />
+          <FsCustomAttribute name="Blood type" value="I do not know" />
+          <FsCustomAttribute name="Live" value="" />
+        </FsCustomAttributes>
+      </FsParticipant>
+      <FsParticipant id="144" name="Justin Needham" nat_code_3166_a3="gbr" female="0" birthday="1964-06-01" glider="Moyes Litespeed RX 3.5 Pro" glider_main_colors="Red" sponsor="Circitas Ltd" fai_licence="0" CIVLID="6822">
+        <FsCustomAttributes>
+          <FsCustomAttribute name="First name" value="Justin" />
+          <FsCustomAttribute name="Last name" value="Needham" />
+          <FsCustomAttribute name="Name in native language" value="Justin Needham" />
+          <FsCustomAttribute name="Nationality" value="United Kingdom" />
+          <FsCustomAttribute name="Email address" value="justin@circitas.co.uk" />
+          <FsCustomAttribute name="Country of Residence" value="United Kingdom" />
+          <FsCustomAttribute name="Postal address" value="11 Blenheim Crescent, Farnham, GU9 0DG" />
+          <FsCustomAttribute name="Postal code" value="" />
+          <FsCustomAttribute name="City" value="" />
+          <FsCustomAttribute name="Address" value="11 Blenheim Crescent, Farnham, GU9 0DG" />
+          <FsCustomAttribute name="Contact phone number" value="+447748766585" />
+          <FsCustomAttribute name="Phone for report back" value="+447748766585" />
+          <FsCustomAttribute name="Wing Model" value="Litespeed RX 3.5 Pro" />
+          <FsCustomAttribute name="Wing Manufacturer" value="Moyes" />
+          <FsCustomAttribute name="Wing certification" value="" />
+          <FsCustomAttribute name="FAI ID" value="" />
+          <FsCustomAttribute name="FAI Licence" value="" />
+          <FsCustomAttribute name="Nac Licence" value="" />
+          <FsCustomAttribute name="National Licence" value="" />
+          <FsCustomAttribute name="Club" value="Skysurfers" />
+          <FsCustomAttribute name="Team" value="Skysurfers" />
+          <FsCustomAttribute name="T-shirt size" value="M" />
+          <FsCustomAttribute name="Food restriction" value="Veggie" />
+          <FsCustomAttribute name="Insurance company" value="BHPA" />
+          <FsCustomAttribute name="Insurance policy" value="BHPA" />
+          <FsCustomAttribute name="Contact person" value="Judith Needham" />
+          <FsCustomAttribute name="Contact person phone" value="+447749852229" />
+          <FsCustomAttribute name="Blood type" value="B+" />
+          <FsCustomAttribute name="Live" value="" />
+        </FsCustomAttributes>
+      </FsParticipant>
+      <FsParticipant id="63" name="Kevin Gay" nat_code_3166_a3="gbr" female="0" birthday="1958-05-18" glider="Wills Wing T2" glider_main_colors="Red black" sponsor="Cando" fai_licence="0" CIVLID="6870">
+        <FsCustomAttributes>
+          <FsCustomAttribute name="First name" value="Kevin" />
+          <FsCustomAttribute name="Last name" value="Gay" />
+          <FsCustomAttribute name="Name in native language" value="Kevin Gay" />
+          <FsCustomAttribute name="Nationality" value="United Kingdom" />
+          <FsCustomAttribute name="Email address" value="Kevin@candonorthyorks.co.uk" />
+          <FsCustomAttribute name="Country of Residence" value="United Kingdom" />
+          <FsCustomAttribute name="Postal address" value="13 Ure Bank Top,RIPON,HG4 1JD" />
+          <FsCustomAttribute name="Postal code" value="HG4 1JD" />
+          <FsCustomAttribute name="City" value="RIPON" />
+          <FsCustomAttribute name="Address" value="13 Ure Bank Top" />
+          <FsCustomAttribute name="Contact phone number" value="+07794950856" />
+          <FsCustomAttribute name="Phone for report back" value="" />
+          <FsCustomAttribute name="Wing Model" value="T2" />
+          <FsCustomAttribute name="Wing Manufacturer" value="Wills Wing" />
+          <FsCustomAttribute name="Wing certification" value="" />
+          <FsCustomAttribute name="FAI ID" value="" />
+          <FsCustomAttribute name="FAI Licence" value="" />
+          <FsCustomAttribute name="Nac Licence" value="" />
+          <FsCustomAttribute name="National Licence" value="Bhpa" />
+          <FsCustomAttribute name="Club" value="Dales" />
+          <FsCustomAttribute name="Team" value="" />
+          <FsCustomAttribute name="T-shirt size" value="L" />
+          <FsCustomAttribute name="Food restriction" value="" />
+          <FsCustomAttribute name="Insurance company" value="Bhpa" />
+          <FsCustomAttribute name="Insurance policy" value="Bhpa" />
+          <FsCustomAttribute name="Contact person" value="Magda" />
+          <FsCustomAttribute name="Contact person phone" value="+441765606603" />
+          <FsCustomAttribute name="Blood type" value="O+" />
+          <FsCustomAttribute name="Live" value="" />
+        </FsCustomAttributes>
+      </FsParticipant>
+      <FsParticipant id="34035" name="Maciej Wolaniecki" nat_code_3166_a3="pol" female="0" birthday="1961-03-30" glider="Wills Wing U2" glider_main_colors="Red, blue, white" sponsor="none" fai_licence="0" CIVLID="86564">
+        <FsCustomAttributes>
+          <FsCustomAttribute name="First name" value="Maciej" />
+          <FsCustomAttribute name="Last name" value="Wolaniecki" />
+          <FsCustomAttribute name="Name in native language" value="Maciej Wolaniecki" />
+          <FsCustomAttribute name="Nationality" value="Poland" />
+          <FsCustomAttribute name="Email address" value="maciej-wolaniecki@wp.pl" />
+          <FsCustomAttribute name="Country of Residence" value="United Kingdom" />
+          <FsCustomAttribute name="Postal address" value="Flat 7 Buckingham Court, Westwood Road,Southampton,SO17 1HD" />
+          <FsCustomAttribute name="Postal code" value="SO17 1HD" />
+          <FsCustomAttribute name="City" value="Southampton" />
+          <FsCustomAttribute name="Address" value="Flat 7 Buckingham Court, Westwood Road" />
+          <FsCustomAttribute name="Contact phone number" value="+447407298190" />
+          <FsCustomAttribute name="Phone for report back" value="" />
+          <FsCustomAttribute name="Wing Model" value="U2" />
+          <FsCustomAttribute name="Wing Manufacturer" value="Wills Wing" />
+          <FsCustomAttribute name="Wing certification" value="" />
+          <FsCustomAttribute name="FAI ID" value="" />
+          <FsCustomAttribute name="FAI Licence" value="" />
+          <FsCustomAttribute name="Nac Licence" value="" />
+          <FsCustomAttribute name="National Licence" value="" />
+          <FsCustomAttribute name="Club" value="Southern Hang Gliding Club" />
+          <FsCustomAttribute name="Team" value="none" />
+          <FsCustomAttribute name="T-shirt size" value="M" />
+          <FsCustomAttribute name="Food restriction" value="none" />
+          <FsCustomAttribute name="Insurance company" value="BHPA" />
+          <FsCustomAttribute name="Insurance policy" value="BHPA" />
+          <FsCustomAttribute name="Contact person" value="Katarzyna Piekarska" />
+          <FsCustomAttribute name="Contact person phone" value="+48793323965" />
+          <FsCustomAttribute name="Blood type" value="A-" />
+          <FsCustomAttribute name="Live" value="" />
+        </FsCustomAttributes>
+      </FsParticipant>
+      <FsParticipant id="16" name="Mike Armstrong" nat_code_3166_a3="GBR" female="1" birthday="1959-06-16" glider="A-I-R ATOS VQ" glider_main_colors="white" sponsor="British Hang Gliding &amp; Paragliding Association" fai_licence="0" CIVLID="7161">
+        <FsCustomAttributes>
+          <FsCustomAttribute name="First name" value="Mike" />
+          <FsCustomAttribute name="Last name" value="Armstrong" />
+          <FsCustomAttribute name="Name in native language" value="Mike Armstrong" />
+          <FsCustomAttribute name="Nationality" value="United Kingdom" />
+          <FsCustomAttribute name="Email address" value="hang.glide.mike@gmail.com" />
+          <FsCustomAttribute name="Country of Residence" value="United Kingdom" />
+          <FsCustomAttribute name="Postal address" value="30 Carfrae Road,Edinburgh,EH4 3QQ" />
+          <FsCustomAttribute name="Postal code" value="EH4 3QQ" />
+          <FsCustomAttribute name="City" value="Edinburgh" />
+          <FsCustomAttribute name="Address" value="30 Carfrae Road" />
+          <FsCustomAttribute name="Contact phone number" value="+447850432892" />
+          <FsCustomAttribute name="Phone for report back" value="+447850432892" />
+          <FsCustomAttribute name="Wing Model" value="VQ" />
+          <FsCustomAttribute name="Wing Manufacturer" value="A-I-R ATOS" />
+          <FsCustomAttribute name="Wing certification" value="" />
+          <FsCustomAttribute name="FAI ID" value="18943" />
+          <FsCustomAttribute name="FAI Licence" value="366722" />
+          <FsCustomAttribute name="Nac Licence" value="BHPA/5604" />
+          <FsCustomAttribute name="National Licence" value="5604" />
+          <FsCustomAttribute name="Club" value="Scottish Hang Gliding Club" />
+          <FsCustomAttribute name="Team" value="Scotland" />
+          <FsCustomAttribute name="T-shirt size" value="M" />
+          <FsCustomAttribute name="Food restriction" value="veggie" />
+          <FsCustomAttribute name="Insurance company" value="Sportscoverdirect " />
+          <FsCustomAttribute name="Insurance policy" value="tba" />
+          <FsCustomAttribute name="Contact person" value="Fiona Grant" />
+          <FsCustomAttribute name="Contact person phone" value="+447810397652" />
+          <FsCustomAttribute name="Blood type" value="A+" />
+          <FsCustomAttribute name="Live" value="" />
+        </FsCustomAttributes>
+      </FsParticipant>
+      <FsParticipant id="777" name="Nick Collins" nat_code_3166_a3="GBR" female="1" birthday="1961-01-07" glider="A-I-R ATOS VR" glider_main_colors="Technora and red stripe white  control surfaces" sponsor="British Hang Gliding and Paragliding Association" fai_licence="0" CIVLID="39468">
+        <FsCustomAttributes>
+          <FsCustomAttribute name="First name" value="Nick" />
+          <FsCustomAttribute name="Last name" value="Collins" />
+          <FsCustomAttribute name="Name in native language" value="Nick Collins" />
+          <FsCustomAttribute name="Nationality" value="United Kingdom" />
+          <FsCustomAttribute name="Email address" value="nickcollinsaero@googlemail.com" />
+          <FsCustomAttribute name="Country of Residence" value="United Kingdom" />
+          <FsCustomAttribute name="Postal address" value="Old Greytree,,Ross-on-Wye,HR9 7HT" />
+          <FsCustomAttribute name="Postal code" value="HR9 7HT" />
+          <FsCustomAttribute name="City" value="Ross-on-Wye" />
+          <FsCustomAttribute name="Address" value="Old Greytree," />
+          <FsCustomAttribute name="Contact phone number" value="+07891608966" />
+          <FsCustomAttribute name="Phone for report back" value="+07891608966" />
+          <FsCustomAttribute name="Wing Model" value="VR" />
+          <FsCustomAttribute name="Wing Manufacturer" value="A-I-R ATOS" />
+          <FsCustomAttribute name="Wing certification" value="" />
+          <FsCustomAttribute name="FAI ID" value="" />
+          <FsCustomAttribute name="FAI Licence" value="" />
+          <FsCustomAttribute name="Nac Licence" value="" />
+          <FsCustomAttribute name="National Licence" value="" />
+          <FsCustomAttribute name="Club" value="Malvern Aerotow" />
+          <FsCustomAttribute name="Team" value="Great Britain" />
+          <FsCustomAttribute name="T-shirt size" value="M" />
+          <FsCustomAttribute name="Food restriction" value="None" />
+          <FsCustomAttribute name="Insurance company" value="bhpa" />
+          <FsCustomAttribute name="Insurance policy" value="bhpa" />
+          <FsCustomAttribute name="Contact person" value="Joanna Collins" />
+          <FsCustomAttribute name="Contact person phone" value="+07528136559" />
+          <FsCustomAttribute name="Blood type" value="I do not know" />
+          <FsCustomAttribute name="Live" value="" />
+        </FsCustomAttributes>
+      </FsParticipant>
+      <FsParticipant id="1" name="Oliver Moffatt" nat_code_3166_a3="gbr" female="0" birthday="1960-04-06" glider="Moyes Litespeed RX 3.5 Pro" glider_main_colors="Grey and orange" sponsor="Mrs Moffatt" fai_licence="0" CIVLID="7288">
+        <FsCustomAttributes>
+          <FsCustomAttribute name="First name" value="Oliver" />
+          <FsCustomAttribute name="Last name" value="Moffatt" />
+          <FsCustomAttribute name="Name in native language" value="Oliver Moffatt" />
+          <FsCustomAttribute name="Nationality" value="United Kingdom" />
+          <FsCustomAttribute name="Email address" value="moffattoliver@gmail.com" />
+          <FsCustomAttribute name="Country of Residence" value="United Kingdom" />
+          <FsCustomAttribute name="Postal address" value="28 Thornton Road,Carlisle,CA3 9HZ" />
+          <FsCustomAttribute name="Postal code" value="CA3 9HZ" />
+          <FsCustomAttribute name="City" value="Carlisle" />
+          <FsCustomAttribute name="Address" value="28 Thornton Road" />
+          <FsCustomAttribute name="Contact phone number" value="+447500013766" />
+          <FsCustomAttribute name="Phone for report back" value="+447500013766" />
+          <FsCustomAttribute name="Wing Model" value="Litespeed RX 3.5 Pro" />
+          <FsCustomAttribute name="Wing Manufacturer" value="Moyes" />
+          <FsCustomAttribute name="Wing certification" value="" />
+          <FsCustomAttribute name="FAI ID" value="160509" />
+          <FsCustomAttribute name="FAI Licence" value="363198" />
+          <FsCustomAttribute name="Nac Licence" value="BHPA/8451" />
+          <FsCustomAttribute name="National Licence" value="8451" />
+          <FsCustomAttribute name="Club" value="Dales" />
+          <FsCustomAttribute name="Team" value="" />
+          <FsCustomAttribute name="T-shirt size" value="M" />
+          <FsCustomAttribute name="Food restriction" value="" />
+          <FsCustomAttribute name="Insurance company" value="Sports Cover Direct" />
+          <FsCustomAttribute name="Insurance policy" value="TBC" />
+          <FsCustomAttribute name="Contact person" value="Alison Moffatt" />
+          <FsCustomAttribute name="Contact person phone" value="+447827294934" />
+          <FsCustomAttribute name="Blood type" value="A+" />
+          <FsCustomAttribute name="Live" value="" />
+        </FsCustomAttributes>
+      </FsParticipant>
+      <FsParticipant id="99" name="Paul Boyd" nat_code_3166_a3="gbr" female="0" birthday="1957-10-26" glider="Moyes Litespeed RX 4 Pro" glider_main_colors="Black / Red" sponsor="" fai_licence="1" CIVLID="83765">
+        <FsCustomAttributes>
+          <FsCustomAttribute name="First name" value="Paul" />
+          <FsCustomAttribute name="Last name" value="Boyd" />
+          <FsCustomAttribute name="Name in native language" value="Paul Boyd" />
+          <FsCustomAttribute name="Nationality" value="United Kingdom" />
+          <FsCustomAttribute name="Email address" value="boyd.diag.audiol@btinternet.com" />
+          <FsCustomAttribute name="Country of Residence" value="United Kingdom" />
+          <FsCustomAttribute name="Postal address" value="50 Underbank End Road,Holmfirth,HD9 1ES" />
+          <FsCustomAttribute name="Postal code" value="HD9 1ES" />
+          <FsCustomAttribute name="City" value="Holmfirth" />
+          <FsCustomAttribute name="Address" value="50 Underbank End Road" />
+          <FsCustomAttribute name="Contact phone number" value="+447920031420" />
+          <FsCustomAttribute name="Phone for report back" value="+441484681027" />
+          <FsCustomAttribute name="Wing Model" value="Litespeed RX 4 Pro" />
+          <FsCustomAttribute name="Wing Manufacturer" value="Moyes" />
+          <FsCustomAttribute name="Wing certification" value="" />
+          <FsCustomAttribute name="FAI ID" value="165321" />
+          <FsCustomAttribute name="FAI Licence" value="379109" />
+          <FsCustomAttribute name="Nac Licence" value="BHPA/36354" />
+          <FsCustomAttribute name="National Licence" value="36354" />
+          <FsCustomAttribute name="Club" value="Derbyshire Soaring Club" />
+          <FsCustomAttribute name="Team" value="" />
+          <FsCustomAttribute name="T-shirt size" value="L" />
+          <FsCustomAttribute name="Food restriction" value="" />
+          <FsCustomAttribute name="Insurance company" value="BHPA" />
+          <FsCustomAttribute name="Insurance policy" value="BHPA" />
+          <FsCustomAttribute name="Contact person" value="Jake Boyd" />
+          <FsCustomAttribute name="Contact person phone" value="+447852152278" />
+          <FsCustomAttribute name="Blood type" value="I do not know" />
+          <FsCustomAttribute name="Live" value="" />
+        </FsCustomAttributes>
+      </FsParticipant>
+      <FsParticipant id="88834" name="Paul Martin" nat_code_3166_a3="gbr" female="0" birthday="1960-09-15" glider="Aeros Discus" glider_main_colors="blue white" sponsor="none" fai_licence="0" CIVLID="88834">
+        <FsCustomAttributes>
+          <FsCustomAttribute name="First name" value="Paul" />
+          <FsCustomAttribute name="Last name" value="Martin" />
+          <FsCustomAttribute name="Name in native language" value="Paul" />
+          <FsCustomAttribute name="Nationality" value="United Kingdom" />
+          <FsCustomAttribute name="Email address" value="kingsbrook28@gmail.com" />
+          <FsCustomAttribute name="Country of Residence" value="United Kingdom" />
+          <FsCustomAttribute name="Postal address" value="Kingsbrook, Ramsey Rd,Huntingdon,PE282NJ" />
+          <FsCustomAttribute name="Postal code" value="PE282NJ" />
+          <FsCustomAttribute name="City" value="Huntingdon" />
+          <FsCustomAttribute name="Address" value="Kingsbrook, Ramsey Rd" />
+          <FsCustomAttribute name="Contact phone number" value="+07935253097" />
+          <FsCustomAttribute name="Phone for report back" value="+01487773242" />
+          <FsCustomAttribute name="Wing Model" value="Discus" />
+          <FsCustomAttribute name="Wing Manufacturer" value="Aeros" />
+          <FsCustomAttribute name="Wing certification" value="" />
+          <FsCustomAttribute name="FAI ID" value="" />
+          <FsCustomAttribute name="FAI Licence" value="" />
+          <FsCustomAttribute name="Nac Licence" value="" />
+          <FsCustomAttribute name="National Licence" value="BHPA number 39674" />
+          <FsCustomAttribute name="Club" value="Cambridge Aerotowing Club" />
+          <FsCustomAttribute name="Team" value="" />
+          <FsCustomAttribute name="T-shirt size" value="XL" />
+          <FsCustomAttribute name="Food restriction" value="vegetarian" />
+          <FsCustomAttribute name="Insurance company" value="BHPA" />
+          <FsCustomAttribute name="Insurance policy" value="BHPA" />
+          <FsCustomAttribute name="Contact person" value="Karen Martin" />
+          <FsCustomAttribute name="Contact person phone" value="+07779954162" />
+          <FsCustomAttribute name="Blood type" value="O+" />
+          <FsCustomAttribute name="Live" value="" />
+        </FsCustomAttributes>
+      </FsParticipant>
+      <FsParticipant id="1625" name="Paul Walsh" nat_code_3166_a3="gbr" female="0" birthday="1969-10-07" glider="Avian Fly" glider_main_colors="pink orange white" sponsor="" fai_licence="0" CIVLID="86576">
+        <FsCustomAttributes>
+          <FsCustomAttribute name="First name" value="Paul" />
+          <FsCustomAttribute name="Last name" value="Walsh" />
+          <FsCustomAttribute name="Name in native language" value="Paul" />
+          <FsCustomAttribute name="Nationality" value="United Kingdom" />
+          <FsCustomAttribute name="Email address" value="ncband@protonmail.com" />
+          <FsCustomAttribute name="Country of Residence" value="United Kingdom" />
+          <FsCustomAttribute name="Postal address" value="" />
+          <FsCustomAttribute name="Postal code" value="" />
+          <FsCustomAttribute name="City" value="" />
+          <FsCustomAttribute name="Address" value="" />
+          <FsCustomAttribute name="Contact phone number" value="+07928439418" />
+          <FsCustomAttribute name="Phone for report back" value="" />
+          <FsCustomAttribute name="Wing Model" value="Fly" />
+          <FsCustomAttribute name="Wing Manufacturer" value="Avian" />
+          <FsCustomAttribute name="Wing certification" value="" />
+          <FsCustomAttribute name="FAI ID" value="" />
+          <FsCustomAttribute name="FAI Licence" value="" />
+          <FsCustomAttribute name="Nac Licence" value="" />
+          <FsCustomAttribute name="National Licence" value="" />
+          <FsCustomAttribute name="Club" value="" />
+          <FsCustomAttribute name="Team" value="" />
+          <FsCustomAttribute name="T-shirt size" value="L" />
+          <FsCustomAttribute name="Food restriction" value="" />
+          <FsCustomAttribute name="Insurance company" value="bhpa" />
+          <FsCustomAttribute name="Insurance policy" value="bhpa" />
+          <FsCustomAttribute name="Contact person" value="anabelle whittall" />
+          <FsCustomAttribute name="Contact person phone" value="+07766000489" />
+          <FsCustomAttribute name="Blood type" value="I do not know" />
+          <FsCustomAttribute name="Live" value="" />
+        </FsCustomAttributes>
+      </FsParticipant>
+      <FsParticipant id="42" name="Richard Hunt" nat_code_3166_a3="gbr" female="0" birthday="1975-02-14" glider="Moyes Litespeed RX 3.5 Pro" glider_main_colors="White/Black/Orange" sponsor="Cloudbase Consulting" fai_licence="0" CIVLID="25385">
+        <FsCustomAttributes>
+          <FsCustomAttribute name="First name" value="Richard" />
+          <FsCustomAttribute name="Last name" value="Hunt" />
+          <FsCustomAttribute name="Name in native language" value="Richard" />
+          <FsCustomAttribute name="Nationality" value="United Kingdom" />
+          <FsCustomAttribute name="Email address" value="richard.hunt@mycloudbase.co.uk" />
+          <FsCustomAttribute name="Country of Residence" value="United Kingdom" />
+          <FsCustomAttribute name="Postal address" value="3 Box Tree Close, Defford, Worcs, England, WR8 9BX" />
+          <FsCustomAttribute name="Postal code" value="" />
+          <FsCustomAttribute name="City" value="" />
+          <FsCustomAttribute name="Address" value="3 Box Tree Close, Defford, Worcs, England, WR8 9BX" />
+          <FsCustomAttribute name="Contact phone number" value="+447766060509" />
+          <FsCustomAttribute name="Phone for report back" value="" />
+          <FsCustomAttribute name="Wing Model" value="Litespeed RX 3.5 Pro" />
+          <FsCustomAttribute name="Wing Manufacturer" value="Moyes" />
+          <FsCustomAttribute name="Wing certification" value="" />
+          <FsCustomAttribute name="FAI ID" value="66796" />
+          <FsCustomAttribute name="FAI Licence" value="338747" />
+          <FsCustomAttribute name="Nac Licence" value="BHPA/712" />
+          <FsCustomAttribute name="National Licence" value="" />
+          <FsCustomAttribute name="Club" value="Suffolk" />
+          <FsCustomAttribute name="Team" value="" />
+          <FsCustomAttribute name="T-shirt size" value="M" />
+          <FsCustomAttribute name="Food restriction" value="" />
+          <FsCustomAttribute name="Insurance company" value="BHPA" />
+          <FsCustomAttribute name="Insurance policy" value="BHPA" />
+          <FsCustomAttribute name="Contact person" value="Jenny Hunt" />
+          <FsCustomAttribute name="Contact person phone" value="+447833257775" />
+          <FsCustomAttribute name="Blood type" value="I do not know" />
+          <FsCustomAttribute name="Live" value="" />
+        </FsCustomAttributes>
+      </FsParticipant>
+      <FsParticipant id="999" name="Stephen Newman" nat_code_3166_a3="gbr" female="0" birthday="1958-05-15" glider="Avian Rio2" glider_main_colors="Green" sponsor="" fai_licence="0" CIVLID="83454">
+        <FsCustomAttributes>
+          <FsCustomAttribute name="First name" value="Stephen" />
+          <FsCustomAttribute name="Last name" value="Newman" />
+          <FsCustomAttribute name="Name in native language" value="Stephen Newman" />
+          <FsCustomAttribute name="Nationality" value="United Kingdom" />
+          <FsCustomAttribute name="Email address" value="sgd.newman@sky.com" />
+          <FsCustomAttribute name="Country of Residence" value="United Kingdom" />
+          <FsCustomAttribute name="Postal address" value="12 Sycamore Close,Goole,DN14 9QU" />
+          <FsCustomAttribute name="Postal code" value="DN14 9QU" />
+          <FsCustomAttribute name="City" value="Goole" />
+          <FsCustomAttribute name="Address" value="12 Sycamore Close" />
+          <FsCustomAttribute name="Contact phone number" value="+447999357615" />
+          <FsCustomAttribute name="Phone for report back" value="" />
+          <FsCustomAttribute name="Wing Model" value="Rio2" />
+          <FsCustomAttribute name="Wing Manufacturer" value="Avian" />
+          <FsCustomAttribute name="Wing certification" value="" />
+          <FsCustomAttribute name="FAI ID" value="" />
+          <FsCustomAttribute name="FAI Licence" value="" />
+          <FsCustomAttribute name="Nac Licence" value="" />
+          <FsCustomAttribute name="National Licence" value="BHPA8594" />
+          <FsCustomAttribute name="Club" value="George Cayley Soaring Club" />
+          <FsCustomAttribute name="Team" value="" />
+          <FsCustomAttribute name="T-shirt size" value="L" />
+          <FsCustomAttribute name="Food restriction" value="" />
+          <FsCustomAttribute name="Insurance company" value="NHS" />
+          <FsCustomAttribute name="Insurance policy" value="123" />
+          <FsCustomAttribute name="Contact person" value="Margaret War" />
+          <FsCustomAttribute name="Contact person phone" value="+01405862502" />
+          <FsCustomAttribute name="Blood type" value="I do not know" />
+          <FsCustomAttribute name="Live" value="" />
+        </FsCustomAttributes>
+      </FsParticipant>
+      <FsParticipant id="6" name="Stephen Penfold" nat_code_3166_a3="gbr" female="0" birthday="1974-02-27" glider="Moyes Litespeed RX 3.5 Pro" glider_main_colors="Green/Orange" sponsor="ripstra@msn.com" fai_licence="1" CIVLID="7717">
+        <FsCustomAttributes>
+          <FsCustomAttribute name="First name" value="Stephen" />
+          <FsCustomAttribute name="Last name" value="Penfold" />
+          <FsCustomAttribute name="Name in native language" value="Steve Penfold" />
+          <FsCustomAttribute name="Nationality" value="United Kingdom" />
+          <FsCustomAttribute name="Email address" value="ripstra@msn.com" />
+          <FsCustomAttribute name="Country of Residence" value="United Kingdom" />
+          <FsCustomAttribute name="Postal address" value="Tancred Lodge, Boroughbridge Road, Whixley, YO26 8BA" />
+          <FsCustomAttribute name="Postal code" value="" />
+          <FsCustomAttribute name="City" value="" />
+          <FsCustomAttribute name="Address" value="Tancred Lodge, Boroughbridge Road, Whixley, YO26 8BA" />
+          <FsCustomAttribute name="Contact phone number" value="+447770897419" />
+          <FsCustomAttribute name="Phone for report back" value="" />
+          <FsCustomAttribute name="Wing Model" value="Litespeed RX 3.5 Pro" />
+          <FsCustomAttribute name="Wing Manufacturer" value="Moyes" />
+          <FsCustomAttribute name="Wing certification" value="" />
+          <FsCustomAttribute name="FAI ID" value="18860" />
+          <FsCustomAttribute name="FAI Licence" value="375547" />
+          <FsCustomAttribute name="Nac Licence" value="BHPA/532" />
+          <FsCustomAttribute name="National Licence" value="532" />
+          <FsCustomAttribute name="Club" value="Derbyshire" />
+          <FsCustomAttribute name="Team" value="" />
+          <FsCustomAttribute name="T-shirt size" value="M" />
+          <FsCustomAttribute name="Food restriction" value="" />
+          <FsCustomAttribute name="Insurance company" value="Sports Cover Direct" />
+          <FsCustomAttribute name="Insurance policy" value="444400021467" />
+          <FsCustomAttribute name="Contact person" value="Stefania Tomasina" />
+          <FsCustomAttribute name="Contact person phone" value="+4531500225" />
+          <FsCustomAttribute name="Blood type" value="A+" />
+          <FsCustomAttribute name="Live" value="" />
+        </FsCustomAttributes>
+      </FsParticipant>
+      <FsParticipant id="69" name="Tim Dotchin" nat_code_3166_a3="gbr" female="0" birthday="1983-02-25" glider="Aeros Combat C" glider_main_colors="Blue and Yellow" sponsor="" fai_licence="0" CIVLID="83150">
+        <FsCustomAttributes>
+          <FsCustomAttribute name="First name" value="Tim" />
+          <FsCustomAttribute name="Last name" value="Dotchin" />
+          <FsCustomAttribute name="Name in native language" value="Tim Dotchin" />
+          <FsCustomAttribute name="Nationality" value="United Kingdom" />
+          <FsCustomAttribute name="Email address" value="dotchint@gmail.com" />
+          <FsCustomAttribute name="Country of Residence" value="United Kingdom" />
+          <FsCustomAttribute name="Postal address" value="4 Ash Rise, Nayland, Suffolk, CO6 4LP,CO6 4LP" />
+          <FsCustomAttribute name="Postal code" value="CO6 4LP" />
+          <FsCustomAttribute name="City" value="" />
+          <FsCustomAttribute name="Address" value="4 Ash Rise, Nayland, Suffolk, CO6 4LP" />
+          <FsCustomAttribute name="Contact phone number" value="+07886460963" />
+          <FsCustomAttribute name="Phone for report back" value="" />
+          <FsCustomAttribute name="Wing Model" value="Combat C" />
+          <FsCustomAttribute name="Wing Manufacturer" value="Aeros" />
+          <FsCustomAttribute name="Wing certification" value="" />
+          <FsCustomAttribute name="FAI ID" value="66840" />
+          <FsCustomAttribute name="FAI Licence" value="360213" />
+          <FsCustomAttribute name="Nac Licence" value="BHPA/23567" />
+          <FsCustomAttribute name="National Licence" value="23567" />
+          <FsCustomAttribute name="Club" value="" />
+          <FsCustomAttribute name="Team" value="" />
+          <FsCustomAttribute name="T-shirt size" value="L" />
+          <FsCustomAttribute name="Food restriction" value="" />
+          <FsCustomAttribute name="Insurance company" value="Na" />
+          <FsCustomAttribute name="Insurance policy" value="Na" />
+          <FsCustomAttribute name="Contact person" value="Andrew Dotchin" />
+          <FsCustomAttribute name="Contact person phone" value="+440781494982" />
+          <FsCustomAttribute name="Blood type" value="I do not know" />
+          <FsCustomAttribute name="Live" value="" />
+        </FsCustomAttributes>
+      </FsParticipant>
+      <FsParticipant id="778" name="Tim King" nat_code_3166_a3="" female="1" birthday="1963-10-06" glider="A-I-R ATOS VQ" glider_main_colors="Red/white" sponsor="Kings of Hampshire Ltd BHPA" fai_licence="0" CIVLID="11681">
+        <FsCustomAttributes>
+          <FsCustomAttribute name="First name" value="Tim" />
+          <FsCustomAttribute name="Last name" value="King" />
+          <FsCustomAttribute name="Name in native language" value="Tim King" />
+          <FsCustomAttribute name="Nationality" value="United Kingdom" />
+          <FsCustomAttribute name="Email address" value="kingsofhampshire@yahoo.com" />
+          <FsCustomAttribute name="Country of Residence" value="United Kingdom" />
+          <FsCustomAttribute name="Postal address" value="93 Wavell Way,Winchester,SO22 4EG" />
+          <FsCustomAttribute name="Postal code" value="SO22 4EG" />
+          <FsCustomAttribute name="City" value="Winchester" />
+          <FsCustomAttribute name="Address" value="93 Wavell Way" />
+          <FsCustomAttribute name="Contact phone number" value="+07973706151" />
+          <FsCustomAttribute name="Phone for report back" value="" />
+          <FsCustomAttribute name="Wing Model" value="VQ" />
+          <FsCustomAttribute name="Wing Manufacturer" value="A-I-R ATOS" />
+          <FsCustomAttribute name="Wing certification" value="" />
+          <FsCustomAttribute name="FAI ID" value="19081" />
+          <FsCustomAttribute name="FAI Licence" value="366731" />
+          <FsCustomAttribute name="Nac Licence" value="BHPA/16621" />
+          <FsCustomAttribute name="National Licence" value="11621" />
+          <FsCustomAttribute name="Club" value="Sky surfers" />
+          <FsCustomAttribute name="Team" value="" />
+          <FsCustomAttribute name="T-shirt size" value="L" />
+          <FsCustomAttribute name="Food restriction" value="" />
+          <FsCustomAttribute name="Insurance company" value="Sports cover direct" />
+          <FsCustomAttribute name="Insurance policy" value="444200114950" />
+          <FsCustomAttribute name="Contact person" value="Babs King" />
+          <FsCustomAttribute name="Contact person phone" value="+44966212234" />
+          <FsCustomAttribute name="Blood type" value="I do not know" />
+          <FsCustomAttribute name="Live" value="" />
+        </FsCustomAttributes>
+      </FsParticipant>
+      <FsParticipant id="7" name="Tim Swait" nat_code_3166_a3="gbr" female="0" birthday="1982-12-22" glider="Avian Puma" glider_main_colors="Grey" sponsor="Avian Hang Gliders" fai_licence="0" CIVLID="50035">
+        <FsCustomAttributes>
+          <FsCustomAttribute name="First name" value="Tim" />
+          <FsCustomAttribute name="Last name" value="Swait" />
+          <FsCustomAttribute name="Name in native language" value="Tim" />
+          <FsCustomAttribute name="Nationality" value="United Kingdom" />
+          <FsCustomAttribute name="Email address" value="timswait@gmail.com" />
+          <FsCustomAttribute name="Country of Residence" value="United Kingdom" />
+          <FsCustomAttribute name="Postal address" value="S33 9JT" />
+          <FsCustomAttribute name="Postal code" value="" />
+          <FsCustomAttribute name="City" value="" />
+          <FsCustomAttribute name="Address" value="S33 9JT" />
+          <FsCustomAttribute name="Contact phone number" value="+447985600872" />
+          <FsCustomAttribute name="Phone for report back" value="" />
+          <FsCustomAttribute name="Wing Model" value="Puma" />
+          <FsCustomAttribute name="Wing Manufacturer" value="Avian" />
+          <FsCustomAttribute name="Wing certification" value="" />
+          <FsCustomAttribute name="FAI ID" value="140875" />
+          <FsCustomAttribute name="FAI Licence" value="360857" />
+          <FsCustomAttribute name="Nac Licence" value="BHPA/32420" />
+          <FsCustomAttribute name="National Licence" value="32420" />
+          <FsCustomAttribute name="Club" value="Derbyshire Soaring Club" />
+          <FsCustomAttribute name="Team" value="" />
+          <FsCustomAttribute name="T-shirt size" value="M" />
+          <FsCustomAttribute name="Food restriction" value="" />
+          <FsCustomAttribute name="Insurance company" value="Sports Cover Direct" />
+          <FsCustomAttribute name="Insurance policy" value="444200087521" />
+          <FsCustomAttribute name="Contact person" value="Joyce Swait" />
+          <FsCustomAttribute name="Contact person phone" value="+447942689389" />
+          <FsCustomAttribute name="Blood type" value="I do not know" />
+          <FsCustomAttribute name="Live" value="" />
+        </FsCustomAttributes>
+      </FsParticipant>
+      <FsParticipant id="66" name="Torquil Clyde" nat_code_3166_a3="gbr" female="0" birthday="1966-11-18" glider="Moyes Gecko 155" glider_main_colors="Blue, Orange" sponsor="" fai_licence="0" CIVLID="86544">
+        <FsCustomAttributes>
+          <FsCustomAttribute name="First name" value="Torquil" />
+          <FsCustomAttribute name="Last name" value="Clyde" />
+          <FsCustomAttribute name="Name in native language" value="Torquil Clyde" />
+          <FsCustomAttribute name="Nationality" value="United Kingdom" />
+          <FsCustomAttribute name="Email address" value="torquil@skirlo.scot" />
+          <FsCustomAttribute name="Country of Residence" value="United Kingdom" />
+          <FsCustomAttribute name="Postal address" value="Skirlo, Bearstone Road,Kirkwall,KW151SZ" />
+          <FsCustomAttribute name="Postal code" value="KW151SZ" />
+          <FsCustomAttribute name="City" value="Kirkwall" />
+          <FsCustomAttribute name="Address" value="Skirlo, Bearstone Road" />
+          <FsCustomAttribute name="Contact phone number" value="+447802918941" />
+          <FsCustomAttribute name="Phone for report back" value="" />
+          <FsCustomAttribute name="Wing Model" value="Gecko 155" />
+          <FsCustomAttribute name="Wing Manufacturer" value="Moyes" />
+          <FsCustomAttribute name="Wing certification" value="" />
+          <FsCustomAttribute name="FAI ID" value="" />
+          <FsCustomAttribute name="FAI Licence" value="" />
+          <FsCustomAttribute name="Nac Licence" value="" />
+          <FsCustomAttribute name="National Licence" value="40233" />
+          <FsCustomAttribute name="Club" value="Scottish Hang Gliding" />
+          <FsCustomAttribute name="Team" value="" />
+          <FsCustomAttribute name="T-shirt size" value="M" />
+          <FsCustomAttribute name="Food restriction" value="" />
+          <FsCustomAttribute name="Insurance company" value="BHPA" />
+          <FsCustomAttribute name="Insurance policy" value="BHPA" />
+          <FsCustomAttribute name="Contact person" value="Beccy May" />
+          <FsCustomAttribute name="Contact person phone" value="+447834031760" />
+          <FsCustomAttribute name="Blood type" value="O+" />
+          <FsCustomAttribute name="Live" value="" />
+        </FsCustomAttributes>
+      </FsParticipant>
+      <FsParticipant id="5" name="Wayne Thompson" nat_code_3166_a3="gbr" female="0" birthday="1966-11-23" glider="Moyes Litespeed RX 4 Pro" glider_main_colors="Red,Orange,Yellow" sponsor="BT Photography " fai_licence="1" CIVLID="7945">
+        <FsCustomAttributes>
+          <FsCustomAttribute name="First name" value="Wayne" />
+          <FsCustomAttribute name="Last name" value="Thompson" />
+          <FsCustomAttribute name="Name in native language" value="Wayne Thompson" />
+          <FsCustomAttribute name="Nationality" value="United Kingdom" />
+          <FsCustomAttribute name="Email address" value="cloudeater@sky.com" />
+          <FsCustomAttribute name="Country of Residence" value="United Kingdom" />
+          <FsCustomAttribute name="Postal address" value="18 Penrose crescent, Arkwright Town,,Chesterfield,S44 5BX" />
+          <FsCustomAttribute name="Postal code" value="S44 5BX" />
+          <FsCustomAttribute name="City" value="Chesterfield" />
+          <FsCustomAttribute name="Address" value="18 Penrose crescent, Arkwright Town," />
+          <FsCustomAttribute name="Contact phone number" value="+447766334404" />
+          <FsCustomAttribute name="Phone for report back" value="+447766334404" />
+          <FsCustomAttribute name="Wing Model" value="Litespeed RX 4 Pro" />
+          <FsCustomAttribute name="Wing Manufacturer" value="Moyes" />
+          <FsCustomAttribute name="Wing certification" value="" />
+          <FsCustomAttribute name="FAI ID" value="18870" />
+          <FsCustomAttribute name="FAI Licence" value="380332" />
+          <FsCustomAttribute name="Nac Licence" value="BHPA/1282" />
+          <FsCustomAttribute name="National Licence" value="1282" />
+          <FsCustomAttribute name="Club" value="Derbyshire Soaring Club" />
+          <FsCustomAttribute name="Team" value="Great Britain" />
+          <FsCustomAttribute name="T-shirt size" value="L" />
+          <FsCustomAttribute name="Food restriction" value="none" />
+          <FsCustomAttribute name="Insurance company" value="SportsCover Direct" />
+          <FsCustomAttribute name="Insurance policy" value="444200097413" />
+          <FsCustomAttribute name="Contact person" value="Barbara Thompson" />
+          <FsCustomAttribute name="Contact person phone" value="+447837975925" />
+          <FsCustomAttribute name="Blood type" value="O-" />
+          <FsCustomAttribute name="Live" value="" />
+        </FsCustomAttributes>
+      </FsParticipant>
+      <FsParticipant id="10" name="William Bell" nat_code_3166_a3="gbr" female="0" birthday="1955-07-03" glider="Moyes Litespeed RX 3.5 Pro" glider_main_colors="Blue" sponsor="Rhydd Cottage" fai_licence="1" CIVLID="12935">
+        <FsCustomAttributes>
+          <FsCustomAttribute name="First name" value="William" />
+          <FsCustomAttribute name="Last name" value="Bell" />
+          <FsCustomAttribute name="Name in native language" value="Bill" />
+          <FsCustomAttribute name="Nationality" value="United Kingdom" />
+          <FsCustomAttribute name="Email address" value="BOS@billbell.co.uk" />
+          <FsCustomAttribute name="Country of Residence" value="United Kingdom" />
+          <FsCustomAttribute name="Postal address" value="Rhydd Gardens, Worcester Road, Hanley Castle,  Worcs,Hanley Castle,WR80AB" />
+          <FsCustomAttribute name="Postal code" value="WR80AB" />
+          <FsCustomAttribute name="City" value="Hanley Castle" />
+          <FsCustomAttribute name="Address" value="Rhydd Gardens, Worcester Road, Hanley Castle,  Worcs" />
+          <FsCustomAttribute name="Contact phone number" value="+447768028899" />
+          <FsCustomAttribute name="Phone for report back" value="" />
+          <FsCustomAttribute name="Wing Model" value="Litespeed RX 3.5 Pro" />
+          <FsCustomAttribute name="Wing Manufacturer" value="Moyes" />
+          <FsCustomAttribute name="Wing certification" value="" />
+          <FsCustomAttribute name="FAI ID" value="18946" />
+          <FsCustomAttribute name="FAI Licence" value="394683" />
+          <FsCustomAttribute name="Nac Licence" value="BHPA/5787" />
+          <FsCustomAttribute name="National Licence" value="" />
+          <FsCustomAttribute name="Club" value="Malvern" />
+          <FsCustomAttribute name="Team" value="" />
+          <FsCustomAttribute name="T-shirt size" value="L" />
+          <FsCustomAttribute name="Food restriction" value="" />
+          <FsCustomAttribute name="Insurance company" value="BHPA" />
+          <FsCustomAttribute name="Insurance policy" value="BHPA" />
+          <FsCustomAttribute name="Contact person" value="Sue Brooks" />
+          <FsCustomAttribute name="Contact person phone" value="+447887532166" />
+          <FsCustomAttribute name="Blood type" value="I do not know" />
+          <FsCustomAttribute name="Live" value="" />
+        </FsCustomAttributes>
+      </FsParticipant>
+      <FsParticipant id="5632" name="Neil Atkinson" nat_code_3166_a3="" female="1" birthday="1960-03-02" glider="A-I-R ATOS VR" glider_main_colors="Clear" sponsor="Avon" fai_licence="1" CIVLID="21574">
+        <FsCustomAttributes>
+          <FsCustomAttribute name="First name" value="Neil" />
+          <FsCustomAttribute name="Last name" value="Atkinson" />
+          <FsCustomAttribute name="Name in native language" value="Neil Atkinson" />
+          <FsCustomAttribute name="Nationality" value="United Kingdom" />
+          <FsCustomAttribute name="Email address" value="neil.flyhg@gmail.com" />
+          <FsCustomAttribute name="Country of Residence" value="United Kingdom" />
+          <FsCustomAttribute name="Postal address" value="14 Kew walk,Andover,Sp10 3ul" />
+          <FsCustomAttribute name="Postal code" value="Sp10 3ul" />
+          <FsCustomAttribute name="City" value="Andover" />
+          <FsCustomAttribute name="Address" value="14 Kew walk" />
+          <FsCustomAttribute name="Contact phone number" value="+44771859793" />
+          <FsCustomAttribute name="Phone for report back" value="+447710869793" />
+          <FsCustomAttribute name="Wing Model" value="VR" />
+          <FsCustomAttribute name="Wing Manufacturer" value="A-I-R ATOS" />
+          <FsCustomAttribute name="Wing certification" value="" />
+          <FsCustomAttribute name="FAI ID" value="18944" />
+          <FsCustomAttribute name="FAI Licence" value="379595" />
+          <FsCustomAttribute name="Nac Licence" value="BHPA/5632" />
+          <FsCustomAttribute name="National Licence" value="5632" />
+          <FsCustomAttribute name="Club" value="Avon" />
+          <FsCustomAttribute name="Team" value="" />
+          <FsCustomAttribute name="T-shirt size" value="XL" />
+          <FsCustomAttribute name="Food restriction" value="" />
+          <FsCustomAttribute name="Insurance company" value="Sports cover direct" />
+          <FsCustomAttribute name="Insurance policy" value="444200115934" />
+          <FsCustomAttribute name="Contact person" value="Wendy atkinson" />
+          <FsCustomAttribute name="Contact person phone" value="+44751368074" />
+          <FsCustomAttribute name="Blood type" value="O+" />
+          <FsCustomAttribute name="Live" value="" />
+        </FsCustomAttributes>
+      </FsParticipant>
+    </FsParticipants>
+    <FsTasks>
+      <FsTask id="1" name="TEST TASK" waypoints_file="C:\Users\Richard\Dropbox\Personal\BOS Scoring 2024\BOS1_test\DALESBOS22utm.wpt" tracklog_folder="tracks\T1">
+        <FsScoreFormula id="GAP2023" min_dist="7" nom_dist="70" nom_time="1.5" nom_launch="0.96" nom_goal="0.25" day_quality_override="0" bonus_gr="4" jump_the_gun_factor="0" jump_the_gun_max="0" normalize_1000_before_day_quality="0" time_points_if_not_in_goal="0" use_1000_points_for_max_day_quality="0" use_arrival_position_points="0" use_arrival_time_points="0" use_departure_points="0" use_difficulty_for_distance_points="0" use_distance_points="1" use_distance_squared_for_LC="1" use_leading_points="1" use_semi_circle_control_zone_for_goal_line="1" use_time_points="1" scoring_altitude="GPS" final_glide_decelerator="none" no_final_glide_decelerator_reason="" min_time_span_for_valid_task="45" score_back_time="5" use_proportional_leading_weight_if_nobody_in_goal="1" leading_weight_factor="2" turnpoint_radius_tolerance="0.005" turnpoint_radius_minimum_absolute_tolerance="5" number_of_decimals_task_results="1" number_of_decimals_competition_results="0" redistribute_removed_time_points_as_distance_points="1" use_best_score_for_ftv_validity="1" use_constant_leading_weight="0" use_pwca2019_for_lc="0" use_flat_decline_of_timepoints="1" use_leading_time_ratio="0" optimize_ss_alone="0" />
+        <FsTaskDefinition ss="2" es="4" goal="CIRCLE" groundstart="0" qnh_setting="1013.25" leading_time_ratio="0.26">
+          <FsTurnpoint id="SWF017" lat="54.2696" lon="-2.20514" altitude="570" radius="400" open="2022-06-13T12:00:00+01:00" close="2022-06-13T20:00:00+01:00" />
+          <FsTurnpoint id="SWF017" lat="54.2696" lon="-2.20514" altitude="570" radius="5000" open="2022-06-13T12:00:00+01:00" close="2022-06-13T20:00:00+01:00" />
+          <FsTurnpoint id="G02002" lat="54.22642" lon="-1.65235" altitude="75" radius="1000" open="2022-06-13T12:00:00+01:00" close="2022-06-13T20:00:00+01:00" />
+          <FsTurnpoint id="G24010" lat="54.24866" lon="-1.20657" altitude="310" radius="400" open="2022-06-13T12:00:00+01:00" close="2022-06-13T20:00:00+01:00" />
+          <FsStartGate open="2022-06-13T12:00:00+01:00" />
+          <FsTaskShortestPath>
+            <FsPathVertex lat="54.2696" lon="-2.20514" altitude="0" />
+            <FsPathVertex lat="54.26503" lon="-2.12877" altitude="0" />
+            <FsPathVertex lat="54.2354" lon="-1.65193" altitude="0" />
+            <FsPathVertex lat="54.24849" lon="-1.2127" altitude="0" />
+          </FsTaskShortestPath>
+        </FsTaskDefinition>
+        <FsTaskState task_state="REGULAR" score_back_time="5" cancel_reason="" stop_time="2022-06-13T16:15:00+01:00" stop_score_time="2022-06-13T16:10:00+01:00" />
+        <FsParticipants>
+          <FsParticipant id="28">
+            <FsFlightData distance="6.642" bonus_distance="0.000" flown_ss_distance="1.641" started_ss="2022-06-13T13:23:27+01:00" finished_ss="" altitude_at_ess="0" finished_task="2022-06-13T13:23:27+01:00" tracklog_filename="20220613-114253-TrevorBirkbeck.28.igc" iv0="970728" ts="2024-03-09T16:18:25Z" alt="241" bonus_alt="623" max_alt="623" last_tracklog_point_distance="6.642" bonus_last_tracklog_point_distance="0.000" last_tracklog_point_time="2022-06-13T13:23:27+01:00" last_tracklog_point_alt="241" landed_before_deadline="1" reachedGoal="0" />
+            <FsResult rank="6" pointswithoutpenalty="63.2692" points="63.3" distance="7" ss_time="00:00:00" finished_ss_rank="1" distance_points="57.5" linear_distance_points="57.47" difficulty_distance_points="0" time_points="0" arrival_points="0" departure_points="0" leading_points="5.8" penalty="0" penalty_points="0" penalty_reason="" penalty_points_auto="0" penalty_reason_auto="" penalty_min_dist_points="0" got_time_but_not_goal_penalty="False" started_ss="2022-06-13T12:00:00+01:00" ss_time_dec_hours="0" ts="2024-03-09T16:19:43Z" real_distance="7" last_distance="6.642" last_altitude_above_goal="0" altitude_bonus_seconds="0" altitude_bonus_time="00:00:00" altitude_at_ess="0" scored_ss_time="00:00:00" landed_before_stop="False" iv="24466967" lc="3.7848" />
+          </FsParticipant>
+          <FsParticipant id="16">
+            <FsFlightData distance="36.858" bonus_distance="0.000" flown_ss_distance="31.857" started_ss="2022-06-13T13:00:45+01:00" finished_ss="" altitude_at_ess="0" finished_task="2022-06-13T13:55:16+01:00" tracklog_filename="20220613-111553-MikeArmstrong.16.igc" iv0="14082044" ts="2024-03-09T16:18:25Z" alt="737" bonus_alt="856" max_alt="1131" last_tracklog_point_distance="32.265" bonus_last_tracklog_point_distance="0.000" last_tracklog_point_time="2022-06-13T14:06:43+01:00" last_tracklog_point_alt="92" landed_before_deadline="1" reachedGoal="0" />
+            <FsResult rank="1" pointswithoutpenalty="316.9" points="316.9" distance="36.858" ss_time="00:00:00" finished_ss_rank="1" distance_points="302.6" linear_distance_points="302.6" difficulty_distance_points="0" time_points="0" arrival_points="0" departure_points="0" leading_points="14.3" penalty="0" penalty_points="0" penalty_reason="" penalty_points_auto="0" penalty_reason_auto="" penalty_min_dist_points="0" got_time_but_not_goal_penalty="False" started_ss="2022-06-13T12:00:00+01:00" ss_time_dec_hours="0" ts="2024-03-09T16:19:43Z" real_distance="36.858" last_distance="32.265" last_altitude_above_goal="0" altitude_bonus_seconds="0" altitude_bonus_time="00:00:00" altitude_at_ess="0" scored_ss_time="00:00:00" landed_before_stop="False" iv="19531720" lc="3.0214" />
+          </FsParticipant>
+          <FsParticipant id="777">
+            <FsFlightData distance="14.936" bonus_distance="0.000" flown_ss_distance="9.934" started_ss="2022-06-13T13:00:33+01:00" finished_ss="" altitude_at_ess="0" finished_task="2022-06-13T13:15:51+01:00" tracklog_filename="20220613-112351-StevenBlackler.777.igc" iv0="4419199" ts="2024-03-09T16:18:25Z" alt="356" bonus_alt="631" max_alt="1072" last_tracklog_point_distance="14.518" bonus_last_tracklog_point_distance="0.000" last_tracklog_point_time="2022-06-13T13:23:07+01:00" last_tracklog_point_alt="200" landed_before_deadline="1" reachedGoal="0" />
+            <FsResult rank="5" pointswithoutpenalty="132.6229" points="132.6" distance="14.936" ss_time="00:00:00" finished_ss_rank="1" distance_points="122.6" linear_distance_points="122.62" difficulty_distance_points="0" time_points="0" arrival_points="0" departure_points="0" leading_points="10" penalty="0" penalty_points="0" penalty_reason="" penalty_points_auto="0" penalty_reason_auto="" penalty_min_dist_points="0" got_time_but_not_goal_penalty="False" started_ss="2022-06-13T12:00:00+01:00" ss_time_dec_hours="0" ts="2024-03-09T16:19:43Z" real_distance="14.936" last_distance="14.518" last_altitude_above_goal="0" altitude_bonus_seconds="0" altitude_bonus_time="00:00:00" altitude_at_ess="0" scored_ss_time="00:00:00" landed_before_stop="False" iv="21705048" lc="3.3576" />
+          </FsParticipant>
+          <FsParticipant id="1">
+            <FsFlightData distance="35.805" bonus_distance="0.000" flown_ss_distance="30.803" started_ss="2022-06-13T12:58:11+01:00" finished_ss="" altitude_at_ess="0" finished_task="2022-06-13T13:38:41+01:00" tracklog_filename="20220613-112621-gordonrigg.1.igc" iv0="12283126" ts="2024-03-09T16:18:25Z" alt="989" bonus_alt="840" max_alt="1305" last_tracklog_point_distance="13.956" bonus_last_tracklog_point_distance="0.000" last_tracklog_point_time="2022-06-13T14:22:26+01:00" last_tracklog_point_alt="68" landed_before_deadline="1" reachedGoal="0" />
+            <FsResult rank="2" pointswithoutpenalty="313.055" points="313.1" distance="35.805" ss_time="00:00:00" finished_ss_rank="1" distance_points="294" linear_distance_points="293.95" difficulty_distance_points="0" time_points="0" arrival_points="0" departure_points="0" leading_points="19.1" penalty="0" penalty_points="0" penalty_reason="" penalty_points_auto="0" penalty_reason_auto="" penalty_min_dist_points="0" got_time_but_not_goal_penalty="False" started_ss="2022-06-13T12:00:00+01:00" ss_time_dec_hours="0" ts="2024-03-09T16:19:43Z" real_distance="35.805" last_distance="13.956" last_altitude_above_goal="0" altitude_bonus_seconds="0" altitude_bonus_time="00:00:00" altitude_at_ess="0" scored_ss_time="00:00:00" landed_before_stop="False" iv="18149730" lc="2.8076" />
+          </FsParticipant>
+          <FsParticipant id="42">
+            <FsFlightData distance="17.495" bonus_distance="0.000" flown_ss_distance="12.493" started_ss="2022-06-13T12:57:14+01:00" finished_ss="" altitude_at_ess="0" finished_task="2022-06-13T13:18:50+01:00" tracklog_filename="20220613-111603-RichardHunt.42.igc" iv0="5233654" ts="2024-03-09T16:18:25Z" alt="363" bonus_alt="771" max_alt="1061" last_tracklog_point_distance="17.489" bonus_last_tracklog_point_distance="0.000" last_tracklog_point_time="2022-06-13T13:20:56+01:00" last_tracklog_point_alt="352" landed_before_deadline="1" reachedGoal="0" />
+            <FsResult rank="4" pointswithoutpenalty="155.232" points="155.2" distance="17.495" ss_time="00:00:00" finished_ss_rank="1" distance_points="143.6" linear_distance_points="143.63" difficulty_distance_points="0" time_points="0" arrival_points="0" departure_points="0" leading_points="11.6" penalty="0" penalty_points="0" penalty_reason="" penalty_points_auto="0" penalty_reason_auto="" penalty_min_dist_points="0" got_time_but_not_goal_penalty="False" started_ss="2022-06-13T12:00:00+01:00" ss_time_dec_hours="0" ts="2024-03-09T16:19:43Z" real_distance="17.495" last_distance="17.489" last_altitude_above_goal="0" altitude_bonus_seconds="0" altitude_bonus_time="00:00:00" altitude_at_ess="0" scored_ss_time="00:00:00" landed_before_stop="False" iv="20795200" lc="3.2169" />
+          </FsParticipant>
+          <FsParticipant id="7">
+            <FsFlightData distance="36.199" bonus_distance="0.000" flown_ss_distance="31.197" started_ss="2022-06-13T12:59:44+01:00" finished_ss="" altitude_at_ess="0" finished_task="2022-06-13T13:51:11+01:00" tracklog_filename="Steve Penfold.20220613-184747.7717.7.igc" iv0="13590226" ts="2024-03-09T16:18:25Z" alt="1129" bonus_alt="571" max_alt="1193" last_tracklog_point_distance="13.453" bonus_last_tracklog_point_distance="0.000" last_tracklog_point_time="2022-06-13T14:32:05+01:00" last_tracklog_point_alt="68" landed_before_deadline="1" reachedGoal="0" />
+            <FsResult rank="3" pointswithoutpenalty="311.9897" points="312" distance="36.199" ss_time="00:00:00" finished_ss_rank="1" distance_points="297.2" linear_distance_points="297.19" difficulty_distance_points="0" time_points="0" arrival_points="0" departure_points="0" leading_points="14.8" penalty="0" penalty_points="0" penalty_reason="" penalty_points_auto="0" penalty_reason_auto="" penalty_min_dist_points="0" got_time_but_not_goal_penalty="False" started_ss="2022-06-13T12:00:00+01:00" ss_time_dec_hours="0" ts="2024-03-09T16:19:43Z" real_distance="36.199" last_distance="13.453" last_altitude_above_goal="0" altitude_bonus_seconds="0" altitude_bonus_time="00:00:00" altitude_at_ess="0" scored_ss_time="00:00:00" landed_before_stop="False" iv="19299178" lc="2.9854" />
+          </FsParticipant>
+        </FsParticipants>
+        <FsTaskScoreParams task_distance="64.929" ss_distance="59.927" launch_to_ess_distance="64.929" qnh_setting="1013.25" no_of_pilots_in_competition="29" max_time_en_route="00:00:00" max_time_en_route_tp="0" no_of_pilots_present="6" no_of_pilots_flying="6" no_of_pilots_lo="6" no_of_pilots_landed_before_stop="0" sum_dist_over_min="106.293" sum_real_dist_over_min="106.293" sum_flown_distances="147.935" best_dist="36.858" best_real_dist="36.858" best_time="0" last_start_time="2022-06-13T12:00:00+01:00" first_start_time="2022-06-13T12:57:14+01:00" last_landed_before_ess_finish_time="2022-06-13T13:55:16+01:00" no_of_pilots_reaching_es="0" no_of_pilots_reaching_goal="0" max_time_to_get_time_points="0" goalratio="0" arrival_weight="0" departure_weight="0" leading_weight="0.0568" time_weight="0.0432" distance_weight="0.9" smallest_leading_coefficient="2.8076" available_points_distance="302.6" available_points_time="14.5" available_points_departure="0" available_points_leading="19.1" available_points_arrival="0" time_validity="0.7473" launch_validity="1" distance_validity="0.4499" stop_validity="1" day_quality="0.3362" ftv_day_validity="0.3169" time_points_stop_correction="0">
+          <FsTaskDistToTp tp_no="1" distance="0.000" />
+          <FsTaskDistToTp tp_no="2" distance="5.002" />
+          <FsTaskDistToTp tp_no="3" distance="36.257" />
+          <FsTaskDistToTp tp_no="4" distance="64.930" />
+        </FsTaskScoreParams>
+        <FsTaskResults>
+          <FsTaskResult id="overall" title="TEST" ts="2024-03-09T16:19:59Z" result_pattern="#0.0">
+            <FsTaskScoreParams task_distance="64.929" ss_distance="59.927" launch_to_ess_distance="64.929" qnh_setting="1013.25" no_of_pilots_in_competition="29" max_time_en_route="00:00:00" max_time_en_route_tp="0" no_of_pilots_present="6" no_of_pilots_flying="6" no_of_pilots_lo="6" no_of_pilots_landed_before_stop="0" sum_dist_over_min="106.293" sum_real_dist_over_min="106.293" sum_flown_distances="147.935" best_dist="36.858" best_real_dist="36.858" best_time="0" last_start_time="2022-06-13T12:00:00+01:00" first_start_time="2022-06-13T12:57:14+01:00" last_landed_before_ess_finish_time="2022-06-13T13:55:16+01:00" no_of_pilots_reaching_es="0" no_of_pilots_reaching_goal="0" max_time_to_get_time_points="0" goalratio="0" arrival_weight="0" departure_weight="0" leading_weight="0.0568" time_weight="0.0432" distance_weight="0.9" smallest_leading_coefficient="2.8076" available_points_distance="302.6" available_points_time="14.5" available_points_departure="0" available_points_leading="19.1" available_points_arrival="0" time_validity="0.7473" launch_validity="1" distance_validity="0.4499" stop_validity="1" day_quality="0.3362" ftv_day_validity="0.3169" time_points_stop_correction="0">
+              <FsTaskDistToTp tp_no="1" distance="0.000" />
+              <FsTaskDistToTp tp_no="2" distance="5.002" />
+              <FsTaskDistToTp tp_no="3" distance="36.257" />
+              <FsTaskDistToTp tp_no="4" distance="64.930" />
+            </FsTaskScoreParams>
+            <FsTaskResultParticipants>
+              <FsTaskParticipantResult id="16" rank="1" distance_points="302.6" departure_points="0" arrival_points="0" leading_points="14.3" time_points="0" points="316.9" />
+              <FsTaskParticipantResult id="1" rank="2" distance_points="294" departure_points="0" arrival_points="0" leading_points="19.1" time_points="0" points="313.1" />
+              <FsTaskParticipantResult id="7" rank="3" distance_points="297.2" departure_points="0" arrival_points="0" leading_points="14.8" time_points="0" points="312" />
+              <FsTaskParticipantResult id="42" rank="4" distance_points="143.6" departure_points="0" arrival_points="0" leading_points="11.6" time_points="0" points="155.2" />
+              <FsTaskParticipantResult id="777" rank="5" distance_points="122.6" departure_points="0" arrival_points="0" leading_points="10" time_points="0" points="132.6" />
+              <FsTaskParticipantResult id="28" rank="6" distance_points="57.5" departure_points="0" arrival_points="0" leading_points="5.8" time_points="0" points="63.3" />
+            </FsTaskResultParticipants>
+          </FsTaskResult>
+          <FsTaskResult id="female equals 0" title="TEST - Class 1" ts="2024-03-09T16:20:18Z" result_pattern="#0.0">
+            <FsTaskScoreParams task_distance="64.929" ss_distance="59.927" launch_to_ess_distance="64.929" qnh_setting="1013.25" no_of_pilots_in_competition="29" max_time_en_route="00:00:00" max_time_en_route_tp="0" no_of_pilots_present="6" no_of_pilots_flying="6" no_of_pilots_lo="6" no_of_pilots_landed_before_stop="0" sum_dist_over_min="106.293" sum_real_dist_over_min="106.293" sum_flown_distances="147.935" best_dist="36.858" best_real_dist="36.858" best_time="0" last_start_time="2022-06-13T12:00:00+01:00" first_start_time="2022-06-13T12:57:14+01:00" last_landed_before_ess_finish_time="2022-06-13T13:55:16+01:00" no_of_pilots_reaching_es="0" no_of_pilots_reaching_goal="0" max_time_to_get_time_points="0" goalratio="0" arrival_weight="0" departure_weight="0" leading_weight="0.0568" time_weight="0.0432" distance_weight="0.9" smallest_leading_coefficient="2.8076" available_points_distance="302.6" available_points_time="14.5" available_points_departure="0" available_points_leading="19.1" available_points_arrival="0" time_validity="0.7473" launch_validity="1" distance_validity="0.4499" stop_validity="1" day_quality="0.3362" ftv_day_validity="0.3169" time_points_stop_correction="0">
+              <FsTaskDistToTp tp_no="1" distance="0.000" />
+              <FsTaskDistToTp tp_no="2" distance="5.002" />
+              <FsTaskDistToTp tp_no="3" distance="36.257" />
+              <FsTaskDistToTp tp_no="4" distance="64.930" />
+            </FsTaskScoreParams>
+            <FsTaskResultParticipants>
+              <FsTaskParticipantResult id="1" rank="1" distance_points="294" departure_points="0" arrival_points="0" leading_points="19.1" time_points="0" points="313.1" />
+              <FsTaskParticipantResult id="7" rank="2" distance_points="297.2" departure_points="0" arrival_points="0" leading_points="14.8" time_points="0" points="312" />
+              <FsTaskParticipantResult id="42" rank="3" distance_points="143.6" departure_points="0" arrival_points="0" leading_points="11.6" time_points="0" points="155.2" />
+              <FsTaskParticipantResult id="28" rank="4" distance_points="57.5" departure_points="0" arrival_points="0" leading_points="5.8" time_points="0" points="63.3" />
+            </FsTaskResultParticipants>
+          </FsTaskResult>
+          <FsTaskResult id="female equals 1" title="TEST - Class 5" ts="2024-03-09T16:20:21Z" result_pattern="#0.0">
+            <FsTaskScoreParams task_distance="64.929" ss_distance="59.927" launch_to_ess_distance="64.929" qnh_setting="1013.25" no_of_pilots_in_competition="29" max_time_en_route="00:00:00" max_time_en_route_tp="0" no_of_pilots_present="6" no_of_pilots_flying="6" no_of_pilots_lo="6" no_of_pilots_landed_before_stop="0" sum_dist_over_min="106.293" sum_real_dist_over_min="106.293" sum_flown_distances="147.935" best_dist="36.858" best_real_dist="36.858" best_time="0" last_start_time="2022-06-13T12:00:00+01:00" first_start_time="2022-06-13T12:57:14+01:00" last_landed_before_ess_finish_time="2022-06-13T13:55:16+01:00" no_of_pilots_reaching_es="0" no_of_pilots_reaching_goal="0" max_time_to_get_time_points="0" goalratio="0" arrival_weight="0" departure_weight="0" leading_weight="0.0568" time_weight="0.0432" distance_weight="0.9" smallest_leading_coefficient="2.8076" available_points_distance="302.6" available_points_time="14.5" available_points_departure="0" available_points_leading="19.1" available_points_arrival="0" time_validity="0.7473" launch_validity="1" distance_validity="0.4499" stop_validity="1" day_quality="0.3362" ftv_day_validity="0.3169" time_points_stop_correction="0">
+              <FsTaskDistToTp tp_no="1" distance="0.000" />
+              <FsTaskDistToTp tp_no="2" distance="5.002" />
+              <FsTaskDistToTp tp_no="3" distance="36.257" />
+              <FsTaskDistToTp tp_no="4" distance="64.930" />
+            </FsTaskScoreParams>
+            <FsTaskResultParticipants>
+              <FsTaskParticipantResult id="16" rank="1" distance_points="302.6" departure_points="0" arrival_points="0" leading_points="14.3" time_points="0" points="316.9" />
+              <FsTaskParticipantResult id="777" rank="2" distance_points="122.6" departure_points="0" arrival_points="0" leading_points="10" time_points="0" points="132.6" />
+            </FsTaskResultParticipants>
+          </FsTaskResult>
+        </FsTaskResults>
+      </FsTask>
+    </FsTasks>
+    <FsCompetitionResults>
+      <FsCompetitionResult id="overall" title="Overall" top="all" tasks="1" ts="2024-03-09T16:21:54Z" task_result_pattern="#0.0" comp_result_pattern="#0">
+        <FsParticipant id="16" points="317" rank="1">
+          <FsTask id="1" points="316.9" counting_points="316.9" counts="1" />
+        </FsParticipant>
+        <FsParticipant id="1" points="313" rank="2">
+          <FsTask id="1" points="313.1" counting_points="313.1" counts="1" />
+        </FsParticipant>
+        <FsParticipant id="7" points="312" rank="3">
+          <FsTask id="1" points="312" counting_points="312" counts="1" />
+        </FsParticipant>
+        <FsParticipant id="42" points="155" rank="4">
+          <FsTask id="1" points="155.2" counting_points="155.2" counts="1" />
+        </FsParticipant>
+        <FsParticipant id="777" points="133" rank="5">
+          <FsTask id="1" points="132.6" counting_points="132.6" counts="1" />
+        </FsParticipant>
+        <FsParticipant id="28" points="63" rank="6">
+          <FsTask id="1" points="63.3" counting_points="63.3" counts="1" />
+        </FsParticipant>
+      </FsCompetitionResult>
+      <FsCompetitionResult id="female equals 0" title="Overall - Class 1" top="all" tasks="1" ts="2024-03-09T16:22:06Z" task_result_pattern="#0.0" comp_result_pattern="#0">
+        <FsParticipant id="1" points="313" rank="1">
+          <FsTask id="1" points="313.1" counting_points="313.1" counts="1" />
+        </FsParticipant>
+        <FsParticipant id="7" points="312" rank="2">
+          <FsTask id="1" points="312" counting_points="312" counts="1" />
+        </FsParticipant>
+        <FsParticipant id="42" points="155" rank="3">
+          <FsTask id="1" points="155.2" counting_points="155.2" counts="1" />
+        </FsParticipant>
+        <FsParticipant id="28" points="63" rank="4">
+          <FsTask id="1" points="63.3" counting_points="63.3" counts="1" />
+        </FsParticipant>
+      </FsCompetitionResult>
+      <FsCompetitionResult id="female equals 1" title="Overall - Class 5" top="all" tasks="1" ts="2024-03-09T16:22:12Z" task_result_pattern="#0.0" comp_result_pattern="#0">
+        <FsParticipant id="16" points="317" rank="1">
+          <FsTask id="1" points="316.9" counting_points="316.9" counts="1" />
+        </FsParticipant>
+        <FsParticipant id="777" points="133" rank="2">
+          <FsTask id="1" points="132.6" counting_points="132.6" counts="1" />
+        </FsParticipant>
+      </FsCompetitionResult>
+    </FsCompetitionResults>
+    <FsCompCategories>
+      <FsCompCategory name="Class 1" use_filter="True" ftv_factor="0">
+        <FsCompCategorySelectors>
+          <FsCompCategorySelector attributeName="female" comparator="equals" requiredValue="0" />
+        </FsCompCategorySelectors>
+      </FsCompCategory>
+      <FsCompCategory name="Class 5" use_filter="True" ftv_factor="0">
+        <FsCompCategorySelectors>
+          <FsCompCategorySelector attributeName="female" comparator="equals" requiredValue="1" />
+        </FsCompCategorySelectors>
+      </FsCompCategory>
+    </FsCompCategories>
+  </FsCompetition>
+</Fs>

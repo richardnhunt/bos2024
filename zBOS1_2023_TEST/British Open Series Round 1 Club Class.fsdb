@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Fs version="3.5" comment="Supports only a single Fs element in a .fsdb file which must be the root element.">
+  <FsCompetition id="0" name="British Open Series Round 1 Club Class" location="Yorkshire Dales" from="2022-06-12" to="2022-06-18" utc_offset="+1" discipline="hg" ftv_factor="0" categories="filter" fai_sanctioning="0">
+    <FsScoreFormula id="GAP2021" min_dist="1" nom_dist="30" nom_time="1" nom_launch="0.96" nom_goal="0.1" day_quality_override="0" bonus_gr="5" jump_the_gun_factor="2" jump_the_gun_max="300" normalize_1000_before_day_quality="0" time_points_if_not_in_goal="0.8" use_1000_points_for_max_day_quality="0" use_arrival_position_points="1" use_arrival_time_points="0" use_departure_points="0" use_difficulty_for_distance_points="1" use_distance_points="1" use_distance_squared_for_LC="1" use_leading_points="1" use_semi_circle_control_zone_for_goal_line="1" use_time_points="1" scoring_altitude="QNH" final_glide_decelerator="none" no_final_glide_decelerator_reason="" min_time_span_for_valid_task="30" score_back_time="15" use_proportional_leading_weight_if_nobody_in_goal="0" leading_weight_factor="1" turnpoint_radius_tolerance="0.005" turnpoint_radius_minimum_absolute_tolerance="5" number_of_decimals_task_results="1" number_of_decimals_competition_results="0" redistribute_removed_time_points_as_distance_points="1" use_best_score_for_ftv_validity="1" use_constant_leading_weight="0" use_pwca2019_for_lc="0" use_flat_decline_of_timepoints="1" />
+    <FsCompetitionNotes><![CDATA[]]></FsCompetitionNotes>
+    <FsTasks>
+      <FsTask id="1" name="Task 1" tracklog_folder="Ntask 1">
+        <FsScoreFormula id="GAP2021" min_dist="1" nom_dist="30" nom_time="1" nom_launch="0.96" nom_goal="0.1" day_quality_override="0" bonus_gr="5" jump_the_gun_factor="2" jump_the_gun_max="300" normalize_1000_before_day_quality="0" time_points_if_not_in_goal="0.8" use_1000_points_for_max_day_quality="0" use_arrival_position_points="1" use_arrival_time_points="0" use_departure_points="0" use_difficulty_for_distance_points="1" use_distance_points="1" use_distance_squared_for_LC="1" use_leading_points="1" use_semi_circle_control_zone_for_goal_line="1" use_time_points="1" scoring_altitude="QNH" final_glide_decelerator="none" no_final_glide_decelerator_reason="" min_time_span_for_valid_task="30" score_back_time="15" use_proportional_leading_weight_if_nobody_in_goal="0" leading_weight_factor="1" turnpoint_radius_tolerance="0.005" turnpoint_radius_minimum_absolute_tolerance="5" number_of_decimals_task_results="1" number_of_decimals_competition_results="0" redistribute_removed_time_points_as_distance_points="1" use_best_score_for_ftv_validity="1" use_constant_leading_weight="0" use_pwca2019_for_lc="0" use_flat_decline_of_timepoints="1" />
+        <FsTaskDefinition ss="1" es="2" goal="CIRCLE" groundstart="0" qnh_setting="1013.25">
+          <FsTurnpoint id="SWF017" lat="54.2696" lon="-2.20514" altitude="570" radius="2000" open="2022-06-14T06:15:00+01:00" close="2022-06-14T20:00:00+01:00" />
+          <FsTurnpoint id="G02002" lat="54.22642" lon="-1.65235" altitude="75" radius="2000" open="2022-06-14T06:15:00+01:00" close="2022-06-14T20:00:00+01:00" />
+          <FsTaskShortestPath>
+            <FsPathVertex lat="54.2696" lon="-2.20514" />
+            <FsPathVertex lat="54.22886" lon="-1.68274" />
+          </FsTaskShortestPath>
+        </FsTaskDefinition>
+        <FsTaskState task_state="REGULAR" score_back_time="15" cancel_reason="" stop_time="2022-06-14T07:17:00+01:00" />
+        <FsParticipants>
+          <FsParticipant id="37">
+            <FsFlightData distance="5.000" bonus_distance="5.000" started_ss="2022-06-14T12:00:00+01:00" finished_ss="" altitude_at_ess="0" finished_task="" tracklog_filename="" lc="0" iv="0" ts="2022-06-14T07:19:45+01:00" alt="0" bonus_alt="0" max_alt="0" />
+            <FsResult rank="3" points="162.2" distance="5" ss_time="00:00:00" finished_ss_rank="1" distance_points="162.2" linear_distance_points="58.45" difficulty_distance_points="103.77" time_points="0" arrival_points="0" departure_points="0" leading_points="0" penalty="0" penalty_points="0" penalty_reason="" penalty_points_auto="0" penalty_reason_auto="" penalty_min_dist_points="0" got_time_but_not_goal_penalty="False" started_ss="2022-06-14T12:00:00+01:00" ss_time_dec_hours="0" ts="2022-06-14T20:28:53+01:00" real_distance="5" last_distance="0" last_altitude_above_goal="0" altitude_bonus_seconds="0" altitude_bonus_time="00:00:00" altitude_at_ess="0" scored_ss_time="00:00:00" landed_before_stop="False" />
+          </FsParticipant>
+          <FsParticipant id="38">
+            <FsFlightData distance="7.500" bonus_distance="7.500" started_ss="2022-06-14T13:00:00+01:00" finished_ss="" altitude_at_ess="0" finished_task="" tracklog_filename="" lc="0" iv="0" ts="2022-06-14T19:03:30+01:00" alt="0" bonus_alt="0" max_alt="0" />
+            <FsResult rank="2" points="225.4" distance="7.5" ss_time="00:00:00" finished_ss_rank="1" distance_points="225.4" linear_distance_points="87.67" difficulty_distance_points="137.68" time_points="0" arrival_points="0" departure_points="0" leading_points="0" penalty="0" penalty_points="0" penalty_reason="" penalty_points_auto="0" penalty_reason_auto="" penalty_min_dist_points="0" got_time_but_not_goal_penalty="False" started_ss="2022-06-14T13:00:00+01:00" ss_time_dec_hours="0" ts="2022-06-14T20:28:53+01:00" real_distance="7.5" last_distance="0" last_altitude_above_goal="0" altitude_bonus_seconds="0" altitude_bonus_time="00:00:00" altitude_at_ess="0" scored_ss_time="00:00:00" landed_before_stop="False" />
+          </FsParticipant>
+          <FsParticipant id="36">
+            <FsFlightData distance="17.580" bonus_distance="17.580" started_ss="2022-06-14T12:00:00+01:00" finished_ss="" altitude_at_ess="0" finished_task="" tracklog_filename="" lc="0.75" iv="0" ts="2022-06-14T20:28:48+01:00" alt="0" bonus_alt="0" max_alt="0" />
+            <FsResult rank="1" points="419" distance="17.58" ss_time="00:00:00" finished_ss_rank="1" distance_points="411" linear_distance_points="205.51" difficulty_distance_points="205.51" time_points="0" arrival_points="0" departure_points="0" leading_points="8" penalty="0" penalty_points="0" penalty_reason="" penalty_points_auto="0" penalty_reason_auto="" penalty_min_dist_points="0" got_time_but_not_goal_penalty="False" started_ss="2022-06-14T12:00:00+01:00" ss_time_dec_hours="0" ts="2022-06-14T20:28:53+01:00" real_distance="17.58" last_distance="0" last_altitude_above_goal="0" altitude_bonus_seconds="0" altitude_bonus_time="00:00:00" altitude_at_ess="0" scored_ss_time="00:00:00" landed_before_stop="False" />
+          </FsParticipant>
+        </FsParticipants>
+        <FsTaskScoreParams ss_distance="34.352" task_distance="34.352" launch_to_ess_distance="34.352" no_of_pilots_present="3" no_of_pilots_flying="3" no_of_pilots_lo="3" no_of_pilots_reaching_nom_dist="0" no_of_pilots_reaching_es="0" no_of_pilots_reaching_goal="0" sum_flown_distance="30.08" best_dist="17.58" best_time="0" worst_time="0" qnh_setting="1013.25" no_of_pilots_in_competition="3" no_of_pilots_landed_before_stop="0" sum_dist_over_min="27.08" sum_real_dist_over_min="27.08" sum_flown_distances="30.08" best_real_dist="17.58" last_start_time="2022-06-14T13:00:00+01:00" max_time_to_get_time_points="0" goalratio="0" arrival_weight="0" departure_weight="0" leading_weight="0.0175" time_weight="0.0825" distance_weight="0.9" smallest_leading_coefficient="0.75" available_points_distance="411.0129" available_points_time="37.6762" available_points_departure="0" available_points_leading="7.9919" available_points_arrival="0" time_validity="0.8069" launch_validity="1" distance_validity="0.5659" stop_validity="1" day_quality="0.4567" ftv_day_validity="0.419" time_points_stop_correction="0">
+          <FsTaskDistToTp tp_no="1" distance="0.000" />
+          <FsTaskDistToTp tp_no="2" distance="34.352" />
+        </FsTaskScoreParams>
+        <FsTaskResults>
+          <FsTaskResult id="overall" title="Task 1" ts="2022-06-14T20:29:23+01:00" result_pattern="#0.0">
+            <FsTaskScoreParams ss_distance="34.352" task_distance="34.352" launch_to_ess_distance="34.352" no_of_pilots_present="3" no_of_pilots_flying="3" no_of_pilots_lo="3" no_of_pilots_reaching_nom_dist="0" no_of_pilots_reaching_es="0" no_of_pilots_reaching_goal="0" sum_flown_distance="30.08" best_dist="17.58" best_time="0" worst_time="0" qnh_setting="1013.25" no_of_pilots_in_competition="3" no_of_pilots_landed_before_stop="0" sum_dist_over_min="27.08" sum_real_dist_over_min="27.08" sum_flown_distances="30.08" best_real_dist="17.58" last_start_time="2022-06-14T13:00:00+01:00" max_time_to_get_time_points="0" goalratio="0" arrival_weight="0" departure_weight="0" leading_weight="0.0175" time_weight="0.0825" distance_weight="0.9" smallest_leading_coefficient="0.75" available_points_distance="411.0129" available_points_time="37.6762" available_points_departure="0" available_points_leading="7.9919" available_points_arrival="0" time_validity="0.8069" launch_validity="1" distance_validity="0.5659" stop_validity="1" day_quality="0.4567" ftv_day_validity="0.419" time_points_stop_correction="0">
+              <FsTaskDistToTp tp_no="1" distance="0.000" />
+              <FsTaskDistToTp tp_no="2" distance="34.352" />
+            </FsTaskScoreParams>
+            <FsTaskResultParticipants>
+              <FsTaskParticipantResult id="36" rank="1" distance_points="411" departure_points="0" arrival_points="0" leading_points="8" time_points="0" points="419" />
+              <FsTaskParticipantResult id="38" rank="2" distance_points="225.4" departure_points="0" arrival_points="0" leading_points="0" time_points="0" points="225.4" />
+              <FsTaskParticipantResult id="37" rank="3" distance_points="162.2" departure_points="0" arrival_points="0" leading_points="0" time_points="0" points="162.2" />
+            </FsTaskResultParticipants>
+          </FsTaskResult>
+        </FsTaskResults>
+      </FsTask>
+      <FsTask id="2" name="Task 2" tracklog_folder="Task 2">
+        <FsScoreFormula id="GAP2021" min_dist="1" nom_dist="30" nom_time="1" nom_launch="0.96" nom_goal="0.1" day_quality_override="0" bonus_gr="5" jump_the_gun_factor="2" jump_the_gun_max="300" normalize_1000_before_day_quality="0" time_points_if_not_in_goal="0.8" use_1000_points_for_max_day_quality="0" use_arrival_position_points="1" use_arrival_time_points="0" use_departure_points="0" use_difficulty_for_distance_points="1" use_distance_points="1" use_distance_squared_for_LC="1" use_leading_points="1" use_semi_circle_control_zone_for_goal_line="1" use_time_points="1" scoring_altitude="QNH" final_glide_decelerator="none" no_final_glide_decelerator_reason="" min_time_span_for_valid_task="30" score_back_time="15" use_proportional_leading_weight_if_nobody_in_goal="0" leading_weight_factor="1" turnpoint_radius_tolerance="0.005" turnpoint_radius_minimum_absolute_tolerance="5" number_of_decimals_task_results="1" number_of_decimals_competition_results="0" redistribute_removed_time_points_as_distance_points="1" use_best_score_for_ftv_validity="1" use_constant_leading_weight="0" use_pwca2019_for_lc="0" use_flat_decline_of_timepoints="1" />
+        <FsTaskDefinition ss="1" es="3" goal="CIRCLE" groundstart="0" qnh_setting="1013.25">
+          <FsTurnpoint id="STB016" lat="54.43808" lon="-2.3034" altitude="510" radius="2000" open="2022-06-14T12:30:00+01:00" close="2022-06-14T19:00:00+01:00" />
+          <FsTurnpoint id="T09015" lat="54.50148" lon="-2.18167" altitude="443" radius="1000" open="2022-06-14T12:30:00+01:00" close="2022-06-14T19:00:00+01:00" />
+          <FsTurnpoint id="G38005" lat="54.5288" lon="-1.90037" altitude="150" radius="1000" open="2022-06-14T12:30:00+01:00" close="2022-06-14T19:00:00+01:00" />
+          <FsTaskShortestPath>
+            <FsPathVertex lat="54.43808" lon="-2.3034" />
+            <FsPathVertex lat="54.49332" lon="-2.17519" />
+            <FsPathVertex lat="54.52687" lon="-1.91546" />
+          </FsTaskShortestPath>
+        </FsTaskDefinition>
+        <FsTaskState task_state="REGULAR" score_back_time="15" cancel_reason="" stop_time="2022-06-14T18:47:00+01:00" />
+        <FsParticipants>
+          <FsParticipant id="37">
+            <FsFlightData distance="14.137" bonus_distance="15.076" started_ss="2022-06-14T15:49:47+01:00" finished_ss="" altitude_at_ess="0" finished_task="2022-06-14T16:10:47+01:00" tracklog_filename="Doug Neil.20220614-180701.[CIVLID].37.igc" lc="6.20819448894754" iv="8495807" ts="2022-06-14T19:23:25+01:00" alt="337" bonus_alt="341" max_alt="932" last_tracklog_point_distance="14.093" bonus_last_tracklog_point_distance="14.958" last_tracklog_point_time="2022-06-14T16:11:23+01:00" last_tracklog_point_alt="323" landed_before_deadline="1" reachedGoal="0" />
+            <FsResult rank="2" points="407" distance="14.137" ss_time="00:00:00" finished_ss_rank="1" distance_points="399" linear_distance_points="197.02" difficulty_distance_points="201.97" time_points="0" arrival_points="0" departure_points="0" leading_points="8" penalty="0" penalty_points="0" penalty_reason="" penalty_points_auto="0" penalty_reason_auto="" penalty_min_dist_points="0" got_time_but_not_goal_penalty="False" started_ss="2022-06-14T15:49:47+01:00" ss_time_dec_hours="0" ts="2022-06-14T19:23:25+01:00" real_distance="14.137" last_distance="14.093" last_altitude_above_goal="0" altitude_bonus_seconds="0" altitude_bonus_time="00:00:00" altitude_at_ess="0" scored_ss_time="00:00:00" landed_before_stop="False" />
+          </FsParticipant>
+          <FsParticipant id="38">
+            <FsFlightData distance="5.000" bonus_distance="5.000" started_ss="2022-06-14T13:00:00+01:00" finished_ss="" altitude_at_ess="0" finished_task="" tracklog_filename="" lc="0" iv="0" ts="2022-06-14T19:09:01+01:00" alt="0" bonus_alt="0" max_alt="0" />
+            <FsResult rank="3" points="161.5" distance="5" ss_time="00:00:00" finished_ss_rank="1" distance_points="161.5" linear_distance_points="69.68" difficulty_distance_points="91.81" time_points="0" arrival_points="0" departure_points="0" leading_points="0" penalty="0" penalty_points="0" penalty_reason="" penalty_points_auto="0" penalty_reason_auto="" penalty_min_dist_points="0" got_time_but_not_goal_penalty="False" started_ss="2022-06-14T13:00:00+01:00" ss_time_dec_hours="0" ts="2022-06-14T19:23:25+01:00" real_distance="5" last_distance="0" last_altitude_above_goal="0" altitude_bonus_seconds="0" altitude_bonus_time="00:00:00" altitude_at_ess="0" scored_ss_time="00:00:00" landed_before_stop="False" />
+          </FsParticipant>
+          <FsParticipant id="36">
+            <FsFlightData distance="14.736" bonus_distance="16.642" started_ss="2022-06-14T15:49:49+01:00" finished_ss="" altitude_at_ess="0" finished_task="2022-06-14T16:15:44+01:00" tracklog_filename="Simon Scott.20220614-182259.83315.36.igc" lc="6.2998764566932" iv="8621272" ts="2022-06-14T19:23:25+01:00" alt="526" bonus_alt="538" max_alt="1521" last_tracklog_point_distance="14.097" bonus_last_tracklog_point_distance="15.142" last_tracklog_point_time="2022-06-14T16:19:19+01:00" last_tracklog_point_alt="359" landed_before_deadline="1" reachedGoal="0" />
+            <FsResult rank="1" points="417.8" distance="14.736" ss_time="00:00:00" finished_ss_rank="1" distance_points="410.7" linear_distance_points="205.37" difficulty_distance_points="205.37" time_points="0" arrival_points="0" departure_points="0" leading_points="7.1" penalty="0" penalty_points="0" penalty_reason="" penalty_points_auto="0" penalty_reason_auto="" penalty_min_dist_points="0" got_time_but_not_goal_penalty="False" started_ss="2022-06-14T15:49:49+01:00" ss_time_dec_hours="0" ts="2022-06-14T19:23:25+01:00" real_distance="14.736" last_distance="14.097" last_altitude_above_goal="0" altitude_bonus_seconds="0" altitude_bonus_time="00:00:00" altitude_at_ess="0" scored_ss_time="00:00:00" landed_before_stop="False" />
+          </FsParticipant>
+        </FsParticipants>
+        <FsTaskScoreParams ss_distance="27.572" task_distance="27.572" launch_to_ess_distance="27.572" no_of_pilots_present="3" no_of_pilots_flying="3" no_of_pilots_lo="3" no_of_pilots_reaching_nom_dist="0" no_of_pilots_reaching_es="0" no_of_pilots_reaching_goal="0" sum_flown_distance="33.873" best_dist="14.736" best_time="0" worst_time="0" qnh_setting="1013.25" no_of_pilots_in_competition="3" no_of_pilots_landed_before_stop="0" sum_dist_over_min="30.873" sum_real_dist_over_min="30.873" sum_flown_distances="33.873" best_real_dist="14.736" last_start_time="2022-06-14T15:49:49+01:00" max_time_to_get_time_points="0" goalratio="0" arrival_weight="0" departure_weight="0" leading_weight="0.0175" time_weight="0.0825" distance_weight="0.9" smallest_leading_coefficient="6.2082" available_points_distance="410.7382" available_points_time="37.651" available_points_departure="0" available_points_leading="7.9866" available_points_arrival="0" time_validity="0.7073" launch_validity="1" distance_validity="0.6452" stop_validity="1" day_quality="0.4564" ftv_day_validity="0.4178" time_points_stop_correction="0">
+          <FsTaskDistToTp tp_no="1" distance="0.000" />
+          <FsTaskDistToTp tp_no="2" distance="10.341" />
+          <FsTaskDistToTp tp_no="3" distance="27.573" />
+        </FsTaskScoreParams>
+        <FsTaskResults>
+          <FsTaskResult id="overall" title="Task 2" ts="2022-06-14T19:23:55+01:00" result_pattern="#0.0">
+            <FsTaskScoreParams ss_distance="27.572" task_distance="27.572" launch_to_ess_distance="27.572" no_of_pilots_present="3" no_of_pilots_flying="3" no_of_pilots_lo="3" no_of_pilots_reaching_nom_dist="0" no_of_pilots_reaching_es="0" no_of_pilots_reaching_goal="0" sum_flown_distance="33.873" best_dist="14.736" best_time="0" worst_time="0" qnh_setting="1013.25" no_of_pilots_in_competition="3" no_of_pilots_landed_before_stop="0" sum_dist_over_min="30.873" sum_real_dist_over_min="30.873" sum_flown_distances="33.873" best_real_dist="14.736" last_start_time="2022-06-14T15:49:49+01:00" max_time_to_get_time_points="0" goalratio="0" arrival_weight="0" departure_weight="0" leading_weight="0.0175" time_weight="0.0825" distance_weight="0.9" smallest_leading_coefficient="6.2082" available_points_distance="410.7382" available_points_time="37.651" available_points_departure="0" available_points_leading="7.9866" available_points_arrival="0" time_validity="0.7073" launch_validity="1" distance_validity="0.6452" stop_validity="1" day_quality="0.4564" ftv_day_validity="0.4178" time_points_stop_correction="0">
+              <FsTaskDistToTp tp_no="1" distance="0.000" />
+              <FsTaskDistToTp tp_no="2" distance="10.341" />
+              <FsTaskDistToTp tp_no="3" distance="27.573" />
+            </FsTaskScoreParams>
+            <FsTaskResultParticipants>
+              <FsTaskParticipantResult id="36" rank="1" distance_points="410.7" departure_points="0" arrival_points="0" leading_points="7.1" time_points="0" points="417.8" />
+              <FsTaskParticipantResult id="37" rank="2" distance_points="399" departure_points="0" arrival_points="0" leading_points="8" time_points="0" points="407" />
+              <FsTaskParticipantResult id="38" rank="3" distance_points="161.5" departure_points="0" arrival_points="0" leading_points="0" time_points="0" points="161.5" />
+            </FsTaskResultParticipants>
+          </FsTaskResult>
+        </FsTaskResults>
+      </FsTask>
+    </FsTasks>
+    <FsParticipants>
+      <FsParticipant id="36" name="Simon Scott" birthday="1966-05-10" glider="Solar Wings Scandal" glider_main_colors="Orange, Lilac, yellow" fai_licence="0" female="0" nat_code_3166_a3="GBR" sponsor="" CIVLID="83315" />
+      <FsParticipant id="37" name="Doug Neil" birthday="" glider="Avian Rio 2" glider_main_colors="" fai_licence="" female="0" nat_code_3166_a3="GBR" sponsor="" CIVLID="" />
+      <FsParticipant id="38" name="Steve Kynaston" birthday="" glider="Avian Rio 2 Supine" glider_main_colors="" fai_licence="" female="0" nat_code_3166_a3="GBR" sponsor="" CIVLID="" />
+    </FsParticipants>
+    <FsCompetitionResults>
+      <FsCompetitionResult id="overall" title="" top="all" tasks="1" ts="2022-06-14T20:31:02+01:00" task_result_pattern="#0.0" comp_result_pattern="#0">
+        <FsParticipant id="36" points="419" rank="1">
+          <FsTask id="1" points="419" counting_points="419" counts="1" />
+        </FsParticipant>
+        <FsParticipant id="38" points="225" rank="2">
+          <FsTask id="1" points="225.4" counting_points="225.4" counts="1" />
+        </FsParticipant>
+        <FsParticipant id="37" points="162" rank="3">
+          <FsTask id="1" points="162.2" counting_points="162.2" counts="1" />
+        </FsParticipant>
+      </FsCompetitionResult>
+      <FsCompetitionResult id="overall" title="Club Class Overall" top="all" tasks="1;2" ts="2022-06-14T20:31:02+01:00" task_result_pattern="#0.0" comp_result_pattern="#0">
+        <FsParticipant id="36" points="837" rank="1">
+          <FsTask id="1" points="419" counting_points="419" counts="1" />
+          <FsTask id="2" points="417.8" counting_points="417.8" counts="1" />
+        </FsParticipant>
+        <FsParticipant id="37" points="569" rank="2">
+          <FsTask id="1" points="162.2" counting_points="162.2" counts="1" />
+          <FsTask id="2" points="407" counting_points="407" counts="1" />
+        </FsParticipant>
+        <FsParticipant id="38" points="387" rank="3">
+          <FsTask id="1" points="225.4" counting_points="225.4" counts="1" />
+          <FsTask id="2" points="161.5" counting_points="161.5" counts="1" />
+        </FsParticipant>
+      </FsCompetitionResult>
+    </FsCompetitionResults>
+  </FsCompetition>
+</Fs>

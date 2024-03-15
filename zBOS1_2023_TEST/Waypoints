@@ -1,0 +1,102 @@
+$FormatGEO
+ACHURC    N 53 49 58.80    W 001 11 40.80     6  ACHURC 2nm Church Fenton
+ADISHF    N 54 08 13.20    W 001 25 07.20    32  ADISHF 2-5nm Dishforth
+ALEEM     N 54 17 31.80    W 001 32 01.80    33  ALEEM 2-5nm Leeming
+ALINT     N 54 02 55.20    W 001 15 04.20    14  ALINT 2nm Lintononous
+ATOPCL    N 54 12 19.20    W 001 22 49.80    27  ATOPCL 2nm Topcliffe
+G01003    N 54 25 37.68    W 001 13 23.16   100  G01003 Carlton Bank goal
+G02002    N 54 13 35.10    W 001 39 08.46    75  G02002 Masham
+G03001    N 54 13 58.50    W 000 58 13.98    30  G03001 Wombelton airfield
+G04002    N 54 08 15.06    W 000 23 11.94    45  G04002 Willy Howe airfield
+G05005    N 54 26 17.88    W 001 40 18.72   139  G05005 Scotch Corner
+G06001    N 53 40 48.60    W 001 05 07.92    10  G06001 Pollington airfield
+G07010    N 54 19 52.62    W 002 18 32.64   305  G07010 Moorcock inn
+G08007    N 54 27 36.18    W 002 21 06.60   205  G08007 Nateby road
+G09007    N 54 41 32.70    W 003 00 02.28   220  G09007 Carrock Fell
+G10010    N 54 12 19.86    W 002 21 51.66   320  G10010 Ribblehead bridge
+G11007    N 54 42 41.46    W 003 13 55.98   200  G11007 Bewaldeth
+G12001    N 54 17 21.90    W 002 48 28.92     5  G12001 Brigsteer
+G13006    N 54 20 16.86    W 003 06 26.64   170  G13006 Coniston old man
+G14007    N 54 36 07.74    W 001 52 54.90   210  G14007 Copley road
+G15005    N 54 46 00.72    W 001 22 58.56   150  G15005 PARA Peterlee airfield
+G16004    N 54 19 16.80    W 002 30 52.80   113  G16004 Sedburgh bridge
+G17003    N 54 38 44.34    W 001 33 32.22    90  G17003 Rushyford
+G18005    N 54 16 13.56    W 001 46 50.64   130  G18005 Ulshaw
+G19003    N 54 22 44.52    W 003 00 11.64    75  G19003 Hawkshead goal
+G20010    N 54 16 56.58    W 002 07 57.66   320  G20010 Semerwater goal
+G21001    N 54 08 59.58    W 001 31 09.90    30  G21001 Ripon north
+G22001    N 53 46 22.08    W 000 40 30.12    10  G22001 M62 J38
+G23002    N 53 55 35.16    W 001 21 42.78    35  G23002 Flint mill
+G24010    N 54 14 55.20    W 001 12 23.64   310  G24010 Sutton Bank gallops
+G25004    N 54 28 35.34    W 000 39 34.20   110  G25004 A171 W of Whitby
+G26002    N 54 19 10.98    W 000 26 43.44    40  G26002 Burniston
+G27001    N 54 02 57.36    W 000 19 16.98    30  G27001 Burton Agnes
+G28001    N 53 09 57.12    E 000 19 52.80     5  G28001 Skegness N
+G29001    N 52 58 31.56    W 000 05 57.12     5  G29001 A1121 W of Boston
+G30001    N 53 41 23.28    W 000 00 14.34    20  G30001 Patrington
+G31007    N 54 07 56.70    W 002 04 40.86   220  G31007 Hawkswick
+G32001    N 53 50 56.64    W 002 55 27.06    15  G32001 A586 ENE of Blackpool
+G33002    N 54 08 56.70    W 002 35 29.82    45  G33002 Cantsfield
+G34008    N 53 20 40.56    W 001 47 28.26   220  G34008 Mam Tor
+G35001    N 52 59 55.02    W 000 40 25.08    30  G35001 Hougham - SE of Newark
+G36002    N 53 07 00.00    W 000 53 30.06    55  G36002 Caunton airfield
+G37006    N 52 58 06.90    W 001 44 46.20   175  G37006 Ashbourne airfield
+G38005    N 54 31 43.68    W 001 54 01.32   150  G38005 Egglestone abbey
+G39002    N 54 00 17.16    W 001 25 00.54    50  G39002 Knaresborough
+G40001    N 53 52 11.94    W 000 08 00.36    18  G40001 Great Cowden
+G41001    N 54 06 54.42    W 000 04 48.06    26  G41001 Flamborough head
+G42001    N 54 10 46.38    W 000 39 54.00    24  G42001 West Knapton factory
+G43004    N 53 56 26.64    W 002 31 11.04   113  G43004 Dunsop Bridge
+G44010    N 53 50 55.14    W 002 16 45.78   292  G44010 Newcurch-in-Pendle
+G45003    N 53 48 53.94    W 002 36 27.54    80  G45003 Alston reservoir
+G46021    N 53 47 12.24    W 002 27 06.36   641  G46021 Parsonage reservoir
+G47005    N 54 02 29.88    W 001 40 20.22   144  G47005 Hartwith
+G48004    N 54 05 25.38    W 001 34 45.06   113  G48004 Fountains
+G49006    N 54 06 15.00    W 002 02 01.26   184  G49006 Kilnsey
+G50005    N 54 01 59.64    W 001 54 26.10   155  G50005 Howgill
+G51001    N 53 55 31.98    W 000 47 40.20    26  G51001 Pocklington airfield
+G52001    N 53 57 44.94    W 000 27 04.56    20  G52001 Hutton allotments
+G53029    N 54 09 23.10    W 001 50 57.24   878  G53029 Lofthouse
+G54004    N 53 26 41.94    W 000 12 11.34   109  G54004 Binbrook ex-airfield
+G55003    N 54 51 48.90    W 001 22 56.82    28  G55003 Ryhope
+G56001    N 54 58 01.98    W 001 21 39.72     0  G56001 Whitburn
+G57000    N 54 06 01.32    W 002 48 31.44    17  G57000 Hest Bank
+G58002    N 53 57 44.94    W 002 44 54.42    63  G58002 Sunnyside Lake
+G59001    N 53 54 44.64    W 002 46 06.66    19  G59001 Garstang
+G60000    N 53 54 09.18    W 002 58 39.48    13  G60000 Stalmine
+G61000    N 54 16 50.70    W 003 22 28.14    23  G61000 Bootle
+G62002    N 54 30 49.92    W 003 36 02.16    76  G62002 Sandwith
+G63002    N 54 43 21.78    W 003 28 28.26    50  G63002 Birkby
+G64003    N 54 36 09.66    W 003 10 47.82    79  G64003 Braithwaite
+G65000    N 54 07 05.94    W 003 09 16.92    33  G65000 Leece
+G66000    N 54 05 21.18    W 003 09 33.18    15  G66000 Rampside
+G67004    N 54 13 37.32    W 002 58 09.18   119  G67004 Middle of nowhere
+G68005    N 54 38 27.30    W 002 45 18.78   150  G68005 Yanwath
+G69005    N 54 17 56.10    W 001 43 59.82   157  G69005 SW Akebar
+G70004    N 54 17 56.94    W 001 51 35.46   107  G70004 Wensley
+G71002    N 54 22 08.58    W 001 25 47.88    49  G71002 Brompton N
+G72002    N 54 29 57.24    W 001 08 47.22    85  G72002 Whinstone View
+G73006    N 54 33 44.88    W 000 50 51.96   185  G73006 Easington N
+G74000    N 54 57 09.84    W 003 12 20.34     9  G74000 Bowness E
+G75000    N 54 52 14.76    W 003 21 58.08     6  G75000 Silloth
+G76000    N 54 46 48.54    W 003 25 43.50     8  G76000 Allonby
+SCB013    N 54 24 57.00    W 001 12 07.98   383  SCB013 Carlton Bank
+SCF017    N 54 09 16.20    W 002 10 11.76   525  SCF017 Cowclose Fell
+SDF019    N 54 16 02.52    W 002 14 35.04   579  SDF019 Dodd Fell E launch
+SMR008    N 54 25 20.88    W 001 11 43.62   260  SMR008 Model Ridge
+SNS016    N 54 19 37.80    W 002 03 24.66   510  SNS016 Nappa Scar
+SSW016    N 54 17 08.70    W 002 08 45.24   490  SSW016 Semerwater
+STB016    N 54 26 17.10    W 002 18 12.24   510  STB016 Tailbridge
+SWB010    N 54 07 36.42    W 002 03 01.68   325  SWB010 Windbank
+SWF017    N 54 16 10.56    W 002 12 18.48   570  SWF017 Wether Fell
+T01018    N 54 12 40.74    W 002 01 08.70   551  T01018 Buckden Pike
+T02001    N 53 44 44.16    W 001 17 09.42    38  T02001 Fairburn
+T03001    N 53 41 34.80    W 001 07 09.54    15  T03001 M62 bridge
+T04000    N 53 42 22.08    W 000 47 54.36     5  T04000 Cotness
+T05008    N 54 25 44.70    W 001 07 20.40   240  T05008 Clay bank
+T06013    N 54 35 43.38    W 002 59 48.18   410  T06013 Wolfs Crag
+T07001    N 53 57 51.06    W 001 12 31.98    20  T07001 Rufforth hall
+T08002    N 53 41 44.88    W 001 16 06.42    40  T08002 M62-A1 J33 Pontefract
+T09015    N 54 30 05.34    W 002 10 54.00   443  T09015 Summit reservoir
+T10019    N 54 14 49.62    W 002 15 42.84   576  T10019 Dodd Fell Parking
+ZACKBR    N 54 18 38.04    W 001 42 25.44    73  ZACKBR Ackebar Park Camping

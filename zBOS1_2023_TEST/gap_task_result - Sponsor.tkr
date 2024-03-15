@@ -1,0 +1,229 @@
+﻿<!DOCTYPE html><html>
+  <head>
+    <META http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <style>
+          tr.fs_res_res_row:hover
+          {
+          background: yellow;
+          }
+          div.fs_res
+          {
+          font-family: Verdana, Arial, Helvetica, sans-serif;
+          font-size: xx-small;
+          }
+          table.fs_res
+          {
+          border:solid 1px gray;
+          border-collapse:collapse;
+          font-size: xx-small;
+          }
+          td.fs_res
+          {
+          border:solid 1px gray;
+          vertical-align:top;
+          padding:5px;
+          }
+          th.fs_res
+          {
+          border:solid 1px gray;
+          vertical-align:center;
+          }
+        </style>
+  </head>
+  <body>
+    <div>
+      <div class="fs_res"><img src="http://fs.fai.org/wp-content/uploads/2018/07/civl-logo.png"><h2>British Open Series Round 1</h2>
+        <p style="font-size:xx-small">2022-06-12 to 2022-06-18, FAI Category 2 event</p>
+        <h2>Task 1
+                  : 0</h2>
+        <h3> </h3>
+        <h4>Open Distance</h4>
+        <p>Provisional</p>
+        <table class="fs_res">
+          <thead>
+            <tr>
+              <th class="fs_res">#</th>
+              <th class="fs_res">Id</th>
+              <th class="fs_res">Name</th>
+              <th class="fs_res"></th>
+              <th class="fs_res">Nat</th>
+              <th class="fs_res">Glider</th>
+              <th class="fs_res">Sponsor</th>
+              <th class="fs_res">
+            Distance<br>[km]
+          </th>
+              <th class="fs_res">
+        Dist.<br>Points
+      </th>
+              <th class="fs_res">
+        Time<br>Points
+      </th>
+              <th class="fs_res">Total</th>
+            </tr>
+          </thead>
+        </table>
+        <p>
+                Results include only those pilots where 0</p><br><h3>Task definition</h3>
+        <table class="fs_res">
+          <thead>
+            <tr>
+              <th class="fs_res">No</th>
+              <th class="fs_res">Leg Dist.</th>
+              <th class="fs_res">Id</th>
+              <th class="fs_res">Radius</th>
+              <th class="fs_res">Open</th>
+              <th class="fs_res">Close</th>
+              <th class="fs_res">Coordinates</th>
+              <th class="fs_res">Altitude</th>
+            </tr>
+          </thead>
+          <tbody></tbody>
+        </table><br><div class="fs_res" style="page-break-before: always;">
+          <h3>Pilots not yet processed (NYP)</h3>
+          <table class="fs_res">
+            <thead>
+              <tr>
+                <th class="fs_res">Id</th>
+                <th class="fs_res">Name</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td class="fs_res" align="right">1</td>
+                <td class="fs_res">Gordon Rigg</td>
+              </tr>
+              <tr>
+                <td class="fs_res" align="right">5</td>
+                <td class="fs_res">Wayne Thompson</td>
+              </tr>
+              <tr>
+                <td class="fs_res" align="right">7</td>
+                <td class="fs_res">Steve Penfold</td>
+              </tr>
+              <tr>
+                <td class="fs_res" align="right">11</td>
+                <td class="fs_res">Ricardo Marques da Costa</td>
+              </tr>
+              <tr>
+                <td class="fs_res" align="right">16</td>
+                <td class="fs_res">Mike Armstrong</td>
+              </tr>
+              <tr>
+                <td class="fs_res" align="right">19</td>
+                <td class="fs_res">Bill Bell</td>
+              </tr>
+              <tr>
+                <td class="fs_res" align="right">20</td>
+                <td class="fs_res">Trevor Birkbeck</td>
+              </tr>
+              <tr>
+                <td class="fs_res" align="right">23</td>
+                <td class="fs_res">Kevin Gay</td>
+              </tr>
+              <tr>
+                <td class="fs_res" align="right">36</td>
+                <td class="fs_res">SIMON SCOTT</td>
+              </tr>
+              <tr>
+                <td class="fs_res" align="right">42</td>
+                <td class="fs_res">Richard Hunt</td>
+              </tr>
+              <tr>
+                <td class="fs_res" align="right">43</td>
+                <td class="fs_res">Tim King</td>
+              </tr>
+              <tr>
+                <td class="fs_res" align="right">55</td>
+                <td class="fs_res">Andrew Lumb</td>
+              </tr>
+              <tr>
+                <td class="fs_res" align="right">69</td>
+                <td class="fs_res">Tim Dotchin</td>
+              </tr>
+              <tr>
+                <td class="fs_res" align="right">77</td>
+                <td class="fs_res">Tim Swait</td>
+              </tr>
+              <tr>
+                <td class="fs_res" align="right">99</td>
+                <td class="fs_res">Jonathan Howes</td>
+              </tr>
+              <tr>
+                <td class="fs_res" align="right">144</td>
+                <td class="fs_res">Justin Needham</td>
+              </tr>
+              <tr>
+                <td class="fs_res" align="right">473</td>
+                <td class="fs_res">Grant Crossingham</td>
+              </tr>
+              <tr>
+                <td class="fs_res" align="right">777</td>
+                <td class="fs_res">Steven Blackler</td>
+              </tr>
+              <tr>
+                <td class="fs_res" align="right">1234</td>
+                <td class="fs_res">Richard Lovelace</td>
+              </tr>
+              <tr>
+                <td class="fs_res" align="right">2525</td>
+                <td class="fs_res">Sean Westrope</td>
+              </tr>
+              <tr>
+                <td class="fs_res" align="right">3042</td>
+                <td class="fs_res">Darren Brown</td>
+              </tr>
+              <tr>
+                <td class="fs_res" align="right">5632</td>
+                <td class="fs_res">Neil Atkinson</td>
+              </tr>
+              <tr>
+                <td class="fs_res" align="right">8592</td>
+                <td class="fs_res">Oliver Moffatt</td>
+              </tr>
+              <tr>
+                <td class="fs_res" align="right">9067</td>
+                <td class="fs_res">Stewart Reid</td>
+              </tr>
+              <tr>
+                <td class="fs_res" align="right">15061</td>
+                <td class="fs_res">mr tony fillingham</td>
+              </tr>
+              <tr>
+                <td class="fs_res" align="right">82645</td>
+                <td class="fs_res">Donnie Carson</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+        <div class="fs_res" style="page-break-before: always;">
+          <h3>Task statistics</h3>
+          <table class="fs_res">
+            <thead>
+              <tr>
+                <th class="fs_res">param</th>
+                <th class="fs_res">value</th>
+              </tr>
+            </thead>
+            <tbody></tbody>
+          </table>
+          <h3>Scoring formula settings</h3>
+          <table class="fs_res">
+            <thead>
+              <tr>
+                <th class="fs_res">param</th>
+                <th class="fs_res">value</th>
+              </tr>
+            </thead>
+            <tbody></tbody>
+          </table>
+        </div>
+      </div>
+      <div class="fs_res" style="width:100%;font-size: xx-small;"><i>
+              Report created: </i></div>
+      <div class="fs_res" style="width:100%;font-size: x-small;">
+        <p>
+              FS development, maintenance and support by <a href="https://www.volirium.com" target="_new"><img width="100" src="http://fs.fai.org/wp-content/uploads/2018/07/volirium-logo.png"></a></p>
+      </div>
+    </div>
+  </body>
+</html>

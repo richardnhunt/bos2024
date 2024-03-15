@@ -1,0 +1,715 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Document>
+    <Folder>
+      <name>Waypoints</name>
+      <Placemark>
+        <name>ACHURC</name>
+        <description>ACHURC 2nm Church Fenton</description>
+        <Point>
+        <coordinates>-1.194667,53.833000,6.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ADISHF</name>
+        <description>ADISHF 2-5nm Dishforth</description>
+        <Point>
+        <coordinates>-1.418667,54.137000,32.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ALEEM</name>
+        <description>ALEEM 2-5nm Leeming</description>
+        <Point>
+        <coordinates>-1.533833,54.292167,33.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ALINT</name>
+        <description>ALINT 2nm Lintononous</description>
+        <Point>
+        <coordinates>-1.251167,54.048667,14.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ATOPCL</name>
+        <description>ATOPCL 2nm Topcliffe</description>
+        <Point>
+        <coordinates>-1.380500,54.205333,27.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>G01003</name>
+        <description>G01003 Carlton Bank goal</description>
+        <Point>
+        <coordinates>-1.223100,54.427133,100.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>G02002</name>
+        <description>G02002 Masham</description>
+        <Point>
+        <coordinates>-1.652350,54.226417,75.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>G03001</name>
+        <description>G03001 Wombelton airfield</description>
+        <Point>
+        <coordinates>-0.970550,54.232917,30.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>G04002</name>
+        <description>G04002 Willy Howe airfield</description>
+        <Point>
+        <coordinates>-0.386650,54.137517,45.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>G05005</name>
+        <description>G05005 Scotch Corner</description>
+        <Point>
+        <coordinates>-1.671867,54.438300,139.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>G06001</name>
+        <description>G06001 Pollington airfield</description>
+        <Point>
+        <coordinates>-1.085533,53.680167,10.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>G07010</name>
+        <description>G07010 Moorcock inn</description>
+        <Point>
+        <coordinates>-2.309067,54.331283,305.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>G08007</name>
+        <description>G08007 Nateby road</description>
+        <Point>
+        <coordinates>-2.351833,54.460050,205.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>G09007</name>
+        <description>G09007 Carrock Fell</description>
+        <Point>
+        <coordinates>-3.000633,54.692417,220.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>G10010</name>
+        <description>G10010 Ribblehead bridge</description>
+        <Point>
+        <coordinates>-2.364350,54.205517,320.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>G11007</name>
+        <description>G11007 Bewaldeth</description>
+        <Point>
+        <coordinates>-3.232217,54.711517,200.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>G12001</name>
+        <description>G12001 Brigsteer</description>
+        <Point>
+        <coordinates>-2.808033,54.289417,5.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>G13006</name>
+        <description>G13006 Coniston old man</description>
+        <Point>
+        <coordinates>-3.107400,54.338017,170.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>G14007</name>
+        <description>G14007 Copley road</description>
+        <Point>
+        <coordinates>-1.881917,54.602150,210.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>G15005</name>
+        <description>G15005 PARA Peterlee airfield</description>
+        <Point>
+        <coordinates>-1.382933,54.766867,150.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>G16004</name>
+        <description>G16004 Sedburgh bridge</description>
+        <Point>
+        <coordinates>-2.514667,54.321333,113.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>G17003</name>
+        <description>G17003 Rushyford</description>
+        <Point>
+        <coordinates>-1.558950,54.645650,90.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>G18005</name>
+        <description>G18005 Ulshaw</description>
+        <Point>
+        <coordinates>-1.780733,54.270433,130.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>G19003</name>
+        <description>G19003 Hawkshead goal</description>
+        <Point>
+        <coordinates>-3.003233,54.379033,75.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>G20010</name>
+        <description>G20010 Semerwater goal</description>
+        <Point>
+        <coordinates>-2.132683,54.282383,320.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>G21001</name>
+        <description>G21001 Ripon north</description>
+        <Point>
+        <coordinates>-1.519417,54.149883,30.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>G22001</name>
+        <description>G22001 M62 J38</description>
+        <Point>
+        <coordinates>-0.675033,53.772800,10.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>G23002</name>
+        <description>G23002 Flint mill</description>
+        <Point>
+        <coordinates>-1.361883,53.926433,35.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>G24010</name>
+        <description>G24010 Sutton Bank gallops</description>
+        <Point>
+        <coordinates>-1.206567,54.248667,310.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>G25004</name>
+        <description>G25004 A171 W of Whitby</description>
+        <Point>
+        <coordinates>-0.659500,54.476483,110.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>G26002</name>
+        <description>G26002 Burniston</description>
+        <Point>
+        <coordinates>-0.445400,54.319717,40.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>G27001</name>
+        <description>G27001 Burton Agnes</description>
+        <Point>
+        <coordinates>-0.321383,54.049267,30.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>G28001</name>
+        <description>G28001 Skegness N</description>
+        <Point>
+        <coordinates>0.331333,53.165867,5.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>G29001</name>
+        <description>G29001 A1121 W of Boston</description>
+        <Point>
+        <coordinates>-0.099200,52.975433,5.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>G30001</name>
+        <description>G30001 Patrington</description>
+        <Point>
+        <coordinates>-0.003983,53.689800,20.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>G31007</name>
+        <description>G31007 Hawkswick</description>
+        <Point>
+        <coordinates>-2.078017,54.132417,220.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>G32001</name>
+        <description>G32001 A586 ENE of Blackpool</description>
+        <Point>
+        <coordinates>-2.924183,53.849067,15.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>G33002</name>
+        <description>G33002 Cantsfield</description>
+        <Point>
+        <coordinates>-2.591617,54.149083,45.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>G34008</name>
+        <description>G34008 Mam Tor</description>
+        <Point>
+        <coordinates>-1.791183,53.344600,220.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>G35001</name>
+        <description>G35001 Hougham - SE of Newark</description>
+        <Point>
+        <coordinates>-0.673633,52.998617,30.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>G36002</name>
+        <description>G36002 Caunton airfield</description>
+        <Point>
+        <coordinates>-0.891683,53.116667,55.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>G37006</name>
+        <description>G37006 Ashbourne airfield</description>
+        <Point>
+        <coordinates>-1.746167,52.968583,175.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>G38005</name>
+        <description>G38005 Egglestone abbey</description>
+        <Point>
+        <coordinates>-1.900367,54.528800,150.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>G39002</name>
+        <description>G39002 Knaresborough</description>
+        <Point>
+        <coordinates>-1.416817,54.004767,50.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>G40001</name>
+        <description>G40001 Great Cowden</description>
+        <Point>
+        <coordinates>-0.133433,53.869983,18.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>G41001</name>
+        <description>G41001 Flamborough head</description>
+        <Point>
+        <coordinates>-0.080017,54.115117,26.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>G42001</name>
+        <description>G42001 West Knapton factory</description>
+        <Point>
+        <coordinates>-0.665000,54.179550,24.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>G43004</name>
+        <description>G43004 Dunsop Bridge</description>
+        <Point>
+        <coordinates>-2.519733,53.940733,113.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>G44010</name>
+        <description>G44010 Newcurch-in-Pendle</description>
+        <Point>
+        <coordinates>-2.279383,53.848650,292.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>G45003</name>
+        <description>G45003 Alston reservoir</description>
+        <Point>
+        <coordinates>-2.607650,53.814983,80.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>G46021</name>
+        <description>G46021 Parsonage reservoir</description>
+        <Point>
+        <coordinates>-2.451767,53.786733,641.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>G47005</name>
+        <description>G47005 Hartwith</description>
+        <Point>
+        <coordinates>-1.672283,54.041633,144.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>G48004</name>
+        <description>G48004 Fountains</description>
+        <Point>
+        <coordinates>-1.579183,54.090383,113.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>G49006</name>
+        <description>G49006 Kilnsey</description>
+        <Point>
+        <coordinates>-2.033683,54.104167,184.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>G50005</name>
+        <description>G50005 Howgill</description>
+        <Point>
+        <coordinates>-1.907250,54.033233,155.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>G51001</name>
+        <description>G51001 Pocklington airfield</description>
+        <Point>
+        <coordinates>-0.794500,53.925550,26.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>G52001</name>
+        <description>G52001 Hutton allotments</description>
+        <Point>
+        <coordinates>-0.451267,53.962483,20.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>G53029</name>
+        <description>G53029 Lofthouse</description>
+        <Point>
+        <coordinates>-1.849233,54.156417,878.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>G54004</name>
+        <description>G54004 Binbrook ex-airfield</description>
+        <Point>
+        <coordinates>-0.203150,53.444983,109.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>G55003</name>
+        <description>G55003 Ryhope</description>
+        <Point>
+        <coordinates>-1.382450,54.863578,28.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>G56001</name>
+        <description>G56001 Whitburn</description>
+        <Point>
+        <coordinates>-1.361039,54.967219,0.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>G57000</name>
+        <description>G57000 Hest Bank</description>
+        <Point>
+        <coordinates>-2.808739,54.100372,17.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>G58002</name>
+        <description>G58002 Sunnyside Lake</description>
+        <Point>
+        <coordinates>-2.748444,53.962489,63.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>G59001</name>
+        <description>G59001 Garstang</description>
+        <Point>
+        <coordinates>-2.768519,53.912403,19.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>G60000</name>
+        <description>G60000 Stalmine</description>
+        <Point>
+        <coordinates>-2.977639,53.902556,13.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>G61000</name>
+        <description>G61000 Bootle</description>
+        <Point>
+        <coordinates>-3.374478,54.280747,23.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>G62002</name>
+        <description>G62002 Sandwith</description>
+        <Point>
+        <coordinates>-3.600603,54.513869,76.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>G63002</name>
+        <description>G63002 Birkby</description>
+        <Point>
+        <coordinates>-3.474517,54.722719,50.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>G64003</name>
+        <description>G64003 Braithwaite</description>
+        <Point>
+        <coordinates>-3.179950,54.602689,79.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>G65000</name>
+        <description>G65000 Leece</description>
+        <Point>
+        <coordinates>-3.154708,54.118319,33.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>G66000</name>
+        <description>G66000 Rampside</description>
+        <Point>
+        <coordinates>-3.159214,54.089222,15.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>G67004</name>
+        <description>G67004 Middle of nowhere</description>
+        <Point>
+        <coordinates>-2.969217,54.227036,119.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>G68005</name>
+        <description>G68005 Yanwath</description>
+        <Point>
+        <coordinates>-2.755222,54.640925,150.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>G69005</name>
+        <description>G69005 SW Akebar</description>
+        <Point>
+        <coordinates>-1.733289,54.298917,157.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>G70004</name>
+        <description>G70004 Wensley</description>
+        <Point>
+        <coordinates>-1.859858,54.299150,107.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>G71002</name>
+        <description>G71002 Brompton N</description>
+        <Point>
+        <coordinates>-1.429967,54.369044,49.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>G72002</name>
+        <description>G72002 Whinstone View</description>
+        <Point>
+        <coordinates>-1.146442,54.499233,85.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>G73006</name>
+        <description>G73006 Easington N</description>
+        <Point>
+        <coordinates>-0.847764,54.562464,185.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>G74000</name>
+        <description>G74000 Bowness E</description>
+        <Point>
+        <coordinates>-3.205650,54.952731,9.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>G75000</name>
+        <description>G75000 Silloth</description>
+        <Point>
+        <coordinates>-3.366133,54.870769,6.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>G76000</name>
+        <description>G76000 Allonby</description>
+        <Point>
+        <coordinates>-3.428744,54.780150,8.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SCB013</name>
+        <description>SCB013 Carlton Bank</description>
+        <Point>
+        <coordinates>-1.202217,54.415833,383.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SCF017</name>
+        <description>SCF017 Cowclose Fell</description>
+        <Point>
+        <coordinates>-2.169933,54.154500,525.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SDF019</name>
+        <description>SDF019 Dodd Fell E launch</description>
+        <Point>
+        <coordinates>-2.243061,54.267361,579.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SMR008</name>
+        <description>SMR008 Model Ridge</description>
+        <Point>
+        <coordinates>-1.195450,54.422467,260.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SNS016</name>
+        <description>SNS016 Nappa Scar</description>
+        <Point>
+        <coordinates>-2.056850,54.327167,510.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SSW016</name>
+        <description>SSW016 Semerwater</description>
+        <Point>
+        <coordinates>-2.145900,54.285750,490.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>STB016</name>
+        <description>STB016 Tailbridge</description>
+        <Point>
+        <coordinates>-2.303400,54.438083,510.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SWB010</name>
+        <description>SWB010 Windbank</description>
+        <Point>
+        <coordinates>-2.050467,54.126783,325.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SWF017</name>
+        <description>SWF017 Wether Fell</description>
+        <Point>
+        <coordinates>-2.205133,54.269600,570.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>T01018</name>
+        <description>T01018 Buckden Pike</description>
+        <Point>
+        <coordinates>-2.019083,54.211317,551.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>T02001</name>
+        <description>T02001 Fairburn</description>
+        <Point>
+        <coordinates>-1.285950,53.745600,38.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>T03001</name>
+        <description>T03001 M62 bridge</description>
+        <Point>
+        <coordinates>-1.119317,53.693000,15.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>T04000</name>
+        <description>T04000 Cotness</description>
+        <Point>
+        <coordinates>-0.798433,53.706133,5.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>T05008</name>
+        <description>T05008 Clay bank</description>
+        <Point>
+        <coordinates>-1.122333,54.429083,240.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>T06013</name>
+        <description>T06013 Wolfs Crag</description>
+        <Point>
+        <coordinates>-2.996717,54.595383,410.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>T07001</name>
+        <description>T07001 Rufforth hall</description>
+        <Point>
+        <coordinates>-1.208883,53.964183,20.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>T08002</name>
+        <description>T08002 M62-A1 J33 Pontefract</description>
+        <Point>
+        <coordinates>-1.268450,53.695800,40.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>T09015</name>
+        <description>T09015 Summit reservoir</description>
+        <Point>
+        <coordinates>-2.181667,54.501483,443.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>T10019</name>
+        <description>T10019 Dodd Fell Parking</description>
+        <Point>
+        <coordinates>-2.261894,54.247114,576.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ZACKBR</name>
+        <description>ZACKBR Ackebar Park Camping</description>
+        <Point>
+        <coordinates>-1.707069,54.310567,73.000000</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

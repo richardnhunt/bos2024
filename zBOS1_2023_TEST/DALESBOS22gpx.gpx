@@ -1,0 +1,822 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1"
+     creator="GpsDump 5.41"
+     version="1.1"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="http://www.gethome.no/stein.sorensen/">
+      <text>GPS dump for www.flightlog.org</text>
+    </link>
+    <time>2022-06-01T09:48:23Z</time>
+    <bounds minlat="52.968583" minlon="-3.600603" maxlat="54.967219" maxlon="0.331333"/>
+  </metadata>
+  <wpt lat="53.833000" lon="-1.194667">
+    <ele>6.0</ele>
+    <time>2018-04-15T10:44:26</time>
+    <name>ACHURC</name>
+    <cmt>ACHURC 2nm Church Fenton</cmt>
+    <desc>ACHURC 2nm Church Fenton</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="54.137000" lon="-1.418667">
+    <ele>32.0</ele>
+    <time>2018-04-15T10:44:26</time>
+    <name>ADISHF</name>
+    <cmt>ADISHF 2-5nm Dishforth</cmt>
+    <desc>ADISHF 2-5nm Dishforth</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="54.292167" lon="-1.533833">
+    <ele>33.0</ele>
+    <time>2018-04-15T10:44:26</time>
+    <name>ALEEM</name>
+    <cmt>ALEEM 2-5nm Leeming</cmt>
+    <desc>ALEEM 2-5nm Leeming</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="54.048667" lon="-1.251167">
+    <ele>14.0</ele>
+    <time>2018-04-15T10:44:26</time>
+    <name>ALINT</name>
+    <cmt>ALINT 2nm Lintononous</cmt>
+    <desc>ALINT 2nm Lintononous</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="54.205333" lon="-1.380500">
+    <ele>27.0</ele>
+    <time>2018-04-15T10:44:26</time>
+    <name>ATOPCL</name>
+    <cmt>ATOPCL 2nm Topcliffe</cmt>
+    <desc>ATOPCL 2nm Topcliffe</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="54.427133" lon="-1.223100">
+    <ele>100.0</ele>
+    <time>2018-04-15T10:44:26</time>
+    <name>G01003</name>
+    <cmt>G01003 Carlton Bank goal</cmt>
+    <desc>G01003 Carlton Bank goal</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="54.226417" lon="-1.652350">
+    <ele>75.0</ele>
+    <time>2018-04-15T10:44:26</time>
+    <name>G02002</name>
+    <cmt>G02002 Masham</cmt>
+    <desc>G02002 Masham</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="54.232917" lon="-0.970550">
+    <ele>30.0</ele>
+    <time>2018-04-15T10:44:26</time>
+    <name>G03001</name>
+    <cmt>G03001 Wombelton airfield</cmt>
+    <desc>G03001 Wombelton airfield</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="54.137517" lon="-0.386650">
+    <ele>45.0</ele>
+    <time>2018-04-15T10:44:26</time>
+    <name>G04002</name>
+    <cmt>G04002 Willy Howe airfield</cmt>
+    <desc>G04002 Willy Howe airfield</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="54.438300" lon="-1.671867">
+    <ele>139.0</ele>
+    <time>2018-04-15T10:44:26</time>
+    <name>G05005</name>
+    <cmt>G05005 Scotch Corner</cmt>
+    <desc>G05005 Scotch Corner</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="53.680167" lon="-1.085533">
+    <ele>10.0</ele>
+    <time>2018-04-15T10:44:26</time>
+    <name>G06001</name>
+    <cmt>G06001 Pollington airfield</cmt>
+    <desc>G06001 Pollington airfield</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="54.331283" lon="-2.309067">
+    <ele>305.0</ele>
+    <time>2018-04-15T10:44:26</time>
+    <name>G07010</name>
+    <cmt>G07010 Moorcock inn</cmt>
+    <desc>G07010 Moorcock inn</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="54.460050" lon="-2.351833">
+    <ele>205.0</ele>
+    <time>2018-04-15T10:44:26</time>
+    <name>G08007</name>
+    <cmt>G08007 Nateby road</cmt>
+    <desc>G08007 Nateby road</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="54.692417" lon="-3.000633">
+    <ele>220.0</ele>
+    <time>2018-04-15T10:44:26</time>
+    <name>G09007</name>
+    <cmt>G09007 Carrock Fell</cmt>
+    <desc>G09007 Carrock Fell</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="54.205517" lon="-2.364350">
+    <ele>320.0</ele>
+    <time>2018-04-15T10:44:26</time>
+    <name>G10010</name>
+    <cmt>G10010 Ribblehead bridge</cmt>
+    <desc>G10010 Ribblehead bridge</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="54.711517" lon="-3.232217">
+    <ele>200.0</ele>
+    <time>2018-04-15T10:44:26</time>
+    <name>G11007</name>
+    <cmt>G11007 Bewaldeth</cmt>
+    <desc>G11007 Bewaldeth</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="54.289417" lon="-2.808033">
+    <ele>5.0</ele>
+    <time>2018-04-15T10:44:26</time>
+    <name>G12001</name>
+    <cmt>G12001 Brigsteer</cmt>
+    <desc>G12001 Brigsteer</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="54.338017" lon="-3.107400">
+    <ele>170.0</ele>
+    <time>2018-04-15T10:44:26</time>
+    <name>G13006</name>
+    <cmt>G13006 Coniston old man</cmt>
+    <desc>G13006 Coniston old man</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="54.602150" lon="-1.881917">
+    <ele>210.0</ele>
+    <time>2018-04-15T10:44:26</time>
+    <name>G14007</name>
+    <cmt>G14007 Copley road</cmt>
+    <desc>G14007 Copley road</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="54.766867" lon="-1.382933">
+    <ele>150.0</ele>
+    <time>2018-04-15T10:44:26</time>
+    <name>G15005</name>
+    <cmt>G15005 PARA Peterlee airfield</cmt>
+    <desc>G15005 PARA Peterlee airfield</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="54.321333" lon="-2.514667">
+    <ele>113.0</ele>
+    <time>2018-04-15T10:44:26</time>
+    <name>G16004</name>
+    <cmt>G16004 Sedburgh bridge</cmt>
+    <desc>G16004 Sedburgh bridge</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="54.645650" lon="-1.558950">
+    <ele>90.0</ele>
+    <time>2018-04-15T10:44:26</time>
+    <name>G17003</name>
+    <cmt>G17003 Rushyford</cmt>
+    <desc>G17003 Rushyford</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="54.270433" lon="-1.780733">
+    <ele>130.0</ele>
+    <time>2018-04-15T10:44:26</time>
+    <name>G18005</name>
+    <cmt>G18005 Ulshaw</cmt>
+    <desc>G18005 Ulshaw</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="54.379033" lon="-3.003233">
+    <ele>75.0</ele>
+    <time>2018-04-15T10:44:26</time>
+    <name>G19003</name>
+    <cmt>G19003 Hawkshead goal</cmt>
+    <desc>G19003 Hawkshead goal</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="54.282383" lon="-2.132683">
+    <ele>320.0</ele>
+    <time>2018-04-15T10:44:26</time>
+    <name>G20010</name>
+    <cmt>G20010 Semerwater goal</cmt>
+    <desc>G20010 Semerwater goal</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="54.149883" lon="-1.519417">
+    <ele>30.0</ele>
+    <time>2018-04-15T10:44:26</time>
+    <name>G21001</name>
+    <cmt>G21001 Ripon north</cmt>
+    <desc>G21001 Ripon north</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="53.772800" lon="-0.675033">
+    <ele>10.0</ele>
+    <time>2018-04-15T10:44:26</time>
+    <name>G22001</name>
+    <cmt>G22001 M62 J38</cmt>
+    <desc>G22001 M62 J38</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="53.926433" lon="-1.361883">
+    <ele>35.0</ele>
+    <time>2018-04-15T10:44:26</time>
+    <name>G23002</name>
+    <cmt>G23002 Flint mill</cmt>
+    <desc>G23002 Flint mill</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="54.248667" lon="-1.206567">
+    <ele>310.0</ele>
+    <time>2018-04-15T10:44:26</time>
+    <name>G24010</name>
+    <cmt>G24010 Sutton Bank gallops</cmt>
+    <desc>G24010 Sutton Bank gallops</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="54.476483" lon="-0.659500">
+    <ele>110.0</ele>
+    <time>2018-04-15T10:44:26</time>
+    <name>G25004</name>
+    <cmt>G25004 A171 W of Whitby</cmt>
+    <desc>G25004 A171 W of Whitby</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="54.319717" lon="-0.445400">
+    <ele>40.0</ele>
+    <time>2018-04-15T10:44:26</time>
+    <name>G26002</name>
+    <cmt>G26002 Burniston</cmt>
+    <desc>G26002 Burniston</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="54.049267" lon="-0.321383">
+    <ele>30.0</ele>
+    <time>2018-04-15T10:44:26</time>
+    <name>G27001</name>
+    <cmt>G27001 Burton Agnes</cmt>
+    <desc>G27001 Burton Agnes</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="53.165867" lon="0.331333">
+    <ele>5.0</ele>
+    <time>2018-04-15T10:44:26</time>
+    <name>G28001</name>
+    <cmt>G28001 Skegness N</cmt>
+    <desc>G28001 Skegness N</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="52.975433" lon="-0.099200">
+    <ele>5.0</ele>
+    <time>2018-04-15T10:44:26</time>
+    <name>G29001</name>
+    <cmt>G29001 A1121 W of Boston</cmt>
+    <desc>G29001 A1121 W of Boston</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="53.689800" lon="-0.003983">
+    <ele>20.0</ele>
+    <time>2018-04-15T10:44:26</time>
+    <name>G30001</name>
+    <cmt>G30001 Patrington</cmt>
+    <desc>G30001 Patrington</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="54.132417" lon="-2.078017">
+    <ele>220.0</ele>
+    <time>2018-04-15T10:44:26</time>
+    <name>G31007</name>
+    <cmt>G31007 Hawkswick</cmt>
+    <desc>G31007 Hawkswick</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="53.849067" lon="-2.924183">
+    <ele>15.0</ele>
+    <time>2018-04-15T10:44:26</time>
+    <name>G32001</name>
+    <cmt>G32001 A586 ENE of Blackpool</cmt>
+    <desc>G32001 A586 ENE of Blackpool</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="54.149083" lon="-2.591617">
+    <ele>45.0</ele>
+    <time>2018-04-15T10:44:26</time>
+    <name>G33002</name>
+    <cmt>G33002 Cantsfield</cmt>
+    <desc>G33002 Cantsfield</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="53.344600" lon="-1.791183">
+    <ele>220.0</ele>
+    <time>2018-04-15T10:44:26</time>
+    <name>G34008</name>
+    <cmt>G34008 Mam Tor</cmt>
+    <desc>G34008 Mam Tor</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="52.998617" lon="-0.673633">
+    <ele>30.0</ele>
+    <time>2018-04-15T10:44:26</time>
+    <name>G35001</name>
+    <cmt>G35001 Hougham - SE of Newark</cmt>
+    <desc>G35001 Hougham - SE of Newark</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="53.116667" lon="-0.891683">
+    <ele>55.0</ele>
+    <time>2018-04-15T10:44:26</time>
+    <name>G36002</name>
+    <cmt>G36002 Caunton airfield</cmt>
+    <desc>G36002 Caunton airfield</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="52.968583" lon="-1.746167">
+    <ele>175.0</ele>
+    <time>2018-04-15T10:44:26</time>
+    <name>G37006</name>
+    <cmt>G37006 Ashbourne airfield</cmt>
+    <desc>G37006 Ashbourne airfield</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="54.528800" lon="-1.900367">
+    <ele>150.0</ele>
+    <time>2018-04-15T10:44:26</time>
+    <name>G38005</name>
+    <cmt>G38005 Egglestone abbey</cmt>
+    <desc>G38005 Egglestone abbey</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="54.004767" lon="-1.416817">
+    <ele>50.0</ele>
+    <time>2018-04-15T10:44:26</time>
+    <name>G39002</name>
+    <cmt>G39002 Knaresborough</cmt>
+    <desc>G39002 Knaresborough</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="53.869983" lon="-0.133433">
+    <ele>18.0</ele>
+    <time>2018-04-15T10:44:26</time>
+    <name>G40001</name>
+    <cmt>G40001 Great Cowden</cmt>
+    <desc>G40001 Great Cowden</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="54.115117" lon="-0.080017">
+    <ele>26.0</ele>
+    <time>2018-04-15T10:44:26</time>
+    <name>G41001</name>
+    <cmt>G41001 Flamborough head</cmt>
+    <desc>G41001 Flamborough head</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="54.179550" lon="-0.665000">
+    <ele>24.0</ele>
+    <time>2018-04-15T10:44:26</time>
+    <name>G42001</name>
+    <cmt>G42001 West Knapton factory</cmt>
+    <desc>G42001 West Knapton factory</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="53.940733" lon="-2.519733">
+    <ele>113.0</ele>
+    <time>2018-04-15T10:44:26</time>
+    <name>G43004</name>
+    <cmt>G43004 Dunsop Bridge</cmt>
+    <desc>G43004 Dunsop Bridge</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="53.848650" lon="-2.279383">
+    <ele>292.0</ele>
+    <time>2018-04-15T10:44:26</time>
+    <name>G44010</name>
+    <cmt>G44010 Newcurch-in-Pendle</cmt>
+    <desc>G44010 Newcurch-in-Pendle</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="53.814983" lon="-2.607650">
+    <ele>80.0</ele>
+    <time>2018-04-15T10:44:26</time>
+    <name>G45003</name>
+    <cmt>G45003 Alston reservoir</cmt>
+    <desc>G45003 Alston reservoir</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="53.786733" lon="-2.451767">
+    <ele>641.0</ele>
+    <time>2018-04-15T10:44:26</time>
+    <name>G46021</name>
+    <cmt>G46021 Parsonage reservoir</cmt>
+    <desc>G46021 Parsonage reservoir</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="54.041633" lon="-1.672283">
+    <ele>144.0</ele>
+    <time>2018-04-15T10:44:26</time>
+    <name>G47005</name>
+    <cmt>G47005 Hartwith</cmt>
+    <desc>G47005 Hartwith</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="54.090383" lon="-1.579183">
+    <ele>113.0</ele>
+    <time>2018-04-15T10:44:26</time>
+    <name>G48004</name>
+    <cmt>G48004 Fountains</cmt>
+    <desc>G48004 Fountains</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="54.104167" lon="-2.033683">
+    <ele>184.0</ele>
+    <time>2018-04-15T10:44:26</time>
+    <name>G49006</name>
+    <cmt>G49006 Kilnsey</cmt>
+    <desc>G49006 Kilnsey</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="54.033233" lon="-1.907250">
+    <ele>155.0</ele>
+    <time>2018-04-15T10:44:26</time>
+    <name>G50005</name>
+    <cmt>G50005 Howgill</cmt>
+    <desc>G50005 Howgill</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="53.925550" lon="-0.794500">
+    <ele>26.0</ele>
+    <time>2018-04-15T10:44:26</time>
+    <name>G51001</name>
+    <cmt>G51001 Pocklington airfield</cmt>
+    <desc>G51001 Pocklington airfield</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="53.962483" lon="-0.451267">
+    <ele>20.0</ele>
+    <time>2018-04-15T10:44:26</time>
+    <name>G52001</name>
+    <cmt>G52001 Hutton allotments</cmt>
+    <desc>G52001 Hutton allotments</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="54.156417" lon="-1.849233">
+    <ele>878.0</ele>
+    <time>2018-04-15T10:44:26</time>
+    <name>G53029</name>
+    <cmt>G53029 Lofthouse</cmt>
+    <desc>G53029 Lofthouse</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="53.444983" lon="-0.203150">
+    <ele>109.0</ele>
+    <time>2018-04-15T10:44:26</time>
+    <name>G54004</name>
+    <cmt>G54004 Binbrook ex-airfield</cmt>
+    <desc>G54004 Binbrook ex-airfield</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="54.863578" lon="-1.382450">
+    <ele>28.0</ele>
+    <time>2018-04-15T10:44:26</time>
+    <name>G55003</name>
+    <cmt>G55003 Ryhope</cmt>
+    <desc>G55003 Ryhope</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="54.967219" lon="-1.361039">
+    <ele>0.0</ele>
+    <time>2018-04-15T10:44:26</time>
+    <name>G56001</name>
+    <cmt>G56001 Whitburn</cmt>
+    <desc>G56001 Whitburn</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="54.100372" lon="-2.808739">
+    <ele>17.0</ele>
+    <time>2018-04-15T10:44:26</time>
+    <name>G57000</name>
+    <cmt>G57000 Hest Bank</cmt>
+    <desc>G57000 Hest Bank</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="53.962489" lon="-2.748444">
+    <ele>63.0</ele>
+    <time>2018-04-15T10:44:26</time>
+    <name>G58002</name>
+    <cmt>G58002 Sunnyside Lake</cmt>
+    <desc>G58002 Sunnyside Lake</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="53.912403" lon="-2.768519">
+    <ele>19.0</ele>
+    <time>2018-04-15T10:44:26</time>
+    <name>G59001</name>
+    <cmt>G59001 Garstang</cmt>
+    <desc>G59001 Garstang</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="53.902556" lon="-2.977639">
+    <ele>13.0</ele>
+    <time>2018-04-15T10:44:26</time>
+    <name>G60000</name>
+    <cmt>G60000 Stalmine</cmt>
+    <desc>G60000 Stalmine</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="54.280747" lon="-3.374478">
+    <ele>23.0</ele>
+    <time>2018-04-15T10:44:26</time>
+    <name>G61000</name>
+    <cmt>G61000 Bootle</cmt>
+    <desc>G61000 Bootle</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="54.513869" lon="-3.600603">
+    <ele>76.0</ele>
+    <time>2018-04-15T10:44:26</time>
+    <name>G62002</name>
+    <cmt>G62002 Sandwith</cmt>
+    <desc>G62002 Sandwith</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="54.722719" lon="-3.474517">
+    <ele>50.0</ele>
+    <time>2018-04-15T10:44:26</time>
+    <name>G63002</name>
+    <cmt>G63002 Birkby</cmt>
+    <desc>G63002 Birkby</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="54.602689" lon="-3.179950">
+    <ele>79.0</ele>
+    <time>2018-04-15T10:44:26</time>
+    <name>G64003</name>
+    <cmt>G64003 Braithwaite</cmt>
+    <desc>G64003 Braithwaite</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="54.118319" lon="-3.154708">
+    <ele>33.0</ele>
+    <time>2018-04-15T10:44:26</time>
+    <name>G65000</name>
+    <cmt>G65000 Leece</cmt>
+    <desc>G65000 Leece</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="54.089222" lon="-3.159214">
+    <ele>15.0</ele>
+    <time>2018-04-15T10:44:26</time>
+    <name>G66000</name>
+    <cmt>G66000 Rampside</cmt>
+    <desc>G66000 Rampside</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="54.227036" lon="-2.969217">
+    <ele>119.0</ele>
+    <time>2018-04-15T10:44:26</time>
+    <name>G67004</name>
+    <cmt>G67004 Middle of nowhere</cmt>
+    <desc>G67004 Middle of nowhere</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="54.640925" lon="-2.755222">
+    <ele>150.0</ele>
+    <time>2018-04-15T10:44:26</time>
+    <name>G68005</name>
+    <cmt>G68005 Yanwath</cmt>
+    <desc>G68005 Yanwath</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="54.298917" lon="-1.733289">
+    <ele>157.0</ele>
+    <time>2018-04-15T10:44:26</time>
+    <name>G69005</name>
+    <cmt>G69005 SW Akebar</cmt>
+    <desc>G69005 SW Akebar</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="54.299150" lon="-1.859858">
+    <ele>107.0</ele>
+    <time>2018-04-15T10:44:26</time>
+    <name>G70004</name>
+    <cmt>G70004 Wensley</cmt>
+    <desc>G70004 Wensley</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="54.369044" lon="-1.429967">
+    <ele>49.0</ele>
+    <time>2018-04-15T10:44:26</time>
+    <name>G71002</name>
+    <cmt>G71002 Brompton N</cmt>
+    <desc>G71002 Brompton N</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="54.499233" lon="-1.146442">
+    <ele>85.0</ele>
+    <time>2018-04-15T10:44:26</time>
+    <name>G72002</name>
+    <cmt>G72002 Whinstone View</cmt>
+    <desc>G72002 Whinstone View</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="54.562464" lon="-0.847764">
+    <ele>185.0</ele>
+    <time>2018-04-15T10:44:26</time>
+    <name>G73006</name>
+    <cmt>G73006 Easington N</cmt>
+    <desc>G73006 Easington N</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="54.952731" lon="-3.205650">
+    <ele>9.0</ele>
+    <time>2018-04-15T10:44:26</time>
+    <name>G74000</name>
+    <cmt>G74000 Bowness E</cmt>
+    <desc>G74000 Bowness E</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="54.870769" lon="-3.366133">
+    <ele>6.0</ele>
+    <time>2018-04-15T10:44:26</time>
+    <name>G75000</name>
+    <cmt>G75000 Silloth</cmt>
+    <desc>G75000 Silloth</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="54.780150" lon="-3.428744">
+    <ele>8.0</ele>
+    <time>2018-04-15T10:44:26</time>
+    <name>G76000</name>
+    <cmt>G76000 Allonby</cmt>
+    <desc>G76000 Allonby</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="54.415833" lon="-1.202217">
+    <ele>383.0</ele>
+    <time>2018-04-15T10:44:26</time>
+    <name>SCB013</name>
+    <cmt>SCB013 Carlton Bank</cmt>
+    <desc>SCB013 Carlton Bank</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="54.154500" lon="-2.169933">
+    <ele>525.0</ele>
+    <time>2018-04-15T10:44:26</time>
+    <name>SCF017</name>
+    <cmt>SCF017 Cowclose Fell</cmt>
+    <desc>SCF017 Cowclose Fell</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="54.267361" lon="-2.243061">
+    <ele>579.0</ele>
+    <time>2018-04-15T10:44:26</time>
+    <name>SDF019</name>
+    <cmt>SDF019 Dodd Fell E launch</cmt>
+    <desc>SDF019 Dodd Fell E launch</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="54.422467" lon="-1.195450">
+    <ele>260.0</ele>
+    <time>2018-04-15T10:44:26</time>
+    <name>SMR008</name>
+    <cmt>SMR008 Model Ridge</cmt>
+    <desc>SMR008 Model Ridge</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="54.327167" lon="-2.056850">
+    <ele>510.0</ele>
+    <time>2018-04-15T10:44:26</time>
+    <name>SNS016</name>
+    <cmt>SNS016 Nappa Scar</cmt>
+    <desc>SNS016 Nappa Scar</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="54.285750" lon="-2.145900">
+    <ele>490.0</ele>
+    <time>2018-04-15T10:44:26</time>
+    <name>SSW016</name>
+    <cmt>SSW016 Semerwater</cmt>
+    <desc>SSW016 Semerwater</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="54.438083" lon="-2.303400">
+    <ele>510.0</ele>
+    <time>2018-04-15T10:44:26</time>
+    <name>STB016</name>
+    <cmt>STB016 Tailbridge</cmt>
+    <desc>STB016 Tailbridge</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="54.126783" lon="-2.050467">
+    <ele>325.0</ele>
+    <time>2018-04-15T10:44:26</time>
+    <name>SWB010</name>
+    <cmt>SWB010 Windbank</cmt>
+    <desc>SWB010 Windbank</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="54.269600" lon="-2.205133">
+    <ele>570.0</ele>
+    <time>2018-04-15T10:44:26</time>
+    <name>SWF017</name>
+    <cmt>SWF017 Wether Fell</cmt>
+    <desc>SWF017 Wether Fell</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="54.211317" lon="-2.019083">
+    <ele>551.0</ele>
+    <time>2018-04-15T10:44:26</time>
+    <name>T01018</name>
+    <cmt>T01018 Buckden Pike</cmt>
+    <desc>T01018 Buckden Pike</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="53.745600" lon="-1.285950">
+    <ele>38.0</ele>
+    <time>2018-04-15T10:44:26</time>
+    <name>T02001</name>
+    <cmt>T02001 Fairburn</cmt>
+    <desc>T02001 Fairburn</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="53.693000" lon="-1.119317">
+    <ele>15.0</ele>
+    <time>2018-04-15T10:44:26</time>
+    <name>T03001</name>
+    <cmt>T03001 M62 bridge</cmt>
+    <desc>T03001 M62 bridge</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="53.706133" lon="-0.798433">
+    <ele>5.0</ele>
+    <time>2018-04-15T10:44:26</time>
+    <name>T04000</name>
+    <cmt>T04000 Cotness</cmt>
+    <desc>T04000 Cotness</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="54.429083" lon="-1.122333">
+    <ele>240.0</ele>
+    <time>2018-04-15T10:44:26</time>
+    <name>T05008</name>
+    <cmt>T05008 Clay bank</cmt>
+    <desc>T05008 Clay bank</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="54.595383" lon="-2.996717">
+    <ele>410.0</ele>
+    <time>2018-04-15T10:44:26</time>
+    <name>T06013</name>
+    <cmt>T06013 Wolfs Crag</cmt>
+    <desc>T06013 Wolfs Crag</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="53.964183" lon="-1.208883">
+    <ele>20.0</ele>
+    <time>2018-04-15T10:44:26</time>
+    <name>T07001</name>
+    <cmt>T07001 Rufforth hall</cmt>
+    <desc>T07001 Rufforth hall</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="53.695800" lon="-1.268450">
+    <ele>40.0</ele>
+    <time>2018-04-15T10:44:26</time>
+    <name>T08002</name>
+    <cmt>T08002 M62-A1 J33 Pontefract</cmt>
+    <desc>T08002 M62-A1 J33 Pontefract</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="54.501483" lon="-2.181667">
+    <ele>443.0</ele>
+    <time>2018-04-15T10:44:26</time>
+    <name>T09015</name>
+    <cmt>T09015 Summit reservoir</cmt>
+    <desc>T09015 Summit reservoir</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="54.247114" lon="-2.261894">
+    <ele>576.0</ele>
+    <time>2018-04-15T10:44:26</time>
+    <name>T10019</name>
+    <cmt>T10019 Dodd Fell Parking</cmt>
+    <desc>T10019 Dodd Fell Parking</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="54.310567" lon="-1.707069">
+    <ele>73.0</ele>
+    <time>2018-04-15T10:44:26</time>
+    <name>ZACKBR</name>
+    <cmt>ZACKBR Ackebar Park Camping</cmt>
+    <desc>ZACKBR Ackebar Park Camping</desc>
+    <sym>Dot</sym>
+  </wpt>
+</gpx>
