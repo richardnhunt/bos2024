@@ -433,72 +433,6 @@
           <FsCustomAttribute name="Live" value="" />
         </FsCustomAttributes>
       </FsParticipant>
-      <FsParticipant id="16" name="Mike Armstrong" nat_code_3166_a3="gbr" female="0" birthday="1959-06-16" glider="A-I-R ATOS VQ" glider_main_colors="white" sponsor="British Hang Gliding &amp; Paragliding Association" fai_licence="0" CIVLID="7161">
-        <FsCustomAttributes>
-          <FsCustomAttribute name="First name" value="Mike" />
-          <FsCustomAttribute name="Last name" value="Armstrong" />
-          <FsCustomAttribute name="Name in native language" value="Mike Armstrong" />
-          <FsCustomAttribute name="Nationality" value="United Kingdom" />
-          <FsCustomAttribute name="Email address" value="hang.glide.mike@gmail.com" />
-          <FsCustomAttribute name="Country of Residence" value="United Kingdom" />
-          <FsCustomAttribute name="Postal address" value="30 Carfrae Road,Edinburgh,EH4 3QQ" />
-          <FsCustomAttribute name="Postal code" value="EH4 3QQ" />
-          <FsCustomAttribute name="City" value="Edinburgh" />
-          <FsCustomAttribute name="Address" value="30 Carfrae Road" />
-          <FsCustomAttribute name="Contact phone number" value="+447850432892" />
-          <FsCustomAttribute name="Phone for report back" value="+447850432892" />
-          <FsCustomAttribute name="Wing Model" value="VQ" />
-          <FsCustomAttribute name="Wing Manufacturer" value="A-I-R ATOS" />
-          <FsCustomAttribute name="Wing certification" value="" />
-          <FsCustomAttribute name="FAI ID" value="18943" />
-          <FsCustomAttribute name="FAI Licence" value="366722" />
-          <FsCustomAttribute name="Nac Licence" value="BHPA/5604" />
-          <FsCustomAttribute name="National Licence" value="5604" />
-          <FsCustomAttribute name="Club" value="Scottish Hang Gliding Club" />
-          <FsCustomAttribute name="Team" value="Scotland" />
-          <FsCustomAttribute name="T-shirt size" value="M" />
-          <FsCustomAttribute name="Food restriction" value="veggie" />
-          <FsCustomAttribute name="Insurance company" value="Sportscoverdirect " />
-          <FsCustomAttribute name="Insurance policy" value="tba" />
-          <FsCustomAttribute name="Contact person" value="Fiona Grant" />
-          <FsCustomAttribute name="Contact person phone" value="+447810397652" />
-          <FsCustomAttribute name="Blood type" value="A+" />
-          <FsCustomAttribute name="Live" value="" />
-        </FsCustomAttributes>
-      </FsParticipant>
-      <FsParticipant id="777" name="Nick Collins" nat_code_3166_a3="gbr" female="0" birthday="1961-01-07" glider="A-I-R ATOS VR" glider_main_colors="Technora and red stripe white  control surfaces" sponsor="British Hang Gliding and Paragliding Association" fai_licence="0" CIVLID="39468">
-        <FsCustomAttributes>
-          <FsCustomAttribute name="First name" value="Nick" />
-          <FsCustomAttribute name="Last name" value="Collins" />
-          <FsCustomAttribute name="Name in native language" value="Nick Collins" />
-          <FsCustomAttribute name="Nationality" value="United Kingdom" />
-          <FsCustomAttribute name="Email address" value="nickcollinsaero@googlemail.com" />
-          <FsCustomAttribute name="Country of Residence" value="United Kingdom" />
-          <FsCustomAttribute name="Postal address" value="Old Greytree,,Ross-on-Wye,HR9 7HT" />
-          <FsCustomAttribute name="Postal code" value="HR9 7HT" />
-          <FsCustomAttribute name="City" value="Ross-on-Wye" />
-          <FsCustomAttribute name="Address" value="Old Greytree," />
-          <FsCustomAttribute name="Contact phone number" value="+07891608966" />
-          <FsCustomAttribute name="Phone for report back" value="+07891608966" />
-          <FsCustomAttribute name="Wing Model" value="VR" />
-          <FsCustomAttribute name="Wing Manufacturer" value="A-I-R ATOS" />
-          <FsCustomAttribute name="Wing certification" value="" />
-          <FsCustomAttribute name="FAI ID" value="" />
-          <FsCustomAttribute name="FAI Licence" value="" />
-          <FsCustomAttribute name="Nac Licence" value="" />
-          <FsCustomAttribute name="National Licence" value="" />
-          <FsCustomAttribute name="Club" value="Malvern Aerotow" />
-          <FsCustomAttribute name="Team" value="Great Britain" />
-          <FsCustomAttribute name="T-shirt size" value="M" />
-          <FsCustomAttribute name="Food restriction" value="None" />
-          <FsCustomAttribute name="Insurance company" value="bhpa" />
-          <FsCustomAttribute name="Insurance policy" value="bhpa" />
-          <FsCustomAttribute name="Contact person" value="Joanna Collins" />
-          <FsCustomAttribute name="Contact person phone" value="+07528136559" />
-          <FsCustomAttribute name="Blood type" value="I do not know" />
-          <FsCustomAttribute name="Live" value="" />
-        </FsCustomAttributes>
-      </FsParticipant>
       <FsParticipant id="1" name="Oliver Moffatt" nat_code_3166_a3="gbr" female="0" birthday="1960-04-06" glider="Moyes Litespeed RX 3.5 Pro" glider_main_colors="Grey and orange" sponsor="Mrs Moffatt" fai_licence="0" CIVLID="7288">
         <FsCustomAttributes>
           <FsCustomAttribute name="First name" value="Oliver" />
@@ -763,39 +697,6 @@
           <FsCustomAttribute name="Live" value="" />
         </FsCustomAttributes>
       </FsParticipant>
-      <FsParticipant id="778" name="Tim King" nat_code_3166_a3="gbr" female="0" birthday="1963-10-06" glider="A-I-R ATOS VQ" glider_main_colors="Red/white" sponsor="Kings of Hampshire Ltd BHPA" fai_licence="0" CIVLID="11681">
-        <FsCustomAttributes>
-          <FsCustomAttribute name="First name" value="Tim" />
-          <FsCustomAttribute name="Last name" value="King" />
-          <FsCustomAttribute name="Name in native language" value="Tim King" />
-          <FsCustomAttribute name="Nationality" value="United Kingdom" />
-          <FsCustomAttribute name="Email address" value="kingsofhampshire@yahoo.com" />
-          <FsCustomAttribute name="Country of Residence" value="United Kingdom" />
-          <FsCustomAttribute name="Postal address" value="93 Wavell Way,Winchester,SO22 4EG" />
-          <FsCustomAttribute name="Postal code" value="SO22 4EG" />
-          <FsCustomAttribute name="City" value="Winchester" />
-          <FsCustomAttribute name="Address" value="93 Wavell Way" />
-          <FsCustomAttribute name="Contact phone number" value="+07973706151" />
-          <FsCustomAttribute name="Phone for report back" value="" />
-          <FsCustomAttribute name="Wing Model" value="VQ" />
-          <FsCustomAttribute name="Wing Manufacturer" value="A-I-R ATOS" />
-          <FsCustomAttribute name="Wing certification" value="" />
-          <FsCustomAttribute name="FAI ID" value="19081" />
-          <FsCustomAttribute name="FAI Licence" value="366731" />
-          <FsCustomAttribute name="Nac Licence" value="BHPA/16621" />
-          <FsCustomAttribute name="National Licence" value="11621" />
-          <FsCustomAttribute name="Club" value="Sky surfers" />
-          <FsCustomAttribute name="Team" value="" />
-          <FsCustomAttribute name="T-shirt size" value="L" />
-          <FsCustomAttribute name="Food restriction" value="" />
-          <FsCustomAttribute name="Insurance company" value="Sports cover direct" />
-          <FsCustomAttribute name="Insurance policy" value="444200114950" />
-          <FsCustomAttribute name="Contact person" value="Babs King" />
-          <FsCustomAttribute name="Contact person phone" value="+44966212234" />
-          <FsCustomAttribute name="Blood type" value="I do not know" />
-          <FsCustomAttribute name="Live" value="" />
-        </FsCustomAttributes>
-      </FsParticipant>
       <FsParticipant id="7" name="Tim Swait" nat_code_3166_a3="gbr" female="0" birthday="1982-12-22" glider="Avian Puma" glider_main_colors="Grey" sponsor="Avian Hang Gliders" fai_licence="0" CIVLID="50035">
         <FsCustomAttributes>
           <FsCustomAttribute name="First name" value="Tim" />
@@ -925,39 +826,6 @@
           <FsCustomAttribute name="Contact person" value="Sue Brooks" />
           <FsCustomAttribute name="Contact person phone" value="+447887532166" />
           <FsCustomAttribute name="Blood type" value="I do not know" />
-          <FsCustomAttribute name="Live" value="" />
-        </FsCustomAttributes>
-      </FsParticipant>
-      <FsParticipant id="5632" name="Neil Atkinson" nat_code_3166_a3="gbr" female="0" birthday="1960-03-02" glider="A-I-R ATOS VR" glider_main_colors="Clear" sponsor="Avon" fai_licence="1" CIVLID="21574">
-        <FsCustomAttributes>
-          <FsCustomAttribute name="First name" value="Neil" />
-          <FsCustomAttribute name="Last name" value="Atkinson" />
-          <FsCustomAttribute name="Name in native language" value="Neil Atkinson" />
-          <FsCustomAttribute name="Nationality" value="United Kingdom" />
-          <FsCustomAttribute name="Email address" value="neil.flyhg@gmail.com" />
-          <FsCustomAttribute name="Country of Residence" value="United Kingdom" />
-          <FsCustomAttribute name="Postal address" value="14 Kew walk,Andover,Sp10 3ul" />
-          <FsCustomAttribute name="Postal code" value="Sp10 3ul" />
-          <FsCustomAttribute name="City" value="Andover" />
-          <FsCustomAttribute name="Address" value="14 Kew walk" />
-          <FsCustomAttribute name="Contact phone number" value="+44771859793" />
-          <FsCustomAttribute name="Phone for report back" value="+447710869793" />
-          <FsCustomAttribute name="Wing Model" value="VR" />
-          <FsCustomAttribute name="Wing Manufacturer" value="A-I-R ATOS" />
-          <FsCustomAttribute name="Wing certification" value="" />
-          <FsCustomAttribute name="FAI ID" value="18944" />
-          <FsCustomAttribute name="FAI Licence" value="379595" />
-          <FsCustomAttribute name="Nac Licence" value="BHPA/5632" />
-          <FsCustomAttribute name="National Licence" value="5632" />
-          <FsCustomAttribute name="Club" value="Avon" />
-          <FsCustomAttribute name="Team" value="" />
-          <FsCustomAttribute name="T-shirt size" value="XL" />
-          <FsCustomAttribute name="Food restriction" value="" />
-          <FsCustomAttribute name="Insurance company" value="Sports cover direct" />
-          <FsCustomAttribute name="Insurance policy" value="444200115934" />
-          <FsCustomAttribute name="Contact person" value="Wendy atkinson" />
-          <FsCustomAttribute name="Contact person phone" value="+44751368074" />
-          <FsCustomAttribute name="Blood type" value="O+" />
           <FsCustomAttribute name="Live" value="" />
         </FsCustomAttributes>
       </FsParticipant>
