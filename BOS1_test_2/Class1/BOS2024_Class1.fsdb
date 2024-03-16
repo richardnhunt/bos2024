@@ -37,39 +37,6 @@
           <FsCustomAttribute name="Live" value="" />
         </FsCustomAttributes>
       </FsParticipant>
-      <FsParticipant id="39" name="Anthony Woodley" nat_code_3166_a3="gbr" female="0" birthday="1970-02-28" glider="Aeros Discus C" glider_main_colors="White/Black" sponsor="" fai_licence="0" CIVLID="86258">
-        <FsCustomAttributes>
-          <FsCustomAttribute name="First name" value="Anthony" />
-          <FsCustomAttribute name="Last name" value="Woodley" />
-          <FsCustomAttribute name="Name in native language" value="Anthony Woodley" />
-          <FsCustomAttribute name="Nationality" value="United Kingdom" />
-          <FsCustomAttribute name="Email address" value="anthonywoodley@hotmail.co.uk" />
-          <FsCustomAttribute name="Country of Residence" value="United Kingdom" />
-          <FsCustomAttribute name="Postal address" value="39 Drew Close,Poole,BH12 5ES" />
-          <FsCustomAttribute name="Postal code" value="BH12 5ES" />
-          <FsCustomAttribute name="City" value="Poole" />
-          <FsCustomAttribute name="Address" value="39 Drew Close" />
-          <FsCustomAttribute name="Contact phone number" value="+447835547546" />
-          <FsCustomAttribute name="Phone for report back" value="" />
-          <FsCustomAttribute name="Wing Model" value="Discus C" />
-          <FsCustomAttribute name="Wing Manufacturer" value="Aeros" />
-          <FsCustomAttribute name="Wing certification" value="" />
-          <FsCustomAttribute name="FAI ID" value="" />
-          <FsCustomAttribute name="FAI Licence" value="" />
-          <FsCustomAttribute name="Nac Licence" value="" />
-          <FsCustomAttribute name="National Licence" value="36755" />
-          <FsCustomAttribute name="Club" value="Wessex Hang gliding &amp; Paragliding Club" />
-          <FsCustomAttribute name="Team" value="" />
-          <FsCustomAttribute name="T-shirt size" value="L" />
-          <FsCustomAttribute name="Food restriction" value="" />
-          <FsCustomAttribute name="Insurance company" value="NHS" />
-          <FsCustomAttribute name="Insurance policy" value="123" />
-          <FsCustomAttribute name="Contact person" value="Debbie Woodley" />
-          <FsCustomAttribute name="Contact person phone" value="+447500042320" />
-          <FsCustomAttribute name="Blood type" value="I do not know" />
-          <FsCustomAttribute name="Live" value="" />
-        </FsCustomAttributes>
-      </FsParticipant>
       <FsParticipant id="3042" name="Darren Brown" nat_code_3166_a3="gbr" female="0" birthday="1971-06-11" glider="Moyes Litespeed RX 3.5 Pro" glider_main_colors="Red" sponsor="BHPA" fai_licence="1" CIVLID="25384">
         <FsCustomAttributes>
           <FsCustomAttribute name="First name" value="Darren" />
@@ -99,39 +66,6 @@
           <FsCustomAttribute name="Insurance policy" value="TBA" />
           <FsCustomAttribute name="Contact person" value="Harry Brown" />
           <FsCustomAttribute name="Contact person phone" value="+07887593584" />
-          <FsCustomAttribute name="Blood type" value="I do not know" />
-          <FsCustomAttribute name="Live" value="" />
-        </FsCustomAttributes>
-      </FsParticipant>
-      <FsParticipant id="28" name="Dave Barber" nat_code_3166_a3="gbr" female="0" birthday="1968-06-28" glider="Moyes Litespeed RX 3.5" glider_main_colors="White / Grey" sponsor="Jenny Barber" fai_licence="0" CIVLID="86241">
-        <FsCustomAttributes>
-          <FsCustomAttribute name="First name" value="Dave" />
-          <FsCustomAttribute name="Last name" value="Barber" />
-          <FsCustomAttribute name="Name in native language" value="Dave Barber" />
-          <FsCustomAttribute name="Nationality" value="United Kingdom" />
-          <FsCustomAttribute name="Email address" value="info@davidbarber.co.uk" />
-          <FsCustomAttribute name="Country of Residence" value="United Kingdom" />
-          <FsCustomAttribute name="Postal address" value="3 Swedish Houses, Audlem Road, Hankelow, Crewe, Cheshire, CW30JF" />
-          <FsCustomAttribute name="Postal code" value="" />
-          <FsCustomAttribute name="City" value="" />
-          <FsCustomAttribute name="Address" value="3 Swedish Houses, Audlem Road, Hankelow, Crewe, Cheshire, CW30JF" />
-          <FsCustomAttribute name="Contact phone number" value="+07846045830" />
-          <FsCustomAttribute name="Phone for report back" value="+07846045830" />
-          <FsCustomAttribute name="Wing Model" value="Litespeed RX 3.5" />
-          <FsCustomAttribute name="Wing Manufacturer" value="Moyes" />
-          <FsCustomAttribute name="Wing certification" value="" />
-          <FsCustomAttribute name="FAI ID" value="" />
-          <FsCustomAttribute name="FAI Licence" value="" />
-          <FsCustomAttribute name="Nac Licence" value="" />
-          <FsCustomAttribute name="National Licence" value="" />
-          <FsCustomAttribute name="Club" value="DSC" />
-          <FsCustomAttribute name="Team" value="" />
-          <FsCustomAttribute name="T-shirt size" value="M" />
-          <FsCustomAttribute name="Food restriction" value="" />
-          <FsCustomAttribute name="Insurance company" value="NHS" />
-          <FsCustomAttribute name="Insurance policy" value="NHS" />
-          <FsCustomAttribute name="Contact person" value="Jenny Barber" />
-          <FsCustomAttribute name="Contact person phone" value="+07533519383" />
           <FsCustomAttribute name="Blood type" value="I do not know" />
           <FsCustomAttribute name="Live" value="" />
         </FsCustomAttributes>
@@ -202,39 +136,6 @@
           <FsCustomAttribute name="Live" value="" />
         </FsCustomAttributes>
       </FsParticipant>
-      <FsParticipant id="37275" name="Doug Neil" nat_code_3166_a3="gbr" female="0" birthday="1963-04-23" glider="Avian Puma" glider_main_colors="Red" sponsor="" fai_licence="0" CIVLID="83299">
-        <FsCustomAttributes>
-          <FsCustomAttribute name="First name" value="Doug" />
-          <FsCustomAttribute name="Last name" value="Neil" />
-          <FsCustomAttribute name="Name in native language" value="Doug Neil" />
-          <FsCustomAttribute name="Nationality" value="United Kingdom" />
-          <FsCustomAttribute name="Email address" value="doug01@slashhome.co.uk" />
-          <FsCustomAttribute name="Country of Residence" value="United Kingdom" />
-          <FsCustomAttribute name="Postal address" value="7 Chatsworth Court, Heath Charnock, Chorley, PR6 9SA" />
-          <FsCustomAttribute name="Postal code" value="" />
-          <FsCustomAttribute name="City" value="" />
-          <FsCustomAttribute name="Address" value="7 Chatsworth Court, Heath Charnock, Chorley, PR6 9SA" />
-          <FsCustomAttribute name="Contact phone number" value="+447821627057" />
-          <FsCustomAttribute name="Phone for report back" value="+447821627057" />
-          <FsCustomAttribute name="Wing Model" value="Puma" />
-          <FsCustomAttribute name="Wing Manufacturer" value="Avian" />
-          <FsCustomAttribute name="Wing certification" value="" />
-          <FsCustomAttribute name="FAI ID" value="" />
-          <FsCustomAttribute name="FAI Licence" value="" />
-          <FsCustomAttribute name="Nac Licence" value="" />
-          <FsCustomAttribute name="National Licence" value="37275" />
-          <FsCustomAttribute name="Club" value="Pennine Soaring Club" />
-          <FsCustomAttribute name="Team" value="" />
-          <FsCustomAttribute name="T-shirt size" value="XL" />
-          <FsCustomAttribute name="Food restriction" value="" />
-          <FsCustomAttribute name="Insurance company" value="NHS" />
-          <FsCustomAttribute name="Insurance policy" value="123" />
-          <FsCustomAttribute name="Contact person" value="Sharon Neil" />
-          <FsCustomAttribute name="Contact person phone" value="+447730165651" />
-          <FsCustomAttribute name="Blood type" value="I do not know" />
-          <FsCustomAttribute name="Live" value="" />
-        </FsCustomAttributes>
-      </FsParticipant>
       <FsParticipant id="111" name="Gordon Rigg" nat_code_3166_a3="gbr" female="0" birthday="1962-12-02" glider="Moyes Litespeed RX 3.5 Pro" glider_main_colors="Grey blue  orange" sponsor="British HG &amp; PG Association" fai_licence="0" CIVLID="6433">
         <FsCustomAttributes>
           <FsCustomAttribute name="First name" value="Gordon" />
@@ -298,39 +199,6 @@
           <FsCustomAttribute name="Contact person" value="Louise Emms" />
           <FsCustomAttribute name="Contact person phone" value="+447941008404" />
           <FsCustomAttribute name="Blood type" value="A+" />
-          <FsCustomAttribute name="Live" value="" />
-        </FsCustomAttributes>
-      </FsParticipant>
-      <FsParticipant id="285" name="James Kimberley" nat_code_3166_a3="gbr" female="0" birthday="2000-05-28" glider="Aeros Discus" glider_main_colors="Red" sponsor="" fai_licence="0" CIVLID="87084">
-        <FsCustomAttributes>
-          <FsCustomAttribute name="First name" value="James" />
-          <FsCustomAttribute name="Last name" value="Kimberley" />
-          <FsCustomAttribute name="Name in native language" value="James Kimberley" />
-          <FsCustomAttribute name="Nationality" value="United Kingdom" />
-          <FsCustomAttribute name="Email address" value="james.kimberley@icloud.com" />
-          <FsCustomAttribute name="Country of Residence" value="United Kingdom" />
-          <FsCustomAttribute name="Postal address" value="11 The Grasslands , Rainworth,Nottingham,NG210NP" />
-          <FsCustomAttribute name="Postal code" value="NG210NP" />
-          <FsCustomAttribute name="City" value="Nottingham" />
-          <FsCustomAttribute name="Address" value="11 The Grasslands , Rainworth" />
-          <FsCustomAttribute name="Contact phone number" value="+07807160682" />
-          <FsCustomAttribute name="Phone for report back" value="+07807160682" />
-          <FsCustomAttribute name="Wing Model" value="Discus" />
-          <FsCustomAttribute name="Wing Manufacturer" value="Aeros" />
-          <FsCustomAttribute name="Wing certification" value="" />
-          <FsCustomAttribute name="FAI ID" value="" />
-          <FsCustomAttribute name="FAI Licence" value="" />
-          <FsCustomAttribute name="Nac Licence" value="" />
-          <FsCustomAttribute name="National Licence" value="" />
-          <FsCustomAttribute name="Club" value="" />
-          <FsCustomAttribute name="Team" value="" />
-          <FsCustomAttribute name="T-shirt size" value="L" />
-          <FsCustomAttribute name="Food restriction" value="" />
-          <FsCustomAttribute name="Insurance company" value="Sports cover direct " />
-          <FsCustomAttribute name="Insurance policy" value="444400021688" />
-          <FsCustomAttribute name="Contact person" value="Shaun Kimberley " />
-          <FsCustomAttribute name="Contact person phone" value="+447904995863" />
-          <FsCustomAttribute name="Blood type" value="I do not know" />
           <FsCustomAttribute name="Live" value="" />
         </FsCustomAttributes>
       </FsParticipant>
@@ -400,39 +268,6 @@
           <FsCustomAttribute name="Live" value="" />
         </FsCustomAttributes>
       </FsParticipant>
-      <FsParticipant id="34035" name="Maciej Wolaniecki" nat_code_3166_a3="pol" female="0" birthday="1961-03-30" glider="Wills Wing U2" glider_main_colors="Red, blue, white" sponsor="none" fai_licence="0" CIVLID="86564">
-        <FsCustomAttributes>
-          <FsCustomAttribute name="First name" value="Maciej" />
-          <FsCustomAttribute name="Last name" value="Wolaniecki" />
-          <FsCustomAttribute name="Name in native language" value="Maciej Wolaniecki" />
-          <FsCustomAttribute name="Nationality" value="Poland" />
-          <FsCustomAttribute name="Email address" value="maciej-wolaniecki@wp.pl" />
-          <FsCustomAttribute name="Country of Residence" value="United Kingdom" />
-          <FsCustomAttribute name="Postal address" value="Flat 7 Buckingham Court, Westwood Road,Southampton,SO17 1HD" />
-          <FsCustomAttribute name="Postal code" value="SO17 1HD" />
-          <FsCustomAttribute name="City" value="Southampton" />
-          <FsCustomAttribute name="Address" value="Flat 7 Buckingham Court, Westwood Road" />
-          <FsCustomAttribute name="Contact phone number" value="+447407298190" />
-          <FsCustomAttribute name="Phone for report back" value="" />
-          <FsCustomAttribute name="Wing Model" value="U2" />
-          <FsCustomAttribute name="Wing Manufacturer" value="Wills Wing" />
-          <FsCustomAttribute name="Wing certification" value="" />
-          <FsCustomAttribute name="FAI ID" value="" />
-          <FsCustomAttribute name="FAI Licence" value="" />
-          <FsCustomAttribute name="Nac Licence" value="" />
-          <FsCustomAttribute name="National Licence" value="" />
-          <FsCustomAttribute name="Club" value="Southern Hang Gliding Club" />
-          <FsCustomAttribute name="Team" value="none" />
-          <FsCustomAttribute name="T-shirt size" value="M" />
-          <FsCustomAttribute name="Food restriction" value="none" />
-          <FsCustomAttribute name="Insurance company" value="BHPA" />
-          <FsCustomAttribute name="Insurance policy" value="BHPA" />
-          <FsCustomAttribute name="Contact person" value="Katarzyna Piekarska" />
-          <FsCustomAttribute name="Contact person phone" value="+48793323965" />
-          <FsCustomAttribute name="Blood type" value="A-" />
-          <FsCustomAttribute name="Live" value="" />
-        </FsCustomAttributes>
-      </FsParticipant>
       <FsParticipant id="1" name="Oliver Moffatt" nat_code_3166_a3="gbr" female="0" birthday="1960-04-06" glider="Moyes Litespeed RX 3.5 Pro" glider_main_colors="Grey and orange" sponsor="Mrs Moffatt" fai_licence="0" CIVLID="7288">
         <FsCustomAttributes>
           <FsCustomAttribute name="First name" value="Oliver" />
@@ -499,39 +334,6 @@
           <FsCustomAttribute name="Live" value="" />
         </FsCustomAttributes>
       </FsParticipant>
-      <FsParticipant id="88834" name="Paul Martin" nat_code_3166_a3="gbr" female="0" birthday="1960-09-15" glider="Aeros Discus" glider_main_colors="blue white" sponsor="none" fai_licence="0" CIVLID="88834">
-        <FsCustomAttributes>
-          <FsCustomAttribute name="First name" value="Paul" />
-          <FsCustomAttribute name="Last name" value="Martin" />
-          <FsCustomAttribute name="Name in native language" value="Paul" />
-          <FsCustomAttribute name="Nationality" value="United Kingdom" />
-          <FsCustomAttribute name="Email address" value="kingsbrook28@gmail.com" />
-          <FsCustomAttribute name="Country of Residence" value="United Kingdom" />
-          <FsCustomAttribute name="Postal address" value="Kingsbrook, Ramsey Rd,Huntingdon,PE282NJ" />
-          <FsCustomAttribute name="Postal code" value="PE282NJ" />
-          <FsCustomAttribute name="City" value="Huntingdon" />
-          <FsCustomAttribute name="Address" value="Kingsbrook, Ramsey Rd" />
-          <FsCustomAttribute name="Contact phone number" value="+07935253097" />
-          <FsCustomAttribute name="Phone for report back" value="+01487773242" />
-          <FsCustomAttribute name="Wing Model" value="Discus" />
-          <FsCustomAttribute name="Wing Manufacturer" value="Aeros" />
-          <FsCustomAttribute name="Wing certification" value="" />
-          <FsCustomAttribute name="FAI ID" value="" />
-          <FsCustomAttribute name="FAI Licence" value="" />
-          <FsCustomAttribute name="Nac Licence" value="" />
-          <FsCustomAttribute name="National Licence" value="BHPA number 39674" />
-          <FsCustomAttribute name="Club" value="Cambridge Aerotowing Club" />
-          <FsCustomAttribute name="Team" value="" />
-          <FsCustomAttribute name="T-shirt size" value="XL" />
-          <FsCustomAttribute name="Food restriction" value="vegetarian" />
-          <FsCustomAttribute name="Insurance company" value="BHPA" />
-          <FsCustomAttribute name="Insurance policy" value="BHPA" />
-          <FsCustomAttribute name="Contact person" value="Karen Martin" />
-          <FsCustomAttribute name="Contact person phone" value="+07779954162" />
-          <FsCustomAttribute name="Blood type" value="O+" />
-          <FsCustomAttribute name="Live" value="" />
-        </FsCustomAttributes>
-      </FsParticipant>
       <FsParticipant id="1625" name="Paul Walsh" nat_code_3166_a3="gbr" female="0" birthday="1969-10-07" glider="Avian Fly" glider_main_colors="pink orange white" sponsor="" fai_licence="0" CIVLID="86576">
         <FsCustomAttributes>
           <FsCustomAttribute name="First name" value="Paul" />
@@ -594,39 +396,6 @@
           <FsCustomAttribute name="Insurance policy" value="BHPA" />
           <FsCustomAttribute name="Contact person" value="Jenny Hunt" />
           <FsCustomAttribute name="Contact person phone" value="+447833257775" />
-          <FsCustomAttribute name="Blood type" value="I do not know" />
-          <FsCustomAttribute name="Live" value="" />
-        </FsCustomAttributes>
-      </FsParticipant>
-      <FsParticipant id="999" name="Stephen Newman" nat_code_3166_a3="gbr" female="0" birthday="1958-05-15" glider="Avian Rio2" glider_main_colors="Green" sponsor="" fai_licence="0" CIVLID="83454">
-        <FsCustomAttributes>
-          <FsCustomAttribute name="First name" value="Stephen" />
-          <FsCustomAttribute name="Last name" value="Newman" />
-          <FsCustomAttribute name="Name in native language" value="Stephen Newman" />
-          <FsCustomAttribute name="Nationality" value="United Kingdom" />
-          <FsCustomAttribute name="Email address" value="sgd.newman@sky.com" />
-          <FsCustomAttribute name="Country of Residence" value="United Kingdom" />
-          <FsCustomAttribute name="Postal address" value="12 Sycamore Close,Goole,DN14 9QU" />
-          <FsCustomAttribute name="Postal code" value="DN14 9QU" />
-          <FsCustomAttribute name="City" value="Goole" />
-          <FsCustomAttribute name="Address" value="12 Sycamore Close" />
-          <FsCustomAttribute name="Contact phone number" value="+447999357615" />
-          <FsCustomAttribute name="Phone for report back" value="" />
-          <FsCustomAttribute name="Wing Model" value="Rio2" />
-          <FsCustomAttribute name="Wing Manufacturer" value="Avian" />
-          <FsCustomAttribute name="Wing certification" value="" />
-          <FsCustomAttribute name="FAI ID" value="" />
-          <FsCustomAttribute name="FAI Licence" value="" />
-          <FsCustomAttribute name="Nac Licence" value="" />
-          <FsCustomAttribute name="National Licence" value="BHPA8594" />
-          <FsCustomAttribute name="Club" value="George Cayley Soaring Club" />
-          <FsCustomAttribute name="Team" value="" />
-          <FsCustomAttribute name="T-shirt size" value="L" />
-          <FsCustomAttribute name="Food restriction" value="" />
-          <FsCustomAttribute name="Insurance company" value="NHS" />
-          <FsCustomAttribute name="Insurance policy" value="123" />
-          <FsCustomAttribute name="Contact person" value="Margaret War" />
-          <FsCustomAttribute name="Contact person phone" value="+01405862502" />
           <FsCustomAttribute name="Blood type" value="I do not know" />
           <FsCustomAttribute name="Live" value="" />
         </FsCustomAttributes>
@@ -727,39 +496,6 @@
           <FsCustomAttribute name="Contact person" value="Joyce Swait" />
           <FsCustomAttribute name="Contact person phone" value="+447942689389" />
           <FsCustomAttribute name="Blood type" value="I do not know" />
-          <FsCustomAttribute name="Live" value="" />
-        </FsCustomAttributes>
-      </FsParticipant>
-      <FsParticipant id="66" name="Torquil Clyde" nat_code_3166_a3="gbr" female="0" birthday="1966-11-18" glider="Moyes Gecko 155" glider_main_colors="Blue, Orange" sponsor="" fai_licence="0" CIVLID="86544">
-        <FsCustomAttributes>
-          <FsCustomAttribute name="First name" value="Torquil" />
-          <FsCustomAttribute name="Last name" value="Clyde" />
-          <FsCustomAttribute name="Name in native language" value="Torquil Clyde" />
-          <FsCustomAttribute name="Nationality" value="United Kingdom" />
-          <FsCustomAttribute name="Email address" value="torquil@skirlo.scot" />
-          <FsCustomAttribute name="Country of Residence" value="United Kingdom" />
-          <FsCustomAttribute name="Postal address" value="Skirlo, Bearstone Road,Kirkwall,KW151SZ" />
-          <FsCustomAttribute name="Postal code" value="KW151SZ" />
-          <FsCustomAttribute name="City" value="Kirkwall" />
-          <FsCustomAttribute name="Address" value="Skirlo, Bearstone Road" />
-          <FsCustomAttribute name="Contact phone number" value="+447802918941" />
-          <FsCustomAttribute name="Phone for report back" value="" />
-          <FsCustomAttribute name="Wing Model" value="Gecko 155" />
-          <FsCustomAttribute name="Wing Manufacturer" value="Moyes" />
-          <FsCustomAttribute name="Wing certification" value="" />
-          <FsCustomAttribute name="FAI ID" value="" />
-          <FsCustomAttribute name="FAI Licence" value="" />
-          <FsCustomAttribute name="Nac Licence" value="" />
-          <FsCustomAttribute name="National Licence" value="40233" />
-          <FsCustomAttribute name="Club" value="Scottish Hang Gliding" />
-          <FsCustomAttribute name="Team" value="" />
-          <FsCustomAttribute name="T-shirt size" value="M" />
-          <FsCustomAttribute name="Food restriction" value="" />
-          <FsCustomAttribute name="Insurance company" value="BHPA" />
-          <FsCustomAttribute name="Insurance policy" value="BHPA" />
-          <FsCustomAttribute name="Contact person" value="Beccy May" />
-          <FsCustomAttribute name="Contact person phone" value="+447834031760" />
-          <FsCustomAttribute name="Blood type" value="O+" />
           <FsCustomAttribute name="Live" value="" />
         </FsCustomAttributes>
       </FsParticipant>
